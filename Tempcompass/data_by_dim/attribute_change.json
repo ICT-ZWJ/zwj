@@ -1,0 +1,2306 @@
+[
+  {
+    "video_id": "1059718130",
+    "question": "What is happening to the video's brightness?\nA. getting darker\nB. staying the same\nC. turning brighter",
+    "answer": "C. turning brighter",
+    "dim": "attribute_change",
+    "question_length": 102,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130",
+    "question": "How is the attribute of brightness changing?\nA. remaining stable\nB. increasing\nC. decreasing",
+    "answer": "B. increasing",
+    "dim": "attribute_change",
+    "question_length": 92,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130",
+    "question": "What transformation is occurring in the brightness of the video?\nA. remaining constant\nB. brightening\nC. dimming",
+    "answer": "B. brightening",
+    "dim": "attribute_change",
+    "question_length": 112,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130_reverse",
+    "question": "What is happening to the video's brightness?\nA. getting darker\nB. staying the same\nC. turning brighter",
+    "answer": "A. getting darker",
+    "dim": "attribute_change",
+    "question_length": 102,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130_reverse",
+    "question": "How is the attribute of brightness changing?\nA. remaining stable\nB. increasing\nC. decreasing",
+    "answer": "C. decreasing",
+    "dim": "attribute_change",
+    "question_length": 92,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130_reverse",
+    "question": "What transformation is occurring in the brightness of the video?\nA. remaining constant\nB. brightening\nC. dimming",
+    "answer": "C. dimming",
+    "dim": "attribute_change",
+    "question_length": 112,
+    "num_options": 3
+  },
+  {
+    "video_id": "1050618460",
+    "question": "What is happening to the flowers?\nA. turning into buds\nB. shrinking and wilting\nC. turning into full bloom\nD. remaining as buds",
+    "answer": "C. turning into full bloom",
+    "dim": "attribute_change",
+    "question_length": 127,
+    "num_options": 4
+  },
+  {
+    "video_id": "1050618460",
+    "question": "How do the flowers transform?\nA. from stem to leaf\nB. from full bloom to bud\nC. from seed to germination\nD. from bud to full bloom",
+    "answer": "D. from bud to full bloom",
+    "dim": "attribute_change",
+    "question_length": 130,
+    "num_options": 4
+  },
+  {
+    "video_id": "1050618460",
+    "question": "What happens when the flowers go through the attribute_change?\nA. reaching full maturity\nB. shedding leaves\nC. sprouting more buds\nD. shrinking into buds",
+    "answer": "A. reaching full maturity",
+    "dim": "attribute_change",
+    "question_length": 153,
+    "num_options": 4
+  },
+  {
+    "video_id": "1083113449",
+    "question": "How would you describe the change in the sky's appearance?\nA. lightening up\nB. maintaining its brightness\nC. getting darker",
+    "answer": "C. getting darker",
+    "dim": "attribute_change",
+    "question_length": 123,
+    "num_options": 3
+  },
+  {
+    "video_id": "1083113449",
+    "question": "What is occurring to the sky?\nA. staying the same\nB. getting darker\nC. brightening",
+    "answer": "B. getting darker",
+    "dim": "attribute_change",
+    "question_length": 82,
+    "num_options": 3
+  },
+  {
+    "video_id": "1083113449",
+    "question": "In terms of illumination, what is happening to the sky?\nA. becoming brighter\nB. growing dimmer\nC. remaining unchanged",
+    "answer": "B. growing dimmer",
+    "dim": "attribute_change",
+    "question_length": 117,
+    "num_options": 3
+  },
+  {
+    "video_id": "1091143117",
+    "question": "What is happening to the eye?\nA. from closed to open\nB. turning red\nC. becoming blurry\nD. from open to closed",
+    "answer": "A. from closed to open",
+    "dim": "attribute_change",
+    "question_length": 109,
+    "num_options": 4
+  },
+  {
+    "video_id": "1091143117",
+    "question": "How is the eye changing?\nA. changing color\nB. from closed to open\nC. becoming smaller\nD. from open to closed",
+    "answer": "B. from closed to open",
+    "dim": "attribute_change",
+    "question_length": 108,
+    "num_options": 4
+  },
+  {
+    "video_id": "1091143117",
+    "question": "What transformation is occurring in the eye?\nA. from open to closed\nB. shrinking\nC. from closed to open\nD. blinking",
+    "answer": "C. from closed to open",
+    "dim": "attribute_change",
+    "question_length": 115,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098153561",
+    "question": "What is happening to the leaves?\nA. changing shape\nB. falling off\nC. changing color from green to red\nD. changing color from red to green",
+    "answer": "C. changing color from green to red",
+    "dim": "attribute_change",
+    "question_length": 137,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098153561",
+    "question": "What is the initial color of the leaves?\nA. red\nB. white\nC. green",
+    "answer": "C. green",
+    "dim": "attribute_change",
+    "question_length": 65,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098153561",
+    "question": "What is the final color of the leaves?\nA. white\nB. red\nC. green",
+    "answer": "B. red",
+    "dim": "attribute_change",
+    "question_length": 63,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059072773",
+    "question": "What is happening to the ice cream?\nA. melting\nB. freezing\nC. evaporating\nD. solidifying",
+    "answer": "A. melting",
+    "dim": "attribute_change",
+    "question_length": 88,
+    "num_options": 4
+  },
+  {
+    "video_id": "1059072773",
+    "question": "How is the ice cream changing?\nA. changing color\nB. being eaten out\nC. turning into liquid\nD. solidifying into a ball",
+    "answer": "C. turning into liquid",
+    "dim": "attribute_change",
+    "question_length": 117,
+    "num_options": 4
+  },
+  {
+    "video_id": "1059072773",
+    "question": "Which term best describes the state change of the ice cream?\nA. evaporation\nB. solidifying\nC. melting",
+    "answer": "C. melting",
+    "dim": "attribute_change",
+    "question_length": 101,
+    "num_options": 3
+  },
+  {
+    "video_id": "1093573255",
+    "question": "What is happening to the plant?\nA. wilting\nB. reviving\nC. shedding leaves\nD. turning into buds",
+    "answer": "B. reviving",
+    "dim": "attribute_change",
+    "question_length": 94,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093573255",
+    "question": "How is the plant changing?\nA. withering away\nB. turning yellow\nC. reviving\nD. blooming",
+    "answer": "C. reviving",
+    "dim": "attribute_change",
+    "question_length": 86,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093573255",
+    "question": "In what way is the plant transforming?\nA. wilting\nB. rotting\nC. reviving\nD. shedding leaves",
+    "answer": "C. reviving",
+    "dim": "attribute_change",
+    "question_length": 91,
+    "num_options": 4
+  },
+  {
+    "video_id": "1077146132",
+    "question": "What is happening to the video?\nA. staying the same brightness\nB. turning darker\nC. turning brighter",
+    "answer": "C. turning brighter",
+    "dim": "attribute_change",
+    "question_length": 100,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077146132",
+    "question": "How does the video change in terms of brightness?\nA. decreasing\nB. remaining constant\nC. increasing",
+    "answer": "C. increasing",
+    "dim": "attribute_change",
+    "question_length": 99,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077146132",
+    "question": "What is occurring with the video's attribute?\nA. maintaining steady brightness\nB. getting brighter\nC. getting dimmer",
+    "answer": "B. getting brighter",
+    "dim": "attribute_change",
+    "question_length": 116,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086688682",
+    "question": "What change is happening to the traffic lights?\nA. From red to green\nB. From red to yellow\nC. From yellow to red\nD. From green to red",
+    "answer": "A. From red to green",
+    "dim": "attribute_change",
+    "question_length": 133,
+    "num_options": 4
+  },
+  {
+    "video_id": "1086688682",
+    "question": "What is the attribute change occurring to the traffic lights?\nA. Changing color sequence\nB. Dimming brightness\nC. Switching off\nD. Blinking rapidly",
+    "answer": "A. Changing color sequence",
+    "dim": "attribute_change",
+    "question_length": 147,
+    "num_options": 4
+  },
+  {
+    "video_id": "1086688682",
+    "question": "What alteration is taking place to the traffic lights?\nA. Transitioning from yellow to green\nB. Transitioning from green to yellow\nC. Transitioning from red to green\nD. Transitioning from green to red",
+    "answer": "C. Transitioning from red to green",
+    "dim": "attribute_change",
+    "question_length": 200,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099984801",
+    "question": "What is happening to the entire video?\nA. staying the same\nB. getting darker\nC. getting brighter",
+    "answer": "B. getting darker",
+    "dim": "attribute_change",
+    "question_length": 96,
+    "num_options": 3
+  },
+  {
+    "video_id": "1099984801",
+    "question": "What change is occurring to the light condition of the video?\nA. getting darker\nB. remaining stable\nC. getting brighter",
+    "answer": "A. getting darker",
+    "dim": "attribute_change",
+    "question_length": 119,
+    "num_options": 3
+  },
+  {
+    "video_id": "1099984801",
+    "question": "Which of the following best describes the change in the entire video?\nA. getting darker\nB. getting blurry\nC. turning brighter",
+    "answer": "A. getting darker",
+    "dim": "attribute_change",
+    "question_length": 125,
+    "num_options": 3
+  },
+  {
+    "video_id": "1099738787",
+    "question": "What is happening to the concrete wall?\nA. melting\nB. falling apart\nC. assembling together",
+    "answer": "B. falling apart",
+    "dim": "attribute_change",
+    "question_length": 90,
+    "num_options": 3
+  },
+  {
+    "video_id": "1099738787",
+    "question": "What is the attribute change of the concrete wall?\nA. rebuilding\nB. shrinking\nC. disappearing\nD. falling apart",
+    "answer": "D. falling apart",
+    "dim": "attribute_change",
+    "question_length": 110,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099738787",
+    "question": "In what state is the concrete wall?\nA. expanding\nB. assembling together\nC. falling apart\nD. intact",
+    "answer": "C. falling apart",
+    "dim": "attribute_change",
+    "question_length": 98,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094219575",
+    "question": "What is happening to the flowers?\nA. growing taller\nB. changing color\nC. blooming\nD. wilting",
+    "answer": "D. wilting",
+    "dim": "attribute_change",
+    "question_length": 92,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094219575",
+    "question": "What is the condition of the flowers?\nA. decaying\nB. dormant\nC. budding\nD. blooming",
+    "answer": "A. decaying",
+    "dim": "attribute_change",
+    "question_length": 83,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094219575",
+    "question": "What is the transformation occurring to the flowers?\nA. reproducing through seeds\nB. changing from withered to full blossom\nC. changing from full blossom to withered\nD. sprouting new buds",
+    "answer": "C. changing from full blossom to withered",
+    "dim": "attribute_change",
+    "question_length": 187,
+    "num_options": 4
+  },
+  {
+    "video_id": "1067427023",
+    "question": "Which term best describes the transformation happening to the snow particles?\nA. solidifying\nB. melting\nC. scattering",
+    "answer": "B. melting",
+    "dim": "attribute_change",
+    "question_length": 117,
+    "num_options": 3
+  },
+  {
+    "video_id": "1067427023",
+    "question": "What change is occurring to the snow particles?\nA. remaining the same\nB. growing in size\nC. decreasing in size",
+    "answer": "C. decreasing in size",
+    "dim": "attribute_change",
+    "question_length": 110,
+    "num_options": 3
+  },
+  {
+    "video_id": "1067427023",
+    "question": "In the given scenario, what is the primary attribute change experienced by the snow particles?\nA. freezing\nB. melting\nC. scattering",
+    "answer": "B. melting",
+    "dim": "attribute_change",
+    "question_length": 131,
+    "num_options": 3
+  },
+  {
+    "video_id": "1093948229",
+    "question": "What is happening to the golden particles?\nA. melting\nB. shrinking\nC. spinning\nD. exploding",
+    "answer": "D. exploding",
+    "dim": "attribute_change",
+    "question_length": 91,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093948229",
+    "question": "Which of the following best describes the change in the attribute of the golden particles?\nA. freezing\nB. exploding\nC. melting\nD. shrinking",
+    "answer": "B. exploding",
+    "dim": "attribute_change",
+    "question_length": 139,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093948229",
+    "question": "Which word below represents the transformation taking place on the golden particles?\nA. contracting\nB. melting\nC. exploding\nD. condensing",
+    "answer": "C. exploding",
+    "dim": "attribute_change",
+    "question_length": 137,
+    "num_options": 4
+  },
+  {
+    "video_id": "1049965795",
+    "question": "What is happening to the light bulb?\nA. turning off\nB. breaking\nC. light up\nD. rapidly changing color",
+    "answer": "C. light up",
+    "dim": "attribute_change",
+    "question_length": 101,
+    "num_options": 4
+  },
+  {
+    "video_id": "1049965795",
+    "question": "What change occurs in the light bulb?\nA. becoming darker\nB. getting smaller\nC. light up\nD. flickering",
+    "answer": "C. light up",
+    "dim": "attribute_change",
+    "question_length": 101,
+    "num_options": 4
+  },
+  {
+    "video_id": "1049965795",
+    "question": "What alteration takes place in the light bulb?\nA. rusting\nB. turn off\nC. crackling\nD. light up",
+    "answer": "D. light up",
+    "dim": "attribute_change",
+    "question_length": 94,
+    "num_options": 4
+  },
+  {
+    "video_id": "1052364490",
+    "question": "What is happening to the digital bar chart?\nA. staying in the same size\nB. increasing\nC. decreasing",
+    "answer": "B. increasing",
+    "dim": "attribute_change",
+    "question_length": 99,
+    "num_options": 3
+  },
+  {
+    "video_id": "1052364490",
+    "question": "The digital bar chart is experiencing what kind of change?\nA. decreasing\nB. growing\nC. fluctuating",
+    "answer": "B. growing",
+    "dim": "attribute_change",
+    "question_length": 98,
+    "num_options": 3
+  },
+  {
+    "video_id": "1052364490",
+    "question": "What alteration is taking place to the digital bar chart?\nA. levelling out\nB. growing\nC. disappearing",
+    "answer": "B. growing",
+    "dim": "attribute_change",
+    "question_length": 101,
+    "num_options": 3
+  },
+  {
+    "video_id": "1080990179",
+    "question": "What is happening to the apple?\nA. being cut\nB. shrinking and drying out\nC. growing bigger",
+    "answer": "B. shrinking and drying out",
+    "dim": "attribute_change",
+    "question_length": 90,
+    "num_options": 3
+  },
+  {
+    "video_id": "1080990179",
+    "question": "How is the apple changing?\nA. getting smaller\nB. remaining in the same shape\nC. getting bigger",
+    "answer": "A. getting smaller",
+    "dim": "attribute_change",
+    "question_length": 94,
+    "num_options": 3
+  },
+  {
+    "video_id": "1080990179",
+    "question": "What is the change in the apple's attributes?\nA. swelling and becoming juicy\nB. shrinking and drying out\nC. being cut and getting smaller",
+    "answer": "B. shrinking and drying out",
+    "dim": "attribute_change",
+    "question_length": 137,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077575504",
+    "question": "What is happening to the pile of salt?\nA. scattering\nB. growing\nC. melting\nD. disappearing",
+    "answer": "B. growing",
+    "dim": "attribute_change",
+    "question_length": 90,
+    "num_options": 4
+  },
+  {
+    "video_id": "1077575504",
+    "question": "Which one of the following is an attribute change happening to the pile of salt?\nA. shrinking\nB. growing\nC. burning\nD. dissolving",
+    "answer": "B. growing",
+    "dim": "attribute_change",
+    "question_length": 129,
+    "num_options": 4
+  },
+  {
+    "video_id": "1077575504",
+    "question": "How is the pile of salt changing?\nA. melting\nB. unchanged\nC. growing bigger\nD. becoming smaller",
+    "answer": "C. growing bigger",
+    "dim": "attribute_change",
+    "question_length": 95,
+    "num_options": 4
+  },
+  {
+    "video_id": "23370985",
+    "question": "What is happening to the ice crystal?\nA. freezing\nB. melting\nC. shattering",
+    "answer": "A. freezing",
+    "dim": "attribute_change",
+    "question_length": 74,
+    "num_options": 3
+  },
+  {
+    "video_id": "23370985",
+    "question": "What process is occurring with the ice crystal?\nA. reducing in size\nB. turning into water\nC. growing in size\nD. remaining the same",
+    "answer": "C. growing in size",
+    "dim": "attribute_change",
+    "question_length": 130,
+    "num_options": 4
+  },
+  {
+    "video_id": "23370985",
+    "question": "What transformation is taking place in the ice crystal?\nA. cracking\nB. unchanged\nC. melting\nD. forming",
+    "answer": "D. forming",
+    "dim": "attribute_change",
+    "question_length": 102,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100468035",
+    "question": "What is happening to the door?\nA. remaining closed\nB. closing\nC. gradually opening",
+    "answer": "C. gradually opening",
+    "dim": "attribute_change",
+    "question_length": 82,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100468035",
+    "question": "How is the door changing?\nA. by gradually opening\nB. by shrinking\nC. by staying the same\nD. by gradually closing",
+    "answer": "A. by gradually opening",
+    "dim": "attribute_change",
+    "question_length": 112,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100468035",
+    "question": "What option best describes the change of the door?\nA. opening\nB. staying closed\nC. staying half-opened\nD. closing",
+    "answer": "A. opening",
+    "dim": "attribute_change",
+    "question_length": 113,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055981522",
+    "question": "What is happening to the 3d shapes?\nA. disappearing\nB. turning into triangles\nC. turning into spheres\nD. turning into cubes",
+    "answer": "C. turning into spheres",
+    "dim": "attribute_change",
+    "question_length": 123,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055981522",
+    "question": "What is the attribute change of the 3d shapes?\nA. transforming from cubes into spheres\nB. transforming from spheres into cubes\nC. remaining as cubes\nD. remaining as spheres",
+    "answer": "A. transforming from cubes into spheres",
+    "dim": "attribute_change",
+    "question_length": 172,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055981522",
+    "question": "Which shape are the 3d shapes transforming into?\nA. cubes\nB. triangles\nC. spheres\nD. pentagons",
+    "answer": "C. spheres",
+    "dim": "attribute_change",
+    "question_length": 94,
+    "num_options": 4
+  },
+  {
+    "video_id": "1081734740",
+    "question": "What is happening to the texture of the leaf?\nA. It is turning from green to yellow\nB. It is turning from white to green\nC. It is turning from green to white\nD. It is turning from yellow to green",
+    "answer": "A. It is turning from green to yellow",
+    "dim": "attribute_change",
+    "question_length": 195,
+    "num_options": 4
+  },
+  {
+    "video_id": "1081734740",
+    "question": "What color is the leaf turning into?\nA. White\nB. Green\nC. Yellow",
+    "answer": "C. Yellow",
+    "dim": "attribute_change",
+    "question_length": 64,
+    "num_options": 3
+  },
+  {
+    "video_id": "1081734740",
+    "question": "What change is occurring in the leaf?\nA. It is getting smaller\nB. It is becoming white\nC. It is becoming yellow\nD. It is becoming green",
+    "answer": "C. It is becoming yellow",
+    "dim": "attribute_change",
+    "question_length": 135,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093719871",
+    "question": "What is happening to the pink flowers?\nA. growing taller\nB. falling off petals\nC. turning from withered to full blossom\nD. turning from full blossom to withered",
+    "answer": "C. turning from withered to full blossom",
+    "dim": "attribute_change",
+    "question_length": 160,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093719871",
+    "question": "How are the pink flowers transforming?\nA. from small buds to big flowers\nB. from full blossom to withered\nC. from half-open to closed\nD. from withered to full blossom",
+    "answer": "D. from withered to full blossom",
+    "dim": "attribute_change",
+    "question_length": 166,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093719871",
+    "question": "What is the final appearance of the pink flowers?\nA. small buds\nB. died petals\nC. fresh leaves\nD. fully bloomed",
+    "answer": "D. fully bloomed",
+    "dim": "attribute_change",
+    "question_length": 111,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093139559",
+    "question": "What is happening to the light condition on the football players?\nA. staying the same\nB. turning darker\nC. turning brighter",
+    "answer": "C. turning brighter",
+    "dim": "attribute_change",
+    "question_length": 123,
+    "num_options": 3
+  },
+  {
+    "video_id": "1093139559",
+    "question": "How would you describe the change in light on the football players?\nA. dimming\nB. flickering\nC. intensifying",
+    "answer": "C. intensifying",
+    "dim": "attribute_change",
+    "question_length": 108,
+    "num_options": 3
+  },
+  {
+    "video_id": "1093139559",
+    "question": "Which statement accurately describes the change on the football players?\nA. becoming blurry\nB. becoming more visible\nC. becoming dimmer",
+    "answer": "B. becoming more visible",
+    "dim": "attribute_change",
+    "question_length": 135,
+    "num_options": 3
+  },
+  {
+    "video_id": "1055973887",
+    "question": "What is happening to the fire ball? \nA. staying the same size\nB. getting smaller\nC. getting larger",
+    "answer": "C. getting larger",
+    "dim": "attribute_change",
+    "question_length": 98,
+    "num_options": 3
+  },
+  {
+    "video_id": "1055973887",
+    "question": "How is the fire ball changing? \nA. splitting in half\nB. expanding out\nC. contracting into the center",
+    "answer": "B. expanding out",
+    "dim": "attribute_change",
+    "question_length": 100,
+    "num_options": 3
+  },
+  {
+    "video_id": "1055973887",
+    "question": "In what way is the fire ball transforming? \nA. changing into a cube size\nB. shrinking in size\nC. growing in size",
+    "answer": "C. growing in size",
+    "dim": "attribute_change",
+    "question_length": 112,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098710341",
+    "question": "What is happening to the glass?\nA. It is changing color\nB. It is going from full of water to empty\nC. It is going from empty to full of water\nD. It is transforming into a different shape",
+    "answer": "C. It is going from empty to full of water",
+    "dim": "attribute_change",
+    "question_length": 186,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098710341",
+    "question": "What is the final state of the glass?\nA. It is broken into pieces\nB. It is about 70% full with water\nC. It is half full with water\nD. It is empty",
+    "answer": "B. It is about 70% full with water",
+    "dim": "attribute_change",
+    "question_length": 145,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098710341",
+    "question": "In whay way is the glass changing?\nA. Water was disappearing from the glass\nB. The glass was heated\nC. Water was poured into the glass\nD. A chemical reaction occurred in the glass",
+    "answer": "C. Water was poured into the glass",
+    "dim": "attribute_change",
+    "question_length": 179,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099116143",
+    "question": "What is happening to the pink liquid?\nA. White foam disappears from the surface\nB. White foam appears on the surface\nC. It is freezing\nD. It is evaporating",
+    "answer": "B. White foam appears on the surface",
+    "dim": "attribute_change",
+    "question_length": 155,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099116143",
+    "question": "What can be observed visually on the pink liquid?\nA. White foam appears on the surface\nB. The liquid is turning transparent\nC. White foam disappears from the surface",
+    "answer": "A. White foam appears on the surface",
+    "dim": "attribute_change",
+    "question_length": 165,
+    "num_options": 3
+  },
+  {
+    "video_id": "1099116143",
+    "question": "How is the appearance of the pink liquid affected?\nA. White foam appears on the surface\nB. It becomes blue\nC. White foam disappears from the surface\nD. It becomes green",
+    "answer": "A. White foam appears on the surface",
+    "dim": "attribute_change",
+    "question_length": 168,
+    "num_options": 4
+  },
+  {
+    "video_id": "1025623079",
+    "question": "What is happening to the skyscraper?\nA. lighting up\nB. growing taller\nC. in construction\nD. collapsing",
+    "answer": "D. collapsing",
+    "dim": "attribute_change",
+    "question_length": 102,
+    "num_options": 4
+  },
+  {
+    "video_id": "1025623079",
+    "question": "What is the condition of the skyscraper?\nA. in construction\nB. collapsing\nC. being eracted\nD. burning in fire",
+    "answer": "B. collapsing",
+    "dim": "attribute_change",
+    "question_length": 109,
+    "num_options": 4
+  },
+  {
+    "video_id": "1025623079",
+    "question": "What change is occurring with the skyscraper?\nA. burning in fire\nB. collapsing\nC. standing up\nD. turning darker",
+    "answer": "B. collapsing",
+    "dim": "attribute_change",
+    "question_length": 111,
+    "num_options": 4
+  },
+  {
+    "video_id": "1063373449",
+    "question": "What is happening to the coronavirus?\nA. replicating itself\nB. mutating into a new strain\nC. assembling together\nD. dissolving under the attack of antibodies",
+    "answer": "D. dissolving under the attack of antibodies",
+    "dim": "attribute_change",
+    "question_length": 157,
+    "num_options": 4
+  },
+  {
+    "video_id": "1063373449",
+    "question": "How is the coronavirus responding to antibodies?\nA. replicating itself\nB. dissolving under their attack\nC. avoiding them by hiding in cells\nD. assembling together",
+    "answer": "B. dissolving under their attack",
+    "dim": "attribute_change",
+    "question_length": 162,
+    "num_options": 4
+  },
+  {
+    "video_id": "1063373449",
+    "question": "What occurs to the coronavirus?\nA. it assembles together\nB. it grows larger\nC. it dissolves\nD. it replicates",
+    "answer": "C. it dissolves",
+    "dim": "attribute_change",
+    "question_length": 108,
+    "num_options": 4
+  },
+  {
+    "video_id": "1062609286",
+    "question": "What is happening to the battery charge?\nA. decreasing\nB. staying constant\nC. increasing",
+    "answer": "C. increasing",
+    "dim": "attribute_change",
+    "question_length": 88,
+    "num_options": 3
+  },
+  {
+    "video_id": "1062609286",
+    "question": "How is the battery charge changing?\nA. increasing\nB. random\nC. decreasing",
+    "answer": "A. increasing",
+    "dim": "attribute_change",
+    "question_length": 73,
+    "num_options": 3
+  },
+  {
+    "video_id": "1062609286",
+    "question": "Which option describes the change of the battery charge?\nA. decreasing\nB. increasing\nC. staying the same",
+    "answer": "B. increasing",
+    "dim": "attribute_change",
+    "question_length": 104,
+    "num_options": 3
+  },
+  {
+    "video_id": "1060403198",
+    "question": "What is happening to the tree?\nA. increasing height\nB. decreasing height\nC. shedding leaves\nD. changing color",
+    "answer": "A. increasing height",
+    "dim": "attribute_change",
+    "question_length": 109,
+    "num_options": 4
+  },
+  {
+    "video_id": "1060403198",
+    "question": "Which attribute of the tree is undergoing a transformation?\nA. position\nB. height\nC. color",
+    "answer": "B. height",
+    "dim": "attribute_change",
+    "question_length": 90,
+    "num_options": 3
+  },
+  {
+    "video_id": "1060403198",
+    "question": "What term can be used to describe the change happening to the tree?\nA. wilting\nB. growing in size\nC. falling down\nD. reducing in size",
+    "answer": "B. growing in size",
+    "dim": "attribute_change",
+    "question_length": 133,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099109715",
+    "question": "What is happening to the number of fruits and vegetables?\nA. becoming rotten\nB. increasing\nC. decreasing\nD. staying the same",
+    "answer": "B. increasing",
+    "dim": "attribute_change",
+    "question_length": 124,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099109715",
+    "question": "How would you describe the change to the fruits and vegetables?\nA. disappearing\nB. increasing number\nC. staying the same\nD. decaying",
+    "answer": "B. increasing number",
+    "dim": "attribute_change",
+    "question_length": 132,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099109715",
+    "question": "Which is the most accurate statement about the number of fruits and vegetables?\nA. It is getting bigger.\nB. It is getting smaller.\nC. It is changing sporadically.\nD. It is remaining constant.",
+    "answer": "A. It is getting bigger.",
+    "dim": "attribute_change",
+    "question_length": 191,
+    "num_options": 4
+  },
+  {
+    "video_id": "1051211272",
+    "question": "What is happening to the toast with cream cheese?\nA. gradually reappearing piece by piece\nB. staying the same size\nC. gradually being eaten out and disappearing",
+    "answer": "C. gradually being eaten out and disappearing",
+    "dim": "attribute_change",
+    "question_length": 160,
+    "num_options": 3
+  },
+  {
+    "video_id": "1051211272",
+    "question": "What alteration is taking place with the cream cheese-covered toast?\nA. Gradually emerging piece by piece\nB. Remaining constant in size\nC. Slowly diminishing as it is consumed",
+    "answer": "C. Slowly diminishing as it is consumed",
+    "dim": "attribute_change",
+    "question_length": 175,
+    "num_options": 3
+  },
+  {
+    "video_id": "1051211272",
+    "question": "What is the outcome of the toast with cream cheese?\nA. it gradually reappears piece by piece\nB. it gradually disappears piece by piece\nC. it gradually spoils",
+    "answer": "B. it gradually disappears piece by piece",
+    "dim": "attribute_change",
+    "question_length": 157,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059815936",
+    "question": "What is happening to the paper?\nA. changing from a wrinkled paper ball into a flattened sheet\nB. changing from a flattened sheet into scraps of paper\nC. changing from a flattened sheet into a wrinkled paper ball",
+    "answer": "A. changing from a wrinkled paper ball into a flattened sheet",
+    "dim": "attribute_change",
+    "question_length": 211,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059815936",
+    "question": "How does the paper transform?\nA. crumpling into a ball\nB. tearing apart\nC. unfolding",
+    "answer": "C. unfolding",
+    "dim": "attribute_change",
+    "question_length": 84,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059815936",
+    "question": "What is the main change occurring in the paper?\nA. changing teared apart\nB. being folded\nC. being flattened out",
+    "answer": "C. being flattened out",
+    "dim": "attribute_change",
+    "question_length": 111,
+    "num_options": 3
+  },
+  {
+    "video_id": "1099984801_reverse",
+    "question": "What is happening to the entire video?\nA. staying the same\nB. getting darker\nC. getting brighter",
+    "answer": "C. getting brighter",
+    "dim": "attribute_change",
+    "question_length": 96,
+    "num_options": 3
+  },
+  {
+    "video_id": "1099984801_reverse",
+    "question": "What change is occurring to the light condition of the video?\nA. getting darker\nB. remaining stable\nC. getting brighter",
+    "answer": "C. getting brighter",
+    "dim": "attribute_change",
+    "question_length": 119,
+    "num_options": 3
+  },
+  {
+    "video_id": "1099984801_reverse",
+    "question": "Which of the following best describes the change in the entire video?\nA. getting darker\nB. getting blurry\nC. turning brighter",
+    "answer": "C. turning brighter",
+    "dim": "attribute_change",
+    "question_length": 125,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100468035_reverse",
+    "question": "What is happening to the door?\nA. remaining closed\nB. closing\nC. gradually opening",
+    "answer": "B. closing",
+    "dim": "attribute_change",
+    "question_length": 82,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100468035_reverse",
+    "question": "How is the door changing?\nA. by gradually opening\nB. by shrinking\nC. by staying the same\nD. by gradually closing",
+    "answer": "D. by gradually closing",
+    "dim": "attribute_change",
+    "question_length": 112,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100468035_reverse",
+    "question": "What option best describes the change of the door?\nA. opening\nB. staying closed\nC. staying half-opened\nD. closing",
+    "answer": "D. closing",
+    "dim": "attribute_change",
+    "question_length": 113,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093139559_reverse",
+    "question": "What is happening to the light condition on the football players?\nA. staying the same\nB. turning darker\nC. turning brighter",
+    "answer": "B. turning darker",
+    "dim": "attribute_change",
+    "question_length": 123,
+    "num_options": 3
+  },
+  {
+    "video_id": "1093139559_reverse",
+    "question": "How would you describe the change in light on the football players?\nA. dimming\nB. flickering\nC. intensifying",
+    "answer": "A. dimming",
+    "dim": "attribute_change",
+    "question_length": 108,
+    "num_options": 3
+  },
+  {
+    "video_id": "1093139559_reverse",
+    "question": "Which statement accurately describes the change on the football players?\nA. becoming blurry\nB. becoming more visible\nC. becoming dimmer",
+    "answer": "C. becoming dimmer",
+    "dim": "attribute_change",
+    "question_length": 135,
+    "num_options": 3
+  },
+  {
+    "video_id": "1050618460_reverse",
+    "question": "What is happening to the flowers?\nA. turning into buds\nB. shrinking and wilting\nC. turning into full bloom\nD. remaining as buds",
+    "answer": "A. turning into buds",
+    "dim": "attribute_change",
+    "question_length": 127,
+    "num_options": 4
+  },
+  {
+    "video_id": "1050618460_reverse",
+    "question": "How do the flowers transform?\nA. from stem to leaf\nB. from full bloom to bud\nC. from seed to germination\nD. from bud to full bloom",
+    "answer": "B. from full bloom to bud",
+    "dim": "attribute_change",
+    "question_length": 130,
+    "num_options": 4
+  },
+  {
+    "video_id": "1050618460_reverse",
+    "question": "What happens when the flowers go through the attribute_change?\nA. reaching full maturity\nB. shedding leaves\nC. sprouting more buds\nD. shrinking into buds",
+    "answer": "D. shrinking into buds",
+    "dim": "attribute_change",
+    "question_length": 153,
+    "num_options": 4
+  },
+  {
+    "video_id": "1083113449_reverse",
+    "question": "How would you describe the change in the sky's appearance?\nA. lightening up\nB. maintaining its brightness\nC. getting darker",
+    "answer": "A. lightening up",
+    "dim": "attribute_change",
+    "question_length": 123,
+    "num_options": 3
+  },
+  {
+    "video_id": "1083113449_reverse",
+    "question": "What is occurring to the sky?\nA. staying the same\nB. getting darker\nC. brightening",
+    "answer": "C. brightening",
+    "dim": "attribute_change",
+    "question_length": 82,
+    "num_options": 3
+  },
+  {
+    "video_id": "1083113449_reverse",
+    "question": "In terms of illumination, what is happening to the sky?\nA. becoming brighter\nB. growing dimmer\nC. remaining unchanged",
+    "answer": "A. becoming brighter",
+    "dim": "attribute_change",
+    "question_length": 117,
+    "num_options": 3
+  },
+  {
+    "video_id": "1091143117_reverse",
+    "question": "What is happening to the eye?\nA. from closed to open\nB. turning red\nC. becoming blurry\nD. from open to closed",
+    "answer": "D. from open to closed",
+    "dim": "attribute_change",
+    "question_length": 109,
+    "num_options": 4
+  },
+  {
+    "video_id": "1091143117_reverse",
+    "question": "How is the eye changing?\nA. changing color\nB. from closed to open\nC. becoming smaller\nD. from open to closed",
+    "answer": "D. from open to closed",
+    "dim": "attribute_change",
+    "question_length": 108,
+    "num_options": 4
+  },
+  {
+    "video_id": "1091143117_reverse",
+    "question": "What transformation is occurring in the eye?\nA. from open to closed\nB. shrinking\nC. from closed to open\nD. blinking",
+    "answer": "A. from open to closed",
+    "dim": "attribute_change",
+    "question_length": 115,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098153561_reverse",
+    "question": "What is happening to the leaves?\nA. changing shape\nB. falling off\nC. changing color from green to red\nD. changing color from red to green",
+    "answer": "D. changing color from red to green",
+    "dim": "attribute_change",
+    "question_length": 137,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098153561_reverse",
+    "question": "What is the initial color of the leaves?\nA. red\nB. white\nC. green",
+    "answer": "A. red",
+    "dim": "attribute_change",
+    "question_length": 65,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098153561_reverse",
+    "question": "What is the final color of the leaves?\nA. white\nB. red\nC. green",
+    "answer": "C. green",
+    "dim": "attribute_change",
+    "question_length": 63,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059072773_reverse",
+    "question": "What is happening to the ice cream?\nA. melting\nB. freezing\nC. evaporating\nD. solidifying",
+    "answer": "D. solidifying",
+    "dim": "attribute_change",
+    "question_length": 88,
+    "num_options": 4
+  },
+  {
+    "video_id": "1059072773_reverse",
+    "question": "How is the ice cream changing?\nA. changing color\nB. being eaten out\nC. turning into liquid\nD. solidifying into a ball",
+    "answer": "D. solidifying into a ball",
+    "dim": "attribute_change",
+    "question_length": 117,
+    "num_options": 4
+  },
+  {
+    "video_id": "1059072773_reverse",
+    "question": "Which term best describes the state change of the ice cream?\nA. evaporation\nB. solidifying\nC. melting",
+    "answer": "B. solidifying",
+    "dim": "attribute_change",
+    "question_length": 101,
+    "num_options": 3
+  },
+  {
+    "video_id": "1093573255_reverse",
+    "question": "What is happening to the plant?\nA. wilting\nB. reviving\nC. shedding leaves\nD. turning into buds",
+    "answer": "A. wilting",
+    "dim": "attribute_change",
+    "question_length": 94,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093573255_reverse",
+    "question": "How is the plant changing?\nA. withering away\nB. turning yellow\nC. reviving\nD. blooming",
+    "answer": "A. withering away",
+    "dim": "attribute_change",
+    "question_length": 86,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093573255_reverse",
+    "question": "In what way is the plant transforming?\nA. wilting\nB. rotting\nC. reviving\nD. shedding leaves",
+    "answer": "A. wilting",
+    "dim": "attribute_change",
+    "question_length": 91,
+    "num_options": 4
+  },
+  {
+    "video_id": "1077146132_reverse",
+    "question": "What is happening to the video?\nA. staying the same brightness\nB. turning darker\nC. turning brighter",
+    "answer": "B. turning darker",
+    "dim": "attribute_change",
+    "question_length": 100,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077146132_reverse",
+    "question": "How does the video change in terms of brightness?\nA. decreasing\nB. remaining constant\nC. increasing",
+    "answer": "A. decreasing",
+    "dim": "attribute_change",
+    "question_length": 99,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077146132_reverse",
+    "question": "What is occurring with the video's attribute?\nA. maintaining steady brightness\nB. getting brighter\nC. getting dimmer",
+    "answer": "C. getting dimmer",
+    "dim": "attribute_change",
+    "question_length": 116,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086688682_reverse",
+    "question": "What change is happening to the traffic lights?\nA. From red to green\nB. From red to yellow\nC. From yellow to red\nD. From green to red",
+    "answer": "D. From green to red",
+    "dim": "attribute_change",
+    "question_length": 133,
+    "num_options": 4
+  },
+  {
+    "video_id": "1086688682_reverse",
+    "question": "What is the attribute change occurring to the traffic lights?\nA. Changing color sequence\nB. Dimming brightness\nC. Switching off\nD. Blinking rapidly",
+    "answer": "A. Changing color sequence",
+    "dim": "attribute_change",
+    "question_length": 147,
+    "num_options": 4
+  },
+  {
+    "video_id": "1086688682_reverse",
+    "question": "What alteration is taking place to the traffic lights?\nA. Transitioning from yellow to green\nB. Transitioning from green to yellow\nC. Transitioning from red to green\nD. Transitioning from green to red",
+    "answer": "D. Transitioning from green to red",
+    "dim": "attribute_change",
+    "question_length": 200,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099738787_reverse",
+    "question": "What is happening to the concrete wall?\nA. melting\nB. falling apart\nC. assembling together",
+    "answer": "C. assembling together",
+    "dim": "attribute_change",
+    "question_length": 90,
+    "num_options": 3
+  },
+  {
+    "video_id": "1099738787_reverse",
+    "question": "What is the attribute change of the concrete wall?\nA. rebuilding\nB. shrinking\nC. disappearing\nD. falling apart",
+    "answer": "A. rebuilding",
+    "dim": "attribute_change",
+    "question_length": 110,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099738787_reverse",
+    "question": "In what state is the concrete wall?\nA. expanding\nB. assembling together\nC. falling apart\nD. intact",
+    "answer": "B. assembling together",
+    "dim": "attribute_change",
+    "question_length": 98,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094219575_reverse",
+    "question": "What is happening to the flowers?\nA. growing taller\nB. changing color\nC. blooming\nD. wilting",
+    "answer": "C. blooming",
+    "dim": "attribute_change",
+    "question_length": 92,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094219575_reverse",
+    "question": "What is the condition of the flowers?\nA. decaying\nB. dormant\nC. budding\nD. blooming",
+    "answer": "D. blooming",
+    "dim": "attribute_change",
+    "question_length": 83,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094219575_reverse",
+    "question": "What is the transformation occurring to the flowers?\nA. reproducing through seeds\nB. changing from withered to full blossom\nC. changing from full blossom to withered\nD. sprouting new buds",
+    "answer": "B. changing from withered to full blossom",
+    "dim": "attribute_change",
+    "question_length": 187,
+    "num_options": 4
+  },
+  {
+    "video_id": "1067427023_reverse",
+    "question": "Which term best describes the transformation happening to the snow particles?\nA. solidifying\nB. melting\nC. scattering",
+    "answer": "A. solidifying",
+    "dim": "attribute_change",
+    "question_length": 117,
+    "num_options": 3
+  },
+  {
+    "video_id": "1067427023_reverse",
+    "question": "What change is occurring to the snow particles?\nA. remaining the same\nB. growing in size\nC. decreasing in size",
+    "answer": "B. growing in size",
+    "dim": "attribute_change",
+    "question_length": 110,
+    "num_options": 3
+  },
+  {
+    "video_id": "1067427023_reverse",
+    "question": "In the given scenario, what is the primary attribute change experienced by the snow particles?\nA. freezing\nB. melting\nC. scattering",
+    "answer": "A. freezing",
+    "dim": "attribute_change",
+    "question_length": 131,
+    "num_options": 3
+  },
+  {
+    "video_id": "1093948229_reverse",
+    "question": "What is happening to the golden particles?\nA. melting\nB. shrinking\nC. spinning\nD. exploding",
+    "answer": "B. shrinking",
+    "dim": "attribute_change",
+    "question_length": 91,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093948229_reverse",
+    "question": "Which of the following best describes the change in the attribute of the golden particles?\nA. freezing\nB. exploding\nC. melting\nD. shrinking",
+    "answer": "D. shrinking",
+    "dim": "attribute_change",
+    "question_length": 139,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093948229_reverse",
+    "question": "Which word below represents the transformation taking place on the golden particles?\nA. contracting\nB. melting\nC. exploding\nD. condensing",
+    "answer": "A. contracting",
+    "dim": "attribute_change",
+    "question_length": 137,
+    "num_options": 4
+  },
+  {
+    "video_id": "1049965795_reverse",
+    "question": "What is happening to the light bulb?\nA. turning off\nB. breaking\nC. light up\nD. rapidly changing color",
+    "answer": "A. turning off",
+    "dim": "attribute_change",
+    "question_length": 101,
+    "num_options": 4
+  },
+  {
+    "video_id": "1049965795_reverse",
+    "question": "What change occurs in the light bulb?\nA. becoming darker\nB. getting smaller\nC. light up\nD. flickering",
+    "answer": "A. becoming darker",
+    "dim": "attribute_change",
+    "question_length": 101,
+    "num_options": 4
+  },
+  {
+    "video_id": "1049965795_reverse",
+    "question": "What alteration takes place in the light bulb?\nA. rusting\nB. turn off\nC. crackling\nD. light up",
+    "answer": "B. turn off",
+    "dim": "attribute_change",
+    "question_length": 94,
+    "num_options": 4
+  },
+  {
+    "video_id": "1052364490_reverse",
+    "question": "What is happening to the digital bar chart?\nA. staying in the same size\nB. increasing\nC. decreasing",
+    "answer": "C. decreasing",
+    "dim": "attribute_change",
+    "question_length": 99,
+    "num_options": 3
+  },
+  {
+    "video_id": "1052364490_reverse",
+    "question": "The digital bar chart is experiencing what kind of change?\nA. decreasing\nB. growing\nC. fluctuating",
+    "answer": "A. decreasing",
+    "dim": "attribute_change",
+    "question_length": 98,
+    "num_options": 3
+  },
+  {
+    "video_id": "1052364490_reverse",
+    "question": "What alteration is taking place to the digital bar chart?\nA. levelling out\nB. growing\nC. disappearing",
+    "answer": "C. disappearing",
+    "dim": "attribute_change",
+    "question_length": 101,
+    "num_options": 3
+  },
+  {
+    "video_id": "1080990179_reverse",
+    "question": "What is happening to the apple?\nA. being cut\nB. shrinking and drying out\nC. growing bigger",
+    "answer": "C. growing bigger",
+    "dim": "attribute_change",
+    "question_length": 90,
+    "num_options": 3
+  },
+  {
+    "video_id": "1080990179_reverse",
+    "question": "How is the apple changing?\nA. getting smaller\nB. remaining in the same shape\nC. getting bigger",
+    "answer": "C. getting bigger",
+    "dim": "attribute_change",
+    "question_length": 94,
+    "num_options": 3
+  },
+  {
+    "video_id": "1080990179_reverse",
+    "question": "What is the change in the apple's attributes?\nA. swelling and becoming juicy\nB. shrinking and drying out\nC. being cut and getting smaller",
+    "answer": "A. swelling and becoming juicy",
+    "dim": "attribute_change",
+    "question_length": 137,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077575504_reverse",
+    "question": "What is happening to the pile of salt?\nA. scattering\nB. growing\nC. melting\nD. disappearing",
+    "answer": "D. disappearing",
+    "dim": "attribute_change",
+    "question_length": 90,
+    "num_options": 4
+  },
+  {
+    "video_id": "1077575504_reverse",
+    "question": "Which one of the following is an attribute change happening to the pile of salt?\nA. shrinking\nB. growing\nC. burning\nD. dissolving",
+    "answer": "A. shrinking",
+    "dim": "attribute_change",
+    "question_length": 129,
+    "num_options": 4
+  },
+  {
+    "video_id": "1077575504_reverse",
+    "question": "How is the pile of salt changing?\nA. melting\nB. unchanged\nC. growing bigger\nD. becoming smaller",
+    "answer": "D. becoming smaller",
+    "dim": "attribute_change",
+    "question_length": 95,
+    "num_options": 4
+  },
+  {
+    "video_id": "23370985_reverse",
+    "question": "What is happening to the ice crystal?\nA. freezing\nB. melting\nC. shattering",
+    "answer": "B. melting",
+    "dim": "attribute_change",
+    "question_length": 74,
+    "num_options": 3
+  },
+  {
+    "video_id": "23370985_reverse",
+    "question": "What process is occurring with the ice crystal?\nA. reducing in size\nB. turning into water\nC. growing in size\nD. remaining the same",
+    "answer": "A. reducing in size",
+    "dim": "attribute_change",
+    "question_length": 130,
+    "num_options": 4
+  },
+  {
+    "video_id": "23370985_reverse",
+    "question": "What transformation is taking place in the ice crystal?\nA. cracking\nB. unchanged\nC. melting\nD. forming",
+    "answer": "C. melting",
+    "dim": "attribute_change",
+    "question_length": 102,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055981522_reverse",
+    "question": "What is happening to the 3d shapes?\nA. disappearing\nB. turning into triangles\nC. turning into spheres\nD. turning into cubes",
+    "answer": "D. turning into cubes",
+    "dim": "attribute_change",
+    "question_length": 123,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055981522_reverse",
+    "question": "What is the attribute change of the 3d shapes?\nA. transforming from cubes into spheres\nB. transforming from spheres into cubes\nC. remaining as cubes\nD. remaining as spheres",
+    "answer": "B. transforming from spheres into cubes",
+    "dim": "attribute_change",
+    "question_length": 172,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055981522_reverse",
+    "question": "Which shape are the 3d shapes transforming into?\nA. cubes\nB. triangles\nC. spheres\nD. pentagons",
+    "answer": "A. cubes",
+    "dim": "attribute_change",
+    "question_length": 94,
+    "num_options": 4
+  },
+  {
+    "video_id": "1081734740_reverse",
+    "question": "What is happening to the texture of the leaf?\nA. It is turning from green to yellow\nB. It is turning from white to green\nC. It is turning from green to white\nD. It is turning from yellow to green",
+    "answer": "D. It is turning from yellow to green",
+    "dim": "attribute_change",
+    "question_length": 195,
+    "num_options": 4
+  },
+  {
+    "video_id": "1081734740_reverse",
+    "question": "What color is the leaf turning into?\nA. White\nB. Green\nC. Yellow",
+    "answer": "B. Green",
+    "dim": "attribute_change",
+    "question_length": 64,
+    "num_options": 3
+  },
+  {
+    "video_id": "1081734740_reverse",
+    "question": "What change is occurring in the leaf?\nA. It is getting smaller\nB. It is becoming white\nC. It is becoming yellow\nD. It is becoming green",
+    "answer": "D. It is becoming green",
+    "dim": "attribute_change",
+    "question_length": 135,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093719871_reverse",
+    "question": "What is happening to the pink flowers?\nA. growing taller\nB. falling off petals\nC. turning from withered to full blossom\nD. turning from full blossom to withered",
+    "answer": "D. turning from full blossom to withered",
+    "dim": "attribute_change",
+    "question_length": 160,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093719871_reverse",
+    "question": "How are the pink flowers transforming?\nA. from small buds to big flowers\nB. from full blossom to withered\nC. from half-open to closed\nD. from withered to full blossom",
+    "answer": "B. from full blossom to withered",
+    "dim": "attribute_change",
+    "question_length": 166,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093719871_reverse",
+    "question": "What is the final appearance of the pink flowers?\nA. small buds\nB. died petals\nC. fresh leaves\nD. fully bloomed",
+    "answer": "B. died petals",
+    "dim": "attribute_change",
+    "question_length": 111,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055973887_reverse",
+    "question": "What is happening to the fire ball? \nA. staying the same size\nB. getting smaller\nC. getting larger",
+    "answer": "B. getting smaller",
+    "dim": "attribute_change",
+    "question_length": 98,
+    "num_options": 3
+  },
+  {
+    "video_id": "1055973887_reverse",
+    "question": "How is the fire ball changing? \nA. splitting in half\nB. expanding out\nC. contracting into the center",
+    "answer": "C. contracting into the center",
+    "dim": "attribute_change",
+    "question_length": 100,
+    "num_options": 3
+  },
+  {
+    "video_id": "1055973887_reverse",
+    "question": "In what way is the fire ball transforming? \nA. changing into a cube size\nB. shrinking in size\nC. growing in size",
+    "answer": "B. shrinking in size",
+    "dim": "attribute_change",
+    "question_length": 112,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098710341_reverse",
+    "question": "What is happening to the glass?\nA. It is changing color\nB. It is going from full of water to empty\nC. It is going from empty to full of water\nD. It is transforming into a different shape",
+    "answer": "B. It is going from full of water to empty",
+    "dim": "attribute_change",
+    "question_length": 186,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098710341_reverse",
+    "question": "What is the final state of the glass?\nA. It is broken into pieces\nB. It is about 70% full with water\nC. It is half full with water\nD. It is empty",
+    "answer": "D. It is empty",
+    "dim": "attribute_change",
+    "question_length": 145,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098710341_reverse",
+    "question": "In whay way is the glass changing?\nA. Water was disappearing from the glass\nB. The glass was heated\nC. Water was poured into the glass\nD. A chemical reaction occurred in the glass",
+    "answer": "A. Water was disappearing from the glass",
+    "dim": "attribute_change",
+    "question_length": 179,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099116143_reverse",
+    "question": "What is happening to the pink liquid?\nA. White foam disappears from the surface\nB. White foam appears on the surface\nC. It is freezing\nD. It is evaporating",
+    "answer": "A. White foam disappears from the surface",
+    "dim": "attribute_change",
+    "question_length": 155,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099116143_reverse",
+    "question": "What can be observed visually on the pink liquid?\nA. White foam appears on the surface\nB. The liquid is turning transparent\nC. White foam disappears from the surface",
+    "answer": "C. White foam disappears from the surface",
+    "dim": "attribute_change",
+    "question_length": 165,
+    "num_options": 3
+  },
+  {
+    "video_id": "1099116143_reverse",
+    "question": "How is the appearance of the pink liquid affected?\nA. White foam appears on the surface\nB. It becomes blue\nC. White foam disappears from the surface\nD. It becomes green",
+    "answer": "C. White foam disappears from the surface",
+    "dim": "attribute_change",
+    "question_length": 168,
+    "num_options": 4
+  },
+  {
+    "video_id": "1025623079_reverse",
+    "question": "What is happening to the skyscraper?\nA. lighting up\nB. growing taller\nC. in construction\nD. collapsing",
+    "answer": "B. growing taller",
+    "dim": "attribute_change",
+    "question_length": 102,
+    "num_options": 4
+  },
+  {
+    "video_id": "1025623079_reverse",
+    "question": "What is the condition of the skyscraper?\nA. in construction\nB. collapsing\nC. being eracted\nD. burning in fire",
+    "answer": "C. being eracted",
+    "dim": "attribute_change",
+    "question_length": 109,
+    "num_options": 4
+  },
+  {
+    "video_id": "1025623079_reverse",
+    "question": "What change is occurring with the skyscraper?\nA. burning in fire\nB. collapsing\nC. standing up\nD. turning darker",
+    "answer": "C. standing up",
+    "dim": "attribute_change",
+    "question_length": 111,
+    "num_options": 4
+  },
+  {
+    "video_id": "1063373449_reverse",
+    "question": "What is happening to the coronavirus?\nA. replicating itself\nB. mutating into a new strain\nC. assembling together\nD. dissolving under the attack of antibodies",
+    "answer": "C. assembling together",
+    "dim": "attribute_change",
+    "question_length": 157,
+    "num_options": 4
+  },
+  {
+    "video_id": "1063373449_reverse",
+    "question": "How is the coronavirus responding to antibodies?\nA. replicating itself\nB. dissolving under their attack\nC. avoiding them by hiding in cells\nD. assembling together",
+    "answer": "D. assembling together",
+    "dim": "attribute_change",
+    "question_length": 162,
+    "num_options": 4
+  },
+  {
+    "video_id": "1063373449_reverse",
+    "question": "What occurs to the coronavirus?\nA. it assembles together\nB. it grows larger\nC. it dissolves\nD. it replicates",
+    "answer": "A. it assembles together",
+    "dim": "attribute_change",
+    "question_length": 108,
+    "num_options": 4
+  },
+  {
+    "video_id": "1062609286_reverse",
+    "question": "What is happening to the battery charge?\nA. decreasing\nB. staying constant\nC. increasing",
+    "answer": "A. decreasing",
+    "dim": "attribute_change",
+    "question_length": 88,
+    "num_options": 3
+  },
+  {
+    "video_id": "1062609286_reverse",
+    "question": "How is the battery charge changing?\nA. increasing\nB. random\nC. decreasing",
+    "answer": "C. decreasing",
+    "dim": "attribute_change",
+    "question_length": 73,
+    "num_options": 3
+  },
+  {
+    "video_id": "1062609286_reverse",
+    "question": "Which option describes the change of the battery charge?\nA. decreasing\nB. increasing\nC. staying the same",
+    "answer": "A. decreasing",
+    "dim": "attribute_change",
+    "question_length": 104,
+    "num_options": 3
+  },
+  {
+    "video_id": "1060403198_reverse",
+    "question": "What is happening to the tree?\nA. increasing height\nB. decreasing height\nC. shedding leaves\nD. changing color",
+    "answer": "B. decreasing height",
+    "dim": "attribute_change",
+    "question_length": 109,
+    "num_options": 4
+  },
+  {
+    "video_id": "1060403198_reverse",
+    "question": "Which attribute of the tree is undergoing a transformation?\nA. position\nB. height\nC. color",
+    "answer": "B. height",
+    "dim": "attribute_change",
+    "question_length": 90,
+    "num_options": 3
+  },
+  {
+    "video_id": "1060403198_reverse",
+    "question": "What term can be used to describe the change happening to the tree?\nA. wilting\nB. growing in size\nC. falling down\nD. reducing in size",
+    "answer": "D. reducing in size",
+    "dim": "attribute_change",
+    "question_length": 133,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099109715_reverse",
+    "question": "What is happening to the number of fruits and vegetables?\nA. becoming rotten\nB. increasing\nC. decreasing\nD. staying the same",
+    "answer": "C. decreasing",
+    "dim": "attribute_change",
+    "question_length": 124,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099109715_reverse",
+    "question": "How would you describe the change to the fruits and vegetables?\nA. disappearing\nB. increasing number\nC. staying the same\nD. decaying",
+    "answer": "A. disappearing",
+    "dim": "attribute_change",
+    "question_length": 132,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099109715_reverse",
+    "question": "Which is the most accurate statement about the number of fruits and vegetables?\nA. It is getting bigger.\nB. It is getting smaller.\nC. It is changing sporadically.\nD. It is remaining constant.",
+    "answer": "B. It is getting smaller.",
+    "dim": "attribute_change",
+    "question_length": 191,
+    "num_options": 4
+  },
+  {
+    "video_id": "1051211272_reverse",
+    "question": "What is happening to the toast with cream cheese?\nA. gradually reappearing piece by piece\nB. staying the same size\nC. gradually being eaten out and disappearing",
+    "answer": "A. gradually reappearing piece by piece",
+    "dim": "attribute_change",
+    "question_length": 160,
+    "num_options": 3
+  },
+  {
+    "video_id": "1051211272_reverse",
+    "question": "What alteration is taking place with the cream cheese-covered toast?\nA. Gradually emerging piece by piece\nB. Remaining constant in size\nC. Slowly diminishing as it is consumed",
+    "answer": "A. Gradually emerging piece by piece",
+    "dim": "attribute_change",
+    "question_length": 175,
+    "num_options": 3
+  },
+  {
+    "video_id": "1051211272_reverse",
+    "question": "What is the outcome of the toast with cream cheese?\nA. it gradually reappears piece by piece\nB. it gradually disappears piece by piece\nC. it gradually spoils",
+    "answer": "A. it gradually reappears piece by piece",
+    "dim": "attribute_change",
+    "question_length": 157,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059815936_reverse",
+    "question": "What is happening to the paper?\nA. changing from a wrinkled paper ball into a flattened sheet\nB. changing from a flattened sheet into scraps of paper\nC. changing from a flattened sheet into a wrinkled paper ball",
+    "answer": "C. changing from a flattened sheet into a wrinkled paper ball",
+    "dim": "attribute_change",
+    "question_length": 211,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059815936_reverse",
+    "question": "How does the paper transform?\nA. crumpling into a ball\nB. tearing apart\nC. unfolding",
+    "answer": "A. crumpling into a ball",
+    "dim": "attribute_change",
+    "question_length": 84,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059815936_reverse",
+    "question": "What is the main change occurring in the paper?\nA. changing teared apart\nB. being folded\nC. being flattened out",
+    "answer": "B. being folded",
+    "dim": "attribute_change",
+    "question_length": 111,
+    "num_options": 3
+  },
+  {
+    "video_id": "1111601171_reverse",
+    "question": "What is happening to the sphere building?\nA. It is changing from blue to red.\nB. It is changing from blue to green.\nC. It is changing from green to blue.\nD. It is staying in the same color.",
+    "answer": "B. It is changing from blue to green.",
+    "dim": "attribute_change",
+    "question_length": 189,
+    "num_options": 4
+  },
+  {
+    "video_id": "1111601171_reverse",
+    "question": "What is the final color of the sphere building?\nA. Red\nB. Green\nC. Blue\nD. Black",
+    "answer": "B. Green",
+    "dim": "attribute_change",
+    "question_length": 80,
+    "num_options": 4
+  },
+  {
+    "video_id": "1111601171_reverse",
+    "question": "How is the sphere building transforming?\nA. It is staying in the same color.\nB. It is changing from green to blue.\nC. It is changing from red to yellow.\nD. It is changing from blue to green.",
+    "answer": "D. It is changing from blue to green.",
+    "dim": "attribute_change",
+    "question_length": 190,
+    "num_options": 4
+  },
+  {
+    "video_id": "1086105089_reverse",
+    "question": "What is happening to the building?\nA. being constructed\nB. grwoing wider\nC. demolishing",
+    "answer": "C. demolishing",
+    "dim": "attribute_change",
+    "question_length": 87,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086105089_reverse",
+    "question": "How is the building changing?\nA. staying the same\nB. getting shorter\nC. growing taller",
+    "answer": "B. getting shorter",
+    "dim": "attribute_change",
+    "question_length": 86,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086105089_reverse",
+    "question": "What is being done to the building?\nA. constructing\nB. renovating\nC. deconstructing",
+    "answer": "C. deconstructing",
+    "dim": "attribute_change",
+    "question_length": 83,
+    "num_options": 3
+  },
+  {
+    "video_id": "1058498242_reverse",
+    "question": "What is happening to the 3d pixels?\nA. changing from a flat surface into a cuboid\nB. changing from a cuboid into a flat surface\nC. changing from a cuboid into the shape of a man\nD. changing from the shape of a man into a cuboid",
+    "answer": "D. changing from the shape of a man into a cuboid",
+    "dim": "attribute_change",
+    "question_length": 227,
+    "num_options": 4
+  },
+  {
+    "video_id": "1058498242_reverse",
+    "question": "How are the 3d pixels transforming?\nA. changing from a sphere into a cuboid\nB. changing from a cuboid into a sphere\nC. changing from the shape of a man into a cuboid\nD. changing from a cuboid into the shape of a man",
+    "answer": "C. changing from the shape of a man into a cuboid",
+    "dim": "attribute_change",
+    "question_length": 215,
+    "num_options": 4
+  },
+  {
+    "video_id": "1058498242_reverse",
+    "question": "In what shape are the 3d pixels changing into?\nA. a tree\nB. a cuboid\nC. a sphere\nD. a man",
+    "answer": "B. a cuboid",
+    "dim": "attribute_change",
+    "question_length": 89,
+    "num_options": 4
+  },
+  {
+    "video_id": "1082268005_reverse",
+    "question": "What is happening to the planet earth?\nA. assembling from toy bricks\nB. disassembling and disappearing\nC. splitting into two halves",
+    "answer": "B. disassembling and disappearing",
+    "dim": "attribute_change",
+    "question_length": 131,
+    "num_options": 3
+  },
+  {
+    "video_id": "1082268005_reverse",
+    "question": "How is the planet earth changing?\nA. it is disappearing\nB. it is assembling from toy bricks\nC. it is spinning",
+    "answer": "A. it is disappearing",
+    "dim": "attribute_change",
+    "question_length": 109,
+    "num_options": 3
+  },
+  {
+    "video_id": "1082268005_reverse",
+    "question": "In what way is the planet earth transforming?\nA. it is disassembling and disappearing\nB. it is dissolving into water\nC. it is assembling from toy bricks",
+    "answer": "A. it is disassembling and disappearing",
+    "dim": "attribute_change",
+    "question_length": 152,
+    "num_options": 3
+  },
+  {
+    "video_id": "1070711428_reverse",
+    "question": "What is happening to the glacier?\nA. assembling and rising from water\nB. breaking and falling in water\nC. freezing\nD. evaporating",
+    "answer": "A. assembling and rising from water",
+    "dim": "attribute_change",
+    "question_length": 129,
+    "num_options": 4
+  },
+  {
+    "video_id": "1070711428_reverse",
+    "question": "What change is happening to the glacier?\nA. falling in water\nB. freezing\nC. rising from water\nD. becoming shorter",
+    "answer": "C. rising from water",
+    "dim": "attribute_change",
+    "question_length": 113,
+    "num_options": 4
+  },
+  {
+    "video_id": "1070711428_reverse",
+    "question": "What is occurring to the glacier?\nA. evaporating\nB. breaking and falling in water\nC. assembling and rising from water\nD. becoming shorter",
+    "answer": "C. assembling and rising from water",
+    "dim": "attribute_change",
+    "question_length": 137,
+    "num_options": 4
+  },
+  {
+    "video_id": "1057447372_reverse",
+    "question": "What is happening to the sport stadium?\nA. turning darker\nB. staying the same brightness\nC. turning brighter",
+    "answer": "A. turning darker",
+    "dim": "attribute_change",
+    "question_length": 108,
+    "num_options": 3
+  },
+  {
+    "video_id": "1057447372_reverse",
+    "question": "How is the sport stadium transforming?\nA. becoming brighter\nB. staying the same brightness\nC. becoming darker",
+    "answer": "C. becoming darker",
+    "dim": "attribute_change",
+    "question_length": 109,
+    "num_options": 3
+  },
+  {
+    "video_id": "1057447372_reverse",
+    "question": "What is the alteration occurring in the sport stadium?\nA. turning brighter\nB. turning darker\nC. remaining the same",
+    "answer": "B. turning darker",
+    "dim": "attribute_change",
+    "question_length": 114,
+    "num_options": 3
+  },
+  {
+    "video_id": "1053334574_reverse",
+    "question": "What is happening to the black ink?\nA. staying in the same shape\nB. splitting in half\nC. shrinking into the the center\nD. expanding from the center",
+    "answer": "C. shrinking into the the center",
+    "dim": "attribute_change",
+    "question_length": 147,
+    "num_options": 4
+  },
+  {
+    "video_id": "1053334574_reverse",
+    "question": "How is the black ink transforming?\nA. staying in the same shape\nB. splitting in half\nC. contracting towards the center\nD. expanding from the center",
+    "answer": "C. contracting towards the center",
+    "dim": "attribute_change",
+    "question_length": 147,
+    "num_options": 4
+  },
+  {
+    "video_id": "1053334574_reverse",
+    "question": "In what way is the black ink undergoing a change?\nA. drying up\nB. contracting into the center\nC. expanding from the center",
+    "answer": "B. contracting into the center",
+    "dim": "attribute_change",
+    "question_length": 122,
+    "num_options": 3
+  },
+  {
+    "video_id": "1016172301_reverse",
+    "question": "What is happening to the 3D house model?\nA. being demolished\nB. being constructed\nC. being painted",
+    "answer": "A. being demolished",
+    "dim": "attribute_change",
+    "question_length": 98,
+    "num_options": 3
+  },
+  {
+    "video_id": "1016172301_reverse",
+    "question": "Which process is the 3D house model going through?\nA. being constructed\nB. being deconstructed\nC. being repaired",
+    "answer": "B. being deconstructed",
+    "dim": "attribute_change",
+    "question_length": 112,
+    "num_options": 3
+  },
+  {
+    "video_id": "1016172301_reverse",
+    "question": "What change is occurring to the 3D house model?\nA. being constructed\nB. being dismantled\nC. being renovated",
+    "answer": "B. being dismantled",
+    "dim": "attribute_change",
+    "question_length": 107,
+    "num_options": 3
+  },
+  {
+    "video_id": "1084736389_reverse",
+    "question": "What is happening to the face?\nA. Aging\nB. Morphing from a chimpanzee into a human\nC. Morphing from a human into a chimpanzee\nD. Becoming younger",
+    "answer": "C. Morphing from a human into a chimpanzee",
+    "dim": "attribute_change",
+    "question_length": 145,
+    "num_options": 4
+  },
+  {
+    "video_id": "1084736389_reverse",
+    "question": "How does the face transform?\nA. It morphs from a human into a chimpanzee\nB. It gets younger\nC. It morphs from a chimpanzee into a human\nD. It is aging",
+    "answer": "A. It morphs from a human into a chimpanzee",
+    "dim": "attribute_change",
+    "question_length": 150,
+    "num_options": 4
+  },
+  {
+    "video_id": "1084736389_reverse",
+    "question": "Which animal does the face resemble at the beginning?\nA. Chimpanzee\nB. Giraffe\nC. Human\nD. Tiger",
+    "answer": "C. Human",
+    "dim": "attribute_change",
+    "question_length": 96,
+    "num_options": 4
+  },
+  {
+    "video_id": "1054494542_reverse",
+    "question": "What is happening to the background?\nA. changing from pink to green\nB. changing from green to pink\nC. changing from blue to pink\nD. changing from pink to blue",
+    "answer": "C. changing from blue to pink",
+    "dim": "attribute_change",
+    "question_length": 158,
+    "num_options": 4
+  },
+  {
+    "video_id": "1054494542_reverse",
+    "question": "How is the background transforming?\nA. turning blue\nB. turning yellow\nC. truning pink\nD. turning green",
+    "answer": "C. truning pink",
+    "dim": "attribute_change",
+    "question_length": 102,
+    "num_options": 4
+  },
+  {
+    "video_id": "1054494542_reverse",
+    "question": "What is the main change occurring in the background?\nA. changing from pink to blue\nB. changing from pink to green\nC. changing from blue to pink\nD. changing from green to pink",
+    "answer": "C. changing from blue to pink",
+    "dim": "attribute_change",
+    "question_length": 174,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055194940_reverse",
+    "question": "What is happening to the insect?\nA. transforming from butterfly into pupa\nB. remaining as a butterfly\nC. remaining as a pupa\nD. transforming from pupa into butterfly",
+    "answer": "A. transforming from butterfly into pupa",
+    "dim": "attribute_change",
+    "question_length": 165,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055194940_reverse",
+    "question": "What is the final form of the insect after it undergoes transformation?\nA. pupa\nB. larva\nC. butterfly\nD. egg",
+    "answer": "A. pupa",
+    "dim": "attribute_change",
+    "question_length": 108,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055194940_reverse",
+    "question": "What change is occurring in the insect\nA. transforming from pupa into butterfly\nB. transforming from dead to live\nC. transforming from live to dead\nD. transforming from butterfly into pupa",
+    "answer": "D. transforming from butterfly into pupa",
+    "dim": "attribute_change",
+    "question_length": 188,
+    "num_options": 4
+  },
+  {
+    "video_id": "1079384099_reverse",
+    "question": "What is happening to the 3d pixel? \nA. It is transforming from the shape of a heart into a triangle\nB. It is transforming from a triangle into the shape of a heart\nC. It is transforming from a white square into the shape of a flower\nD. It is transforming from the shape of a flower into a white square",
+    "answer": "D. It is transforming from the shape of a flower into a white square",
+    "dim": "attribute_change",
+    "question_length": 301,
+    "num_options": 4
+  },
+  {
+    "video_id": "1079384099_reverse",
+    "question": "What is the final shape of the 3d pixel? \nA. A star\nB. A circle\nC. A flower\nD. A square",
+    "answer": "D. A square",
+    "dim": "attribute_change",
+    "question_length": 87,
+    "num_options": 4
+  },
+  {
+    "video_id": "1079384099_reverse",
+    "question": "Which shapes does the 3d pixel transform through? \nA. From flower to square\nB. From flower to heart\nC. From heart to flower\nD. From square to flower",
+    "answer": "A. From flower to square",
+    "dim": "attribute_change",
+    "question_length": 148,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099811331_reverse",
+    "question": "What is happening to the 3d heart?\nA. gradually disappearing\nB. gradually appearing\nC. growing in size\nD. Reducing in size",
+    "answer": "A. gradually disappearing",
+    "dim": "attribute_change",
+    "question_length": 122,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099811331_reverse",
+    "question": "How is the 3d heart transforming?\nA. gradually disappearing\nB. Reducing in size\nC. gradually appearing\nD. growing in size",
+    "answer": "A. gradually disappearing",
+    "dim": "attribute_change",
+    "question_length": 121,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099811331_reverse",
+    "question": "What is the attribute change of the 3d heart?\nA. gradually disappearing\nB. breaking apart\nC. gradually appearing\nD. splitting in half",
+    "answer": "A. gradually disappearing",
+    "dim": "attribute_change",
+    "question_length": 133,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093340469_reverse",
+    "question": "What is happening to the room?\nA. staying the same brightness\nB. turning brighter\nC. turning darker",
+    "answer": "B. turning brighter",
+    "dim": "attribute_change",
+    "question_length": 99,
+    "num_options": 3
+  },
+  {
+    "video_id": "1093340469_reverse",
+    "question": "Which word best describes the change in the room?\nA. darkening\nB. stabilizing\nC. brightening",
+    "answer": "C. brightening",
+    "dim": "attribute_change",
+    "question_length": 92,
+    "num_options": 3
+  },
+  {
+    "video_id": "1093340469_reverse",
+    "question": "How is the attribute of the room changing?\nA. becoming darker\nB. brightening up\nC. staying unchanged",
+    "answer": "A. becoming darker",
+    "dim": "attribute_change",
+    "question_length": 100,
+    "num_options": 3
+  },
+  {
+    "video_id": "1111601171",
+    "question": "What is happening to the sphere building?\nA. It is changing from green to blue.\nB. It is changing from blue to green.\nC. It is changing from blue to red.\nD. It is staying in the same color.",
+    "answer": "A. It is changing from green to blue.",
+    "dim": "attribute_change",
+    "question_length": 189,
+    "num_options": 4
+  },
+  {
+    "video_id": "1111601171",
+    "question": "What is the final color of the sphere building?\nA. Red\nB. Green\nC. Blue\nD. Black",
+    "answer": "C. Blue",
+    "dim": "attribute_change",
+    "question_length": 80,
+    "num_options": 4
+  },
+  {
+    "video_id": "1111601171",
+    "question": "How is the sphere building transforming?\nA. It is changing from green to blue.\nB. It is staying in the same color.\nC. It is changing from blue to green.\nD. It is changing from red to yellow.",
+    "answer": "A. It is changing from green to blue.",
+    "dim": "attribute_change",
+    "question_length": 190,
+    "num_options": 4
+  },
+  {
+    "video_id": "1086105089",
+    "question": "What is happening to the building?\nA. being constructed\nB. demolishing\nC. grwoing wider",
+    "answer": "A. being constructed",
+    "dim": "attribute_change",
+    "question_length": 87,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086105089",
+    "question": "How is the building changing?\nA. growing taller\nB. staying the same\nC. getting shorter",
+    "answer": "A. growing taller",
+    "dim": "attribute_change",
+    "question_length": 86,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086105089",
+    "question": "What is being done to the building?\nA. deconstructing\nB. constructing\nC. renovating",
+    "answer": "B. constructing",
+    "dim": "attribute_change",
+    "question_length": 83,
+    "num_options": 3
+  },
+  {
+    "video_id": "1058498242",
+    "question": "What is happening to the 3d pixels?\nA. changing from a cuboid into a flat surface\nB. changing from the shape of a man into a cuboid\nC. changing from a cuboid into the shape of a man\nD. changing from a flat surface into a cuboid",
+    "answer": "C. changing from a cuboid into the shape of a man",
+    "dim": "attribute_change",
+    "question_length": 227,
+    "num_options": 4
+  },
+  {
+    "video_id": "1058498242",
+    "question": "How are the 3d pixels transforming?\nA. changing from a cuboid into the shape of a man\nB. changing from a sphere into a cuboid\nC. changing from a cuboid into a sphere\nD. changing from the shape of a man into a cuboid",
+    "answer": "A. changing from a cuboid into the shape of a man",
+    "dim": "attribute_change",
+    "question_length": 215,
+    "num_options": 4
+  },
+  {
+    "video_id": "1058498242",
+    "question": "In what shape are the 3d pixels changing into?\nA. a cuboid\nB. a man\nC. a sphere\nD. a tree",
+    "answer": "B. a man",
+    "dim": "attribute_change",
+    "question_length": 89,
+    "num_options": 4
+  },
+  {
+    "video_id": "1082268005",
+    "question": "What is happening to the planet earth?\nA. assembling from toy bricks\nB. disassembling and disappearing\nC. splitting into two halves",
+    "answer": "A. assembling from toy bricks",
+    "dim": "attribute_change",
+    "question_length": 131,
+    "num_options": 3
+  },
+  {
+    "video_id": "1082268005",
+    "question": "How is the planet earth changing?\nA. it is spinning\nB. it is disappearing\nC. it is assembling from toy bricks",
+    "answer": "C. it is assembling from toy bricks",
+    "dim": "attribute_change",
+    "question_length": 109,
+    "num_options": 3
+  },
+  {
+    "video_id": "1082268005",
+    "question": "In what way is the planet earth transforming?\nA. it is disassembling and disappearing\nB. it is dissolving into water\nC. it is assembling from toy bricks",
+    "answer": "C. it is assembling from toy bricks",
+    "dim": "attribute_change",
+    "question_length": 152,
+    "num_options": 3
+  },
+  {
+    "video_id": "1070711428",
+    "question": "What is happening to the glacier?\nA. breaking and falling in water\nB. assembling and rising from water\nC. freezing\nD. evaporating",
+    "answer": "A. breaking and falling in water",
+    "dim": "attribute_change",
+    "question_length": 129,
+    "num_options": 4
+  },
+  {
+    "video_id": "1070711428",
+    "question": "What change is happening to the glacier?\nA. falling in water\nB. rising from water\nC. becoming shorter\nD. freezing",
+    "answer": "A. falling in water",
+    "dim": "attribute_change",
+    "question_length": 113,
+    "num_options": 4
+  },
+  {
+    "video_id": "1070711428",
+    "question": "What is occurring to the glacier?\nA. breaking and falling in water\nB. becoming shorter\nC. assembling and rising from water\nD. evaporating",
+    "answer": "A. breaking and falling in water",
+    "dim": "attribute_change",
+    "question_length": 137,
+    "num_options": 4
+  },
+  {
+    "video_id": "1057447372",
+    "question": "What is happening to the sport stadium?\nA. turning darker\nB. turning brighter\nC. staying the same brightness",
+    "answer": "B. turning brighter",
+    "dim": "attribute_change",
+    "question_length": 108,
+    "num_options": 3
+  },
+  {
+    "video_id": "1057447372",
+    "question": "How is the sport stadium transforming?\nA. staying the same brightness\nB. becoming darker\nC. becoming brighter",
+    "answer": "C. becoming brighter",
+    "dim": "attribute_change",
+    "question_length": 109,
+    "num_options": 3
+  },
+  {
+    "video_id": "1057447372",
+    "question": "What is the alteration occurring in the sport stadium?\nA. remaining the same\nB. turning darker\nC. turning brighter",
+    "answer": "C. turning brighter",
+    "dim": "attribute_change",
+    "question_length": 114,
+    "num_options": 3
+  },
+  {
+    "video_id": "1053334574",
+    "question": "What is happening to the black ink?\nA. staying in the same shape\nB. shrinking into the the center\nC. splitting in half\nD. expanding from the center",
+    "answer": "D. expanding from the center",
+    "dim": "attribute_change",
+    "question_length": 147,
+    "num_options": 4
+  },
+  {
+    "video_id": "1053334574",
+    "question": "How is the black ink transforming?\nA. splitting in half\nB. staying in the same shape\nC. expanding from the center\nD. contracting towards the center",
+    "answer": "C. expanding from the center",
+    "dim": "attribute_change",
+    "question_length": 147,
+    "num_options": 4
+  },
+  {
+    "video_id": "1053334574",
+    "question": "In what way is the black ink undergoing a change?\nA. drying up\nB. contracting into the center\nC. expanding from the center",
+    "answer": "C. expanding from the center",
+    "dim": "attribute_change",
+    "question_length": 122,
+    "num_options": 3
+  },
+  {
+    "video_id": "1016172301",
+    "question": "What is happening to the 3D house model?\nA. being constructed\nB. being painted\nC. being demolished",
+    "answer": "A. being constructed",
+    "dim": "attribute_change",
+    "question_length": 98,
+    "num_options": 3
+  },
+  {
+    "video_id": "1016172301",
+    "question": "Which process is the 3D house model going through?\nA. being deconstructed\nB. being repaired\nC. being constructed",
+    "answer": "C. being constructed",
+    "dim": "attribute_change",
+    "question_length": 112,
+    "num_options": 3
+  },
+  {
+    "video_id": "1016172301",
+    "question": "What change is occurring to the 3D house model?\nA. being renovated\nB. being constructed\nC. being dismantled",
+    "answer": "B. being constructed",
+    "dim": "attribute_change",
+    "question_length": 107,
+    "num_options": 3
+  },
+  {
+    "video_id": "1084736389",
+    "question": "What is happening to the face?\nA. Aging\nB. Morphing from a chimpanzee into a human\nC. Becoming younger\nD. Morphing from a human into a chimpanzee",
+    "answer": "B. Morphing from a chimpanzee into a human",
+    "dim": "attribute_change",
+    "question_length": 145,
+    "num_options": 4
+  },
+  {
+    "video_id": "1084736389",
+    "question": "How does the face transform?\nA. It morphs from a chimpanzee into a human\nB. It is aging\nC. It morphs from a human into a chimpanzee\nD. It gets younger",
+    "answer": "A. It morphs from a chimpanzee into a human",
+    "dim": "attribute_change",
+    "question_length": 150,
+    "num_options": 4
+  },
+  {
+    "video_id": "1084736389",
+    "question": "Which animal does the face resemble at the beginning?\nA. Human\nB. Giraffe\nC. Tiger\nD. Chimpanzee",
+    "answer": "D. Chimpanzee",
+    "dim": "attribute_change",
+    "question_length": 96,
+    "num_options": 4
+  },
+  {
+    "video_id": "1054494542",
+    "question": "What is happening to the background?\nA. changing from pink to green\nB. changing from pink to blue\nC. changing from green to pink\nD. changing from blue to pink",
+    "answer": "B. changing from pink to blue",
+    "dim": "attribute_change",
+    "question_length": 158,
+    "num_options": 4
+  },
+  {
+    "video_id": "1054494542",
+    "question": "How is the background transforming?\nA. turning green\nB. truning pink\nC. turning yellow\nD. turning blue",
+    "answer": "D. turning blue",
+    "dim": "attribute_change",
+    "question_length": 102,
+    "num_options": 4
+  },
+  {
+    "video_id": "1054494542",
+    "question": "What is the main change occurring in the background?\nA. changing from green to pink\nB. changing from pink to green\nC. changing from blue to pink\nD. changing from pink to blue",
+    "answer": "D. changing from pink to blue",
+    "dim": "attribute_change",
+    "question_length": 174,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055194940",
+    "question": "What is happening to the insect?\nA. remaining as a butterfly\nB. transforming from butterfly into pupa\nC. transforming from pupa into butterfly\nD. remaining as a pupa",
+    "answer": "C. transforming from pupa into butterfly",
+    "dim": "attribute_change",
+    "question_length": 165,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055194940",
+    "question": "What is the final form of the insect after it undergoes transformation?\nA. larva\nB. pupa\nC. butterfly\nD. egg",
+    "answer": "C. butterfly",
+    "dim": "attribute_change",
+    "question_length": 108,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055194940",
+    "question": "What change is occurring in the insect\nA. transforming from butterfly into pupa\nB. transforming from dead to live\nC. transforming from live to dead\nD. transforming from pupa into butterfly",
+    "answer": "D. transforming from pupa into butterfly",
+    "dim": "attribute_change",
+    "question_length": 188,
+    "num_options": 4
+  },
+  {
+    "video_id": "1079384099",
+    "question": "What is happening to the 3d pixel? \nA. It is transforming from a white square into the shape of a flower\nB. It is transforming from a triangle into the shape of a heart\nC. It is transforming from the shape of a heart into a triangle\nD. It is transforming from the shape of a flower into a white square",
+    "answer": "A. It is transforming from a white square into the shape of a flower",
+    "dim": "attribute_change",
+    "question_length": 301,
+    "num_options": 4
+  },
+  {
+    "video_id": "1079384099",
+    "question": "What is the final shape of the 3d pixel? \nA. A flower\nB. A star\nC. A circle\nD. A square",
+    "answer": "A. A flower",
+    "dim": "attribute_change",
+    "question_length": 87,
+    "num_options": 4
+  },
+  {
+    "video_id": "1079384099",
+    "question": "Which shapes does the 3d pixel transform through? \nA. From flower to square\nB. From flower to heart\nC. From heart to flower\nD. From square to flower",
+    "answer": "D. From square to flower",
+    "dim": "attribute_change",
+    "question_length": 148,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099811331",
+    "question": "What is happening to the 3d heart?\nA. Reducing in size\nB. gradually disappearing\nC. gradually appearing\nD. growing in size",
+    "answer": "C. gradually appearing",
+    "dim": "attribute_change",
+    "question_length": 122,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099811331",
+    "question": "How is the 3d heart transforming?\nA. gradually disappearing\nB. growing in size\nC. gradually appearing\nD. Reducing in size",
+    "answer": "C. gradually appearing",
+    "dim": "attribute_change",
+    "question_length": 121,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099811331",
+    "question": "What is the attribute change of the 3d heart?\nA. gradually appearing\nB. splitting in half\nC. gradually disappearing\nD. breaking apart",
+    "answer": "A. gradually appearing",
+    "dim": "attribute_change",
+    "question_length": 133,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093340469",
+    "question": "What is happening to the room?\nA. staying the same brightness\nB. turning brighter\nC. turning darker",
+    "answer": "C. turning darker",
+    "dim": "attribute_change",
+    "question_length": 99,
+    "num_options": 3
+  },
+  {
+    "video_id": "1093340469",
+    "question": "Which word best describes the change in the room?\nA. darkening\nB. brightening\nC. stabilizing",
+    "answer": "A. darkening",
+    "dim": "attribute_change",
+    "question_length": 92,
+    "num_options": 3
+  },
+  {
+    "video_id": "1093340469",
+    "question": "How is the attribute of the room changing?\nA. staying unchanged\nB. brightening up\nC. becoming darker",
+    "answer": "C. becoming darker",
+    "dim": "attribute_change",
+    "question_length": 100,
+    "num_options": 3
+  }
+]

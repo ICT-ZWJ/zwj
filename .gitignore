@@ -1,0 +1,105 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# venv
+.venv/
+venv/
+
+# logs & outputs
+nohup.out
+*.log
+test.log
+
+# results / checkpoints
+result/
+*.pt
+*.pth
+*.ckpt
+
+# core dumps
+core.*
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# datasets (common names)
+data/
+dataset/
+datasets/
+Data/
+Dataset/
+Datasets/
+
+# common dataset file formats
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# media (often part of datasets)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+
+# large array / ML dataset formats
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.ckpt
+*.lmdb
+
+
+# ===== big model weights / checkpoints =====
+*.bin
+*.h5
+
+# ===== ISTS-PLM big folders (keep code, ignore data/weights) =====
+ISTS-PLM/PLMs/
+ISTS-PLM/data/
+ISTS-PLM/save/
+ISTS-PLM/ISTS-PLM.zip
+
+# ===== Tempcompass big zip =====
+Tempcompass/*.zip
+
+# ===== ignore eval results / dataset-like files =====
+Chirality_in_Action/Test_Result/
+Chirality_in_Action/test_dataset/
+
+# common data formats (usually not for git)
+*.jsonl
+*.csv
+*.tsv
+*.parquet
+
+# big model weights / checkpoints
+*.bin
+*.h5
+
+# ISTS-PLM big folders (keep code only)
+ISTS-PLM/PLMs/
+ISTS-PLM/data/
+ISTS-PLM/save/
+ISTS-PLM/ISTS-PLM.zip
+
+# Tempcompass large zip
+Tempcompass/*.zip

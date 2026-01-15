@@ -1,0 +1,2682 @@
+[
+  {
+    "video_id": "1034419625",
+    "question": "What is the direction of the man?\nA. moving towards the camera\nB. moving from left to right\nC. moving away from the camera",
+    "answer": "B. moving from left to right",
+    "dim": "direction",
+    "question_length": 122,
+    "num_options": 3
+  },
+  {
+    "video_id": "1034419625",
+    "question": "From the camera's point of view, in which direction is the man moving?\nA. away from the camera\nB. towards the camera\nC. from left to right",
+    "answer": "C. from left to right",
+    "dim": "direction",
+    "question_length": 138,
+    "num_options": 3
+  },
+  {
+    "video_id": "1034419625",
+    "question": "In relation to the camera's position, which way is the man headed?\nA. from left to right\nB. towards the camera\nC. from right to left",
+    "answer": "A. from left to right",
+    "dim": "direction",
+    "question_length": 132,
+    "num_options": 3
+  },
+  {
+    "video_id": "1034419625_reverse",
+    "question": "What is the direction of the man?\nA. moving towards the camera\nB. moving from right to left\nC. moving away from the camera\nD. moving from left to right",
+    "answer": "B. moving from right to left",
+    "dim": "direction",
+    "question_length": 151,
+    "num_options": 4
+  },
+  {
+    "video_id": "1034419625_reverse",
+    "question": "From the camera's point of view, in which direction is the man moving?\nA. away from the camera\nB. towards the camera\nC. from right to left\nD. from left to right",
+    "answer": "C. from right to left",
+    "dim": "direction",
+    "question_length": 160,
+    "num_options": 4
+  },
+  {
+    "video_id": "1034419625_reverse",
+    "question": "In relation to the camera's position, which way is the man headed?\nA. from right to left\nB. towards the camera\nC. from left to right\nD. away from the camera",
+    "answer": "A. from right to left",
+    "dim": "direction",
+    "question_length": 156,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094590221",
+    "question": "What direction is the basketball moving?\nA. straight ahead\nB. left to right\nC. right to left",
+    "answer": "C. right to left",
+    "dim": "direction",
+    "question_length": 92,
+    "num_options": 3
+  },
+  {
+    "video_id": "1094590221",
+    "question": "How does the basketball move in the horizontal direction?\nA. left to right\nB. right to left\nC. standing still",
+    "answer": "B. right to left",
+    "dim": "direction",
+    "question_length": 109,
+    "num_options": 3
+  },
+  {
+    "video_id": "1094590221",
+    "question": "From which side of the screen does the basketball ends moving?\nA. right top\nB. right bottom\nC. left bottom\nD. left top",
+    "answer": "C. left bottom",
+    "dim": "direction",
+    "question_length": 118,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094590221_reverse",
+    "question": "What direction is the basketball moving?\nA. straight ahead\nB. left to right\nC. right to left",
+    "answer": "B. left to right",
+    "dim": "direction",
+    "question_length": 92,
+    "num_options": 3
+  },
+  {
+    "video_id": "1094590221_reverse",
+    "question": "How does the basketball move in the horizontal direction?\nA. left to right\nB. right to left\nC. standing still",
+    "answer": "A. left to right",
+    "dim": "direction",
+    "question_length": 109,
+    "num_options": 3
+  },
+  {
+    "video_id": "1094590221_reverse",
+    "question": "From which side of the screen does the basketball start moving?\nA. right top\nB. right bottom\nC. left bottom\nD. left top",
+    "answer": "C. left bottom",
+    "dim": "direction",
+    "question_length": 119,
+    "num_options": 4
+  },
+  {
+    "video_id": "1111657885",
+    "question": "Which direction are the people skating?\nA. towards the camera\nB. parallel to the screen\nC. away from the camera",
+    "answer": "A. towards the camera",
+    "dim": "direction",
+    "question_length": 111,
+    "num_options": 3
+  },
+  {
+    "video_id": "1111657885",
+    "question": "In what direction are the people moving?\nA. standing still\nB. towards the camera\nC. from right to left in relation to the camera\nD. away from the camera",
+    "answer": "B. towards the camera",
+    "dim": "direction",
+    "question_length": 152,
+    "num_options": 4
+  },
+  {
+    "video_id": "1111657885",
+    "question": "How would you describe the movement of the people?\nA. gliding away from the camera\nB. gliding towards the camera\nC. gliding parallel the camera",
+    "answer": "B. gliding towards the camera",
+    "dim": "direction",
+    "question_length": 143,
+    "num_options": 3
+  },
+  {
+    "video_id": "1111657885_reverse",
+    "question": "Which direction are the people skating?\nA. towards the camera\nB. parallel to the screen\nC. away from the camera",
+    "answer": "C. away from the camera",
+    "dim": "direction",
+    "question_length": 111,
+    "num_options": 3
+  },
+  {
+    "video_id": "1111657885_reverse",
+    "question": "In what direction are the people moving?\nA. standing still\nB. towards the camera\nC. from right to left in relation to the camera\nD. away from the camera",
+    "answer": "D. away from the camera",
+    "dim": "direction",
+    "question_length": 152,
+    "num_options": 4
+  },
+  {
+    "video_id": "1111657885_reverse",
+    "question": "How would you describe the movement of the people?\nA. gliding away from the camera\nB. gliding towards the camera\nC. gliding parallel the camera",
+    "answer": "A. gliding away from the camera",
+    "dim": "direction",
+    "question_length": 143,
+    "num_options": 3
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What is the direction of the panning in the video?\nA. left to right\nB. right to left\nC. up and down\nD. circular motion",
+    "answer": "B. right to left",
+    "dim": "direction",
+    "question_length": 118,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What is the movement of the camera in the video?\nA. panning from right to left\nB. zooming in\nC. zooming out\nD. panning from left to right",
+    "answer": "A. panning from right to left",
+    "dim": "direction",
+    "question_length": 137,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089810425",
+    "question": "Which way is the video shifting?\nA. horizontal\nB. diagonal\nC. vertical",
+    "answer": "A. horizontal",
+    "dim": "direction",
+    "question_length": 70,
+    "num_options": 3
+  },
+  {
+    "video_id": "1089810425",
+    "question": "In what direction is the camera moving?\nA. leftward\nB. upward\nC. downward\nD. rightward",
+    "answer": "A. leftward",
+    "dim": "direction",
+    "question_length": 86,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089810425_reverse",
+    "question": "What is the direction of the panning in the video?\nA. left to right\nB. right to left\nC. up and down\nD. circular motion",
+    "answer": "A. left to right",
+    "dim": "direction",
+    "question_length": 118,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089810425_reverse",
+    "question": "What is the movement of the camera in the video?\nA. panning from right to left\nB. zooming in\nC. zooming out\nD. panning from left to right",
+    "answer": "D. panning from left to right",
+    "dim": "direction",
+    "question_length": 137,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089810425_reverse",
+    "question": "Which way is the video shifting?\nA. horizontal\nB. diagonal\nC. vertical",
+    "answer": "A. horizontal",
+    "dim": "direction",
+    "question_length": 70,
+    "num_options": 3
+  },
+  {
+    "video_id": "1089810425_reverse",
+    "question": "In what direction is the camera moving?\nA. leftward\nB. upward\nC. downward\nD. rightward",
+    "answer": "D. rightward",
+    "dim": "direction",
+    "question_length": 86,
+    "num_options": 4
+  },
+  {
+    "video_id": "1059718130",
+    "question": "What direction is the sun moving in?\nA. falling\nB. rising\nC. staying in one place",
+    "answer": "B. rising",
+    "dim": "direction",
+    "question_length": 81,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130",
+    "question": "What is the direction of the sun?\nA. stationary\nB. falling\nC. rising",
+    "answer": "C. rising",
+    "dim": "direction",
+    "question_length": 68,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130",
+    "question": "What is the primary movement of the sun?\nA. descending\nB. standing still\nC. rising",
+    "answer": "C. rising",
+    "dim": "direction",
+    "question_length": 82,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130_reverse",
+    "question": "What direction is the sun moving in?\nA. setting\nB. rising\nC. staying in one place",
+    "answer": "A. setting",
+    "dim": "direction",
+    "question_length": 81,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130_reverse",
+    "question": "What is the direction of the sun?\nA. stationary\nB. falling\nC. rising",
+    "answer": "B. falling",
+    "dim": "direction",
+    "question_length": 68,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130_reverse",
+    "question": "What is the primary movement of the sun?\nA. descending\nB. standing still\nC. rising",
+    "answer": "A. descending",
+    "dim": "direction",
+    "question_length": 82,
+    "num_options": 3
+  },
+  {
+    "video_id": "1083845854",
+    "question": "What is the direction in which the clock hands are moving?\nA. counterclockwise\nB. clockwise\nC. stationary",
+    "answer": "B. clockwise",
+    "dim": "direction",
+    "question_length": 105,
+    "num_options": 3
+  },
+  {
+    "video_id": "1083845854",
+    "question": "How are the clock hands changing their orientation?\nA. standing still\nB. moving clockwise\nC. moving anti-clockwise",
+    "answer": "B. moving clockwise",
+    "dim": "direction",
+    "question_length": 114,
+    "num_options": 3
+  },
+  {
+    "video_id": "1083845854",
+    "question": "In what direction are the clock hands moving?\nA. clockwise\nB. alternating between clockwise and counterclockwise\nC. counterclockwise",
+    "answer": "A. clockwise",
+    "dim": "direction",
+    "question_length": 132,
+    "num_options": 3
+  },
+  {
+    "video_id": "1083845854_reverse",
+    "question": "What is the direction in which the clock hands are moving?\nA. counterclockwise\nB. clockwise\nC. stationary",
+    "answer": "A. counterclockwise",
+    "dim": "direction",
+    "question_length": 105,
+    "num_options": 3
+  },
+  {
+    "video_id": "1083845854_reverse",
+    "question": "How are the clock hands changing their orientation?\nA. standing still\nB. moving clockwise\nC. moving anti-clockwise",
+    "answer": "C. moving anti-clockwise",
+    "dim": "direction",
+    "question_length": 114,
+    "num_options": 3
+  },
+  {
+    "video_id": "1083845854_reverse",
+    "question": "In what direction are the clock hands moving?\nA. clockwise\nB. alternating between clockwise and counterclockwise\nC. counterclockwise",
+    "answer": "C. counterclockwise",
+    "dim": "direction",
+    "question_length": 132,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100329207",
+    "question": "What is the direction of the camera view?\nA. moving right\nB. moving backward\nC. moving left\nD. moving forward",
+    "answer": "D. moving forward",
+    "dim": "direction",
+    "question_length": 109,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100329207",
+    "question": "In which direction is the video panning?\nA. up\nB. down\nC. backward\nD. forward",
+    "answer": "D. forward",
+    "dim": "direction",
+    "question_length": 77,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100329207",
+    "question": "What is the direction of the camera movement?\nA. moving forward\nB. tilting up\nC. tilting down\nD. moving backward",
+    "answer": "A. moving forward",
+    "dim": "direction",
+    "question_length": 112,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089201973",
+    "question": "What is the direction of the football in the video?\nA. moving from left to right\nB. moving from right to left\nC. stationary",
+    "answer": "A. moving from left to right",
+    "dim": "direction",
+    "question_length": 123,
+    "num_options": 3
+  },
+  {
+    "video_id": "1089201973",
+    "question": "In which direction is the football traveling?\nA. Rightwards\nB. Upwards\nC. Leftwards\nD. Downwards",
+    "answer": "A. Rightwards",
+    "dim": "direction",
+    "question_length": 96,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089201973",
+    "question": "How would you describe the path of the football?\nA. from bottom to top\nB. from right to left\nC. from left to right\nD. from top to bottom",
+    "answer": "C. from left to right",
+    "dim": "direction",
+    "question_length": 136,
+    "num_options": 4
+  },
+  {
+    "video_id": "1034736653",
+    "question": "In which direction are the woman athletes running?\nA. from right to left\nB. in circles\nC. from left to right",
+    "answer": "C. from left to right",
+    "dim": "direction",
+    "question_length": 108,
+    "num_options": 3
+  },
+  {
+    "video_id": "1034736653",
+    "question": "From which side are the woman athletes entering the screen?\nA. right\nB. top\nC. left\nD. bottom",
+    "answer": "C. left",
+    "dim": "direction",
+    "question_length": 93,
+    "num_options": 4
+  },
+  {
+    "video_id": "1034736653",
+    "question": "Which way are the woman athletes heading?\nA. from left to right\nB. away from the camera\nC. from right to left\nD. towards the camera",
+    "answer": "A. from left to right",
+    "dim": "direction",
+    "question_length": 131,
+    "num_options": 4
+  },
+  {
+    "video_id": "1084153195",
+    "question": "What is the movement of the dolphins?\nA. swimming towards the shore\nB. hovering in one place\nC. swimming away from the shore",
+    "answer": "A. swimming towards the shore",
+    "dim": "direction",
+    "question_length": 124,
+    "num_options": 3
+  },
+  {
+    "video_id": "1084153195",
+    "question": "In which direction are the dolphins swimming?\nA. parallel to the shore\nB. towards the shore\nC. away from the shore",
+    "answer": "B. towards the shore",
+    "dim": "direction",
+    "question_length": 114,
+    "num_options": 3
+  },
+  {
+    "video_id": "1084153195",
+    "question": "If you observe the dolphins, what direction would you notice them heading?\nA. towards the shore\nB. parallel to the shore\nC. away from the shore",
+    "answer": "A. towards the shore",
+    "dim": "direction",
+    "question_length": 143,
+    "num_options": 3
+  },
+  {
+    "video_id": "1081092839",
+    "question": "What is the direction of the sun?\nA. descending\nB. ascending\nC. moving sideways",
+    "answer": "A. descending",
+    "dim": "direction",
+    "question_length": 79,
+    "num_options": 3
+  },
+  {
+    "video_id": "1081092839",
+    "question": "What is the movement pattern of the sun?\nA. falling\nB. rising\nC. remaining still",
+    "answer": "A. falling",
+    "dim": "direction",
+    "question_length": 80,
+    "num_options": 3
+  },
+  {
+    "video_id": "1081092839",
+    "question": "What is the movement direction of the sun?\nA. descending\nB. ascending\nC. rotating",
+    "answer": "A. descending",
+    "dim": "direction",
+    "question_length": 81,
+    "num_options": 3
+  },
+  {
+    "video_id": "1081092839",
+    "question": "In what direction does the sun travel during sunset?\nA. downwards\nB. upwards\nC. horizontally",
+    "answer": "A. downwards",
+    "dim": "direction",
+    "question_length": 92,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059462749",
+    "question": "In which direction is the person moving?\nA. rightwards\nB. downwards\nC. upwards\nD. leftwards",
+    "answer": "B. downwards",
+    "dim": "direction",
+    "question_length": 91,
+    "num_options": 4
+  },
+  {
+    "video_id": "1059462749",
+    "question": "What word describes the movement of the person?\nA. standing\nB. descending\nC. climbing up\nD. jumping",
+    "answer": "B. descending",
+    "dim": "direction",
+    "question_length": 99,
+    "num_options": 4
+  },
+  {
+    "video_id": "1059462749",
+    "question": "From a higher point to a lower point, the person is:\nA. rotating\nB. rising\nC. staying still\nD. descending",
+    "answer": "D. descending",
+    "dim": "direction",
+    "question_length": 105,
+    "num_options": 4
+  },
+  {
+    "video_id": "1088279109",
+    "question": "What is the elevator doing?\nA. rising\nB. going down\nC. staying still",
+    "answer": "A. rising",
+    "dim": "direction",
+    "question_length": 68,
+    "num_options": 3
+  },
+  {
+    "video_id": "1088279109",
+    "question": "In which direction is the elevator moving?\nA. up\nB. down\nC. not moving",
+    "answer": "A. up",
+    "dim": "direction",
+    "question_length": 70,
+    "num_options": 3
+  },
+  {
+    "video_id": "1088279109",
+    "question": "What is the direction of the elevator's movement?\nA. descending\nB. ascending\nC. stationary",
+    "answer": "B. ascending",
+    "dim": "direction",
+    "question_length": 90,
+    "num_options": 3
+  },
+  {
+    "video_id": "1088279109",
+    "question": "Which way is the elevator going?\nA. up\nB. down\nC. stopped",
+    "answer": "A. up",
+    "dim": "direction",
+    "question_length": 57,
+    "num_options": 3
+  },
+  {
+    "video_id": "1096612823",
+    "question": "What is happening to the video?\nA. zooming out\nB. rotating\nC. panning left\nD. zooming in",
+    "answer": "D. zooming in",
+    "dim": "direction",
+    "question_length": 88,
+    "num_options": 4
+  },
+  {
+    "video_id": "1096612823",
+    "question": "What is the direction of the video?\nA. panning left\nB. fading out\nC. zooming in\nD. moving backward",
+    "answer": "C. zooming in",
+    "dim": "direction",
+    "question_length": 98,
+    "num_options": 4
+  },
+  {
+    "video_id": "1096612823",
+    "question": "How is the video changing?\nA. panning upwards\nB. rewinding\nC. zooming out\nD. zooming in",
+    "answer": "D. zooming in",
+    "dim": "direction",
+    "question_length": 87,
+    "num_options": 4
+  },
+  {
+    "video_id": "1075484900",
+    "question": "Which way is the child facing in relation to the man?\nA. Forward\nB. Turning towards the man\nC. Turning away from the man\nD. Backward",
+    "answer": "C. Turning away from the man",
+    "dim": "direction",
+    "question_length": 132,
+    "num_options": 4
+  },
+  {
+    "video_id": "1075484900",
+    "question": "In what direction is the child moving in relation to the man?\nA. Backward\nB. Forward\nC. Turning away from the man\nD. Turning towards the man",
+    "answer": "C. Turning away from the man",
+    "dim": "direction",
+    "question_length": 140,
+    "num_options": 4
+  },
+  {
+    "video_id": "1075484900",
+    "question": "What is the orientation of the child with respect to the man?\nA. Downwards\nB. Upwards\nC. Turning away from the man\nD. Turning towards the man",
+    "answer": "C. Turning away from the man",
+    "dim": "direction",
+    "question_length": 141,
+    "num_options": 4
+  },
+  {
+    "video_id": "1090578917",
+    "question": "What direction is the man leaping?\nA. to his left\nB. backward\nC. forward\nD. to his right",
+    "answer": "D. to his right",
+    "dim": "direction",
+    "question_length": 88,
+    "num_options": 4
+  },
+  {
+    "video_id": "1090578917",
+    "question": "Which way is the man moving?\nA. left\nB. forwards\nC. right\nD. up",
+    "answer": "C. right",
+    "dim": "direction",
+    "question_length": 63,
+    "num_options": 4
+  },
+  {
+    "video_id": "1090578917",
+    "question": "What is the direction of the man's movement?\nA. counterclockwise\nB. horizontal\nC. vertically\nD. clockwise",
+    "answer": "B. horizontal",
+    "dim": "direction",
+    "question_length": 105,
+    "num_options": 4
+  },
+  {
+    "video_id": "1075338140",
+    "question": "What is the direction of the ball?\nA. forward and backward\nB. spinning in place\nC. rolling from left to right\nD. rolling from right to left",
+    "answer": "C. rolling from left to right",
+    "dim": "direction",
+    "question_length": 139,
+    "num_options": 4
+  },
+  {
+    "video_id": "1075338140",
+    "question": "Which way is the ball moving?\nA. counterclockwise\nB. rolling from left to right\nC. clockwise\nD. rolling from right to left",
+    "answer": "B. rolling from left to right",
+    "dim": "direction",
+    "question_length": 122,
+    "num_options": 4
+  },
+  {
+    "video_id": "1075338140",
+    "question": "In which direction does the ball travel?\nA. straight ahead\nB. rolling from left to right\nC. rolling from right to left\nD. floating in mid-air",
+    "answer": "B. rolling from left to right",
+    "dim": "direction",
+    "question_length": 141,
+    "num_options": 4
+  },
+  {
+    "video_id": "1067268403",
+    "question": "What is the movement direction of the wind turbines?\nA. Stationary\nB. Rotating clockwise\nC. Rotating counterclockwise",
+    "answer": "B. Rotating clockwise",
+    "dim": "direction",
+    "question_length": 117,
+    "num_options": 3
+  },
+  {
+    "video_id": "1067268403",
+    "question": "Which way are the wind turbines rotating?\nA. Randomly\nB. Clockwise\nC. Anti-clockwise",
+    "answer": "B. Clockwise",
+    "dim": "direction",
+    "question_length": 84,
+    "num_options": 3
+  },
+  {
+    "video_id": "1067268403",
+    "question": "In which direction are the wind turbines turning?\nA. Anticlockwise\nB. Still\nC. Clockwise",
+    "answer": "C. Clockwise",
+    "dim": "direction",
+    "question_length": 88,
+    "num_options": 3
+  },
+  {
+    "video_id": "1067268403",
+    "question": "What is the rotational direction of the wind turbines?\nA. Clockwise\nB. Anti-clockwise\nC. Unchanging",
+    "answer": "A. Clockwise",
+    "dim": "direction",
+    "question_length": 99,
+    "num_options": 3
+  },
+  {
+    "video_id": "1096007487",
+    "question": "From the camera's point of view, in which direction is the 3d cloud moving?\nA. upward\nB. downward\nC. leftward\nD. rightward",
+    "answer": "C. leftward",
+    "dim": "direction",
+    "question_length": 122,
+    "num_options": 4
+  },
+  {
+    "video_id": "1096007487",
+    "question": "How is the 3d cloud moving from the camera's point of view?\nA. contracting\nB. spinning leftward\nC. spinning rightward\nD. expanding",
+    "answer": "B. spinning leftward",
+    "dim": "direction",
+    "question_length": 130,
+    "num_options": 4
+  },
+  {
+    "video_id": "1096007487",
+    "question": "What is the movement pattern of the 3d cloud as seen from the camera's point of view?\nA. from right to left\nB. rotating clockwise\nC. rotating counter-clockwise\nD. from left to right",
+    "answer": "A. from right to left",
+    "dim": "direction",
+    "question_length": 181,
+    "num_options": 4
+  },
+  {
+    "video_id": "1095939659",
+    "question": "In which direction is the light growing?\nA. Downwards\nB. Clockwise\nC. Counterclockwise\nD. Upwards",
+    "answer": "B. Clockwise",
+    "dim": "direction",
+    "question_length": 97,
+    "num_options": 4
+  },
+  {
+    "video_id": "1095939659",
+    "question": "What is the direction of the light's movement?\nA. Clockwise\nB. Anticlockwise\nC. Straight forward\nD. Downwards",
+    "answer": "A. Clockwise",
+    "dim": "direction",
+    "question_length": 109,
+    "num_options": 4
+  },
+  {
+    "video_id": "1095939659",
+    "question": "How is the light changing direction?\nA. Spinning vertically\nB. Rotating clockwise\nC. Shifting diagonally\nD. Growing counterclockwise",
+    "answer": "B. Rotating clockwise",
+    "dim": "direction",
+    "question_length": 132,
+    "num_options": 4
+  },
+  {
+    "video_id": "1059632327",
+    "question": "What is the direction of the tennis ball?\nA. bouncing up and down\nB. spinning clockwise and anticlockwise\nC. rolling forward and backward\nD. bouncing left to right",
+    "answer": "A. bouncing up and down",
+    "dim": "direction",
+    "question_length": 163,
+    "num_options": 4
+  },
+  {
+    "video_id": "1059632327",
+    "question": "Which direction does the tennis ball move in?\nA. moving in a circular path\nB. floating in mid-air\nC. moving in a zigzag pattern\nD. bouncing up and down",
+    "answer": "D. bouncing up and down",
+    "dim": "direction",
+    "question_length": 151,
+    "num_options": 4
+  },
+  {
+    "video_id": "1059632327",
+    "question": "In which direction does the tennis ball travel?\nA. bouncing up and down\nB. shooting straight ahead\nC. staying stationary\nD. bouncing side to side",
+    "answer": "A. bouncing up and down",
+    "dim": "direction",
+    "question_length": 145,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098785169",
+    "question": "What is the direction of the galaxy's spin?\nA. counterclockwise\nB. left to right\nC. clockwise\nD. up and down",
+    "answer": "C. clockwise",
+    "dim": "direction",
+    "question_length": 108,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098785169",
+    "question": "In which direction is the galaxy rotating?\nA. backward\nB. counter clockwise\nC. clockwise\nD. forward",
+    "answer": "C. clockwise",
+    "dim": "direction",
+    "question_length": 99,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098785169",
+    "question": "How is the galaxy spinning?\nA. backward\nB. counter clockwise\nC. clockwise\nD. forward",
+    "answer": "C. clockwise",
+    "dim": "direction",
+    "question_length": 84,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099984801",
+    "question": "What is the movement of the clouds?\nA. moving away from the camera\nB. staying still\nC. moving towards the camera",
+    "answer": "C. moving towards the camera",
+    "dim": "direction",
+    "question_length": 112,
+    "num_options": 3
+  },
+  {
+    "video_id": "1099984801",
+    "question": "In what direction are the clouds heading?\nA. towards the camera\nB. upward\nC. downward\nD. away from the camera",
+    "answer": "A. towards the camera",
+    "dim": "direction",
+    "question_length": 109,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099984801",
+    "question": "What is the movement direction of the clouds?\nA. forward\nB. in a circular motion\nC. side to side\nD. backward",
+    "answer": "D. backward",
+    "dim": "direction",
+    "question_length": 108,
+    "num_options": 4
+  },
+  {
+    "video_id": "1082419672",
+    "question": "What is the direction of movement in the video?\nA. hovering\nB. flying forwards\nC. flying backwards",
+    "answer": "C. flying backwards",
+    "dim": "direction",
+    "question_length": 98,
+    "num_options": 3
+  },
+  {
+    "video_id": "1082419672",
+    "question": "What is the trajectory of the movement?\nA. straight line\nB. arc-shaped\nC. zigzag",
+    "answer": "A. straight line",
+    "dim": "direction",
+    "question_length": 80,
+    "num_options": 3
+  },
+  {
+    "video_id": "1082419672",
+    "question": "In what direction is the entire video moving relative to the ship?\nA. forward\nB. up\nC. down\nD. backward",
+    "answer": "D. backward",
+    "dim": "direction",
+    "question_length": 103,
+    "num_options": 4
+  },
+  {
+    "video_id": "1058985719",
+    "question": "What is the direction in which the airplane is flying?\nA. bottom to top\nB. right to left\nC. top to bottom\nD. left to right",
+    "answer": "A. bottom to top",
+    "dim": "direction",
+    "question_length": 122,
+    "num_options": 4
+  },
+  {
+    "video_id": "1058985719",
+    "question": "Which way is the airplane moving on the screen?\nA. anticlockwise\nB. upwards\nC. clockwise\nD. downwards",
+    "answer": "B. upwards",
+    "dim": "direction",
+    "question_length": 101,
+    "num_options": 4
+  },
+  {
+    "video_id": "1058985719",
+    "question": "What is the trajectory of the airplane?\nA. vertically upwards\nB. vertically downwards\nC. horizontally rightwards\nD. horizontally leftwards",
+    "answer": "A. vertically upwards",
+    "dim": "direction",
+    "question_length": 138,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055413730",
+    "question": "In which direction is the planet Earth spinning?\nA. Rightwards\nB. Downwards\nC. Leftwards\nD. Upwards",
+    "answer": "A. Rightwards",
+    "dim": "direction",
+    "question_length": 99,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055413730",
+    "question": "Considering the camera's perspective, what is the rotational movement of the planet Earth?\nA. spinning to the left\nB. rotating upward\nC. spinning to the right",
+    "answer": "C. spinning to the right",
+    "dim": "direction",
+    "question_length": 158,
+    "num_options": 3
+  },
+  {
+    "video_id": "1055413730",
+    "question": "What is the apparent motion of the Earth based on the camera's viewpoint?\nA. away from the camera\nB. towards the camera\nC. spinning to the right\nD. spinning to the left",
+    "answer": "C. spinning to the right",
+    "dim": "direction",
+    "question_length": 168,
+    "num_options": 4
+  },
+  {
+    "video_id": "1081684532",
+    "question": "What is the direction of the asteroids in the video?\nA. flying away from the camera\nB. flying to the left\nC. flying towards the camera\nD. flying to the right",
+    "answer": "C. flying towards the camera",
+    "dim": "direction",
+    "question_length": 157,
+    "num_options": 4
+  },
+  {
+    "video_id": "1081684532",
+    "question": "Which direction are the asteroids moving?\nA. downwards\nB. towards the camera\nC. upwards\nD. away from the camera",
+    "answer": "B. towards the camera",
+    "dim": "direction",
+    "question_length": 111,
+    "num_options": 4
+  },
+  {
+    "video_id": "1081684532",
+    "question": "Which way are the asteroids going?\nA. towards the camera\nB. parallel to the camera\nC. away from the camera",
+    "answer": "A. towards the camera",
+    "dim": "direction",
+    "question_length": 106,
+    "num_options": 3
+  },
+  {
+    "video_id": "23391142",
+    "question": "What direction is the video panning?\nA. Upwards\nB. Downwards\nC. To the left\nD. To the right",
+    "answer": "D. To the right",
+    "dim": "direction",
+    "question_length": 91,
+    "num_options": 4
+  },
+  {
+    "video_id": "23391142",
+    "question": "What is the movement of the video?\nA. Zoom in\nB. Panning to the left\nC. Zoom out\nD. Panning to the right",
+    "answer": "D. Panning to the right",
+    "dim": "direction",
+    "question_length": 104,
+    "num_options": 4
+  },
+  {
+    "video_id": "23391142",
+    "question": "Which way is the scene shifting?\nA. Panning to the left\nB. Panning to the right\nC. Away from the camera\nD. Towards the camera",
+    "answer": "B. Panning to the right",
+    "dim": "direction",
+    "question_length": 125,
+    "num_options": 4
+  },
+  {
+    "video_id": "1053758117",
+    "question": "What is happening in the video?\nA. Zoom out from a 3D digital brain\nB. Standing still before a 3D digital brain\nC. Zoom into a 3D digital brain",
+    "answer": "C. Zoom into a 3D digital brain",
+    "dim": "direction",
+    "question_length": 143,
+    "num_options": 3
+  },
+  {
+    "video_id": "1053758117",
+    "question": "In which direction is the camera moving in the video?\nA. zooming in\nB. downwards\nC. upwards\nD. zooming out",
+    "answer": "A. zooming in",
+    "dim": "direction",
+    "question_length": 106,
+    "num_options": 4
+  },
+  {
+    "video_id": "1053758117",
+    "question": "How would you describe the trajectory of the video's direction?\nA. panning right\nB. panning left\nC. zooming out\nD. zooming in",
+    "answer": "D. zooming in",
+    "dim": "direction",
+    "question_length": 125,
+    "num_options": 4
+  },
+  {
+    "video_id": "1106668103",
+    "question": "What is the direction of movement in the video?\nA. staying still\nB. moving forward\nC. moving backward",
+    "answer": "B. moving forward",
+    "dim": "direction",
+    "question_length": 101,
+    "num_options": 3
+  },
+  {
+    "video_id": "1106668103",
+    "question": "In what way is the primary motion depicted in the video?\nA. turning leftward\nB. moving forward\nC. moving backward\nD. turning rightward",
+    "answer": "B. moving forward",
+    "dim": "direction",
+    "question_length": 134,
+    "num_options": 4
+  },
+  {
+    "video_id": "1106668103",
+    "question": "How would you describe the primary trajectory in the video?\nA. descending\nB. moving backward\nC. moving forward",
+    "answer": "C. moving forward",
+    "dim": "direction",
+    "question_length": 110,
+    "num_options": 3
+  },
+  {
+    "video_id": "1057163434",
+    "question": "What is the chef doing with the bread?\nA. removing it from the top of the burger\nB. putting it on top of the burger\nC. putting it inside the burger\nD. throwing it away",
+    "answer": "B. putting it on top of the burger",
+    "dim": "direction",
+    "question_length": 167,
+    "num_options": 4
+  },
+  {
+    "video_id": "1057163434",
+    "question": "Which direction is the chef moving the bread?\nA. throwing it away\nB. removing it from the burger\nC. putting it on top of the burger\nD. putting it inside the burger",
+    "answer": "C. putting it on top of the burger",
+    "dim": "direction",
+    "question_length": 163,
+    "num_options": 4
+  },
+  {
+    "video_id": "1057163434",
+    "question": "Which action is the chef performing with the bread?\nA. putting it on top of the burger\nB. picking it up from the burger\nC. inserting it inside the burger",
+    "answer": "A. putting it on top of the burger",
+    "dim": "direction",
+    "question_length": 153,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100319395",
+    "question": "What direction is the circular pattern moving?\nA. clockwise\nB. towards the camera\nC. counter-clockwise\nD. away from the camera",
+    "answer": "A. clockwise",
+    "dim": "direction",
+    "question_length": 126,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100319395",
+    "question": "Which way is the circular pattern moving?\nA. spinning clockwise\nB. spinning counter-clockwise\nC. vibrating back and forth",
+    "answer": "A. spinning clockwise",
+    "dim": "direction",
+    "question_length": 121,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100319395",
+    "question": "In which direction is the circular pattern spinning?\nA. towards the screen\nB. anticlockwise\nC. clockwise\nD. away from the screen",
+    "answer": "C. clockwise",
+    "dim": "direction",
+    "question_length": 128,
+    "num_options": 4
+  },
+  {
+    "video_id": "1101200293",
+    "question": "What is the direction of the camera motion relative to the aircraft carrier?\nA. counterclockwise\nB. downward\nC. upward\nD. clockwise",
+    "answer": "D. clockwise",
+    "dim": "direction",
+    "question_length": 131,
+    "num_options": 4
+  },
+  {
+    "video_id": "1101200293",
+    "question": "Which way is the camera moving around the aircraft carrier?\nA. clockwise\nB. back and forth\nC. tilting upwards\nD. counterclockwise",
+    "answer": "A. clockwise",
+    "dim": "direction",
+    "question_length": 129,
+    "num_options": 4
+  },
+  {
+    "video_id": "1101200293",
+    "question": "In what direction is the camera flying around the aircraft carrier?\nA. clockwise\nB. descending\nC. ascending\nD. anti-clockwise",
+    "answer": "A. clockwise",
+    "dim": "direction",
+    "question_length": 125,
+    "num_options": 4
+  },
+  {
+    "video_id": "1072453637",
+    "question": "What is the direction of the camera panning in the video?\nA. panning to the back of a fighter jet\nB. panning downwards around a fighter jet\nC. panning upwards around a fighter jet\nD. panning to the front of a fighter jet",
+    "answer": "A. panning to the back of a fighter jet",
+    "dim": "direction",
+    "question_length": 220,
+    "num_options": 4
+  },
+  {
+    "video_id": "1072453637",
+    "question": "What is the camera's panning orientation in the video?\nA. Moving to the front of a fighter jet\nB. Ascending around a fighter jet\nC. Moving to the rear of a fighter jet\nD. Descending around a fighter jet",
+    "answer": "C. Moving to the rear of a fighter jet",
+    "dim": "direction",
+    "question_length": 202,
+    "num_options": 4
+  },
+  {
+    "video_id": "1072453637",
+    "question": "Identify the camera's panning movement in the video.\nA. Panning to the back of a fighter jet\nB. Panning upward around a fighter jet\nC. Panning downward around a fighter jet\nD. Panning to the front of a fighter jet",
+    "answer": "A. Panning to the back of a fighter jet",
+    "dim": "direction",
+    "question_length": 213,
+    "num_options": 4
+  },
+  {
+    "video_id": "3396473605",
+    "question": "In which direction do the five stars appear?\nA. from right to left\nB. from top to bottom\nC. from left to right\nD. from bottom to top",
+    "answer": "C. from left to right",
+    "dim": "direction",
+    "question_length": 132,
+    "num_options": 4
+  },
+  {
+    "video_id": "3396473605",
+    "question": "Which star appears first?\nA. the star in the center\nB. the star in the right\nC. the star in the left\nD. all stars appear at the same time",
+    "answer": "C. the star in the left",
+    "dim": "direction",
+    "question_length": 137,
+    "num_options": 4
+  },
+  {
+    "video_id": "3396473605",
+    "question": "What is the direction that the stars appear?\nA. from right to left\nB. from left to right\nC. upwards\nD. downwards",
+    "answer": "B. from left to right",
+    "dim": "direction",
+    "question_length": 112,
+    "num_options": 4
+  },
+  {
+    "video_id": "1086820415",
+    "question": "What is the direction of motion of the large wave?\nA. moving vertically towards the top of the screen\nB. moving horizontally towards the right side of the screen\nC. moving vertically towards the bottom of the screen\nD. moving horizontally towards the left side of the screen",
+    "answer": "C. moving vertically towards the bottom of the screen",
+    "dim": "direction",
+    "question_length": 274,
+    "num_options": 4
+  },
+  {
+    "video_id": "1086820415",
+    "question": "Which direction does the large wave move in the video?\nA. vertically towards the top of the screen\nB. diagonally towards the bottom-right corner\nC. vertically towards the bottom of the screen\nD. diagonally towards the top-left corner",
+    "answer": "C. vertically towards the bottom of the screen",
+    "dim": "direction",
+    "question_length": 233,
+    "num_options": 4
+  },
+  {
+    "video_id": "1086820415",
+    "question": "How does the large wave travel across the screen?\nA. moving vertically towards the bottom\nB. contracting towards the center\nC. moving vertically towards the top\nD. expanding from the center",
+    "answer": "A. moving vertically towards the bottom",
+    "dim": "direction",
+    "question_length": 189,
+    "num_options": 4
+  },
+  {
+    "video_id": "1073831006",
+    "question": "What is the direction of the zebras' movement?\nA. from right to left\nB. from left to right\nC. from top to bottom",
+    "answer": "B. from left to right",
+    "dim": "direction",
+    "question_length": 112,
+    "num_options": 3
+  },
+  {
+    "video_id": "1073831006",
+    "question": "In what direction are the zebras moving?\nA. from left to right relative to the camera\nB. away from the camera\nC. towards the camera\nD. from right to left relative to the camera",
+    "answer": "A. from left to right relative to the camera",
+    "dim": "direction",
+    "question_length": 176,
+    "num_options": 4
+  },
+  {
+    "video_id": "1073831006",
+    "question": "Which direction are the zebras heading?\nA. downward\nB. leftward\nC. rightward\nD. upward",
+    "answer": "C. rightward",
+    "dim": "direction",
+    "question_length": 86,
+    "num_options": 4
+  },
+  {
+    "video_id": "1092278063",
+    "question": "What is the direction of the two rows of duck toy?\nA. moving in opposite directions on a conveyor belt\nB. moving in the same direction on a conveyor belt\nC. not moving on a conveyor belt",
+    "answer": "A. moving in opposite directions on a conveyor belt",
+    "dim": "direction",
+    "question_length": 186,
+    "num_options": 3
+  },
+  {
+    "video_id": "1092278063",
+    "question": "What is the movement pattern of the two rows of duck toy on a conveyor belt?\nA. circular motion\nB. straight motion\nC. zigzag motion",
+    "answer": "B. straight motion",
+    "dim": "direction",
+    "question_length": 131,
+    "num_options": 3
+  },
+  {
+    "video_id": "1092278063",
+    "question": "Which direction are the two rows of duck toy moving relative to each other?\nA. perpendicular to each other\nB. in opposite directions\nC. in the same direction",
+    "answer": "B. in opposite directions",
+    "dim": "direction",
+    "question_length": 157,
+    "num_options": 3
+  },
+  {
+    "video_id": "1024867412",
+    "question": "What direction is the car driving?\nA. Taking a left turn\nB. Going straight\nC. Taking a right turn\nD. Going backward",
+    "answer": "C. Taking a right turn",
+    "dim": "direction",
+    "question_length": 115,
+    "num_options": 4
+  },
+  {
+    "video_id": "1024867412",
+    "question": "In which direction is the car moving?\nA. Left\nB. Right\nC. Backward\nD. Forward",
+    "answer": "B. Right",
+    "dim": "direction",
+    "question_length": 77,
+    "num_options": 4
+  },
+  {
+    "video_id": "1024867412",
+    "question": "What maneuver is the car making?\nA. Making a left turn\nB. Parked on the street\nC. Driving backward\nD. Making a right turn",
+    "answer": "D. Making a right turn",
+    "dim": "direction",
+    "question_length": 121,
+    "num_options": 4
+  },
+  {
+    "video_id": "1076877854",
+    "question": "Which direction is the closest robotic arm moving from the camera's point of view?\nA. To the right side of the screen\nB. Towards the camera\nC. Away from the camera\nD. To the left side of the screen",
+    "answer": "A. To the right side of the screen",
+    "dim": "direction",
+    "question_length": 197,
+    "num_options": 4
+  },
+  {
+    "video_id": "1076877854",
+    "question": "What motion can be observed about the closest robotic arm?\nA. Rotating\nB. Moving to the left side of the screen\nC. Oscillating\nD. Moving to the right side of the screen",
+    "answer": "D. Moving to the right side of the screen",
+    "dim": "direction",
+    "question_length": 168,
+    "num_options": 4
+  },
+  {
+    "video_id": "1076877854",
+    "question": "What kind of movement does the closest robotic arm exhibit?\nA. Shifting to the left side of the screen\nB. Ascending and descending\nC. Shifting to the right side of the screen\nD. Swaying back and forth",
+    "answer": "C. Shifting to the right side of the screen",
+    "dim": "direction",
+    "question_length": 200,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100468035",
+    "question": "What is the direction of the camera in the video?\nA. zooming backward\nB. zooming forward\nC. tracking right\nD. panning left",
+    "answer": "B. zooming forward",
+    "dim": "direction",
+    "question_length": 122,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100468035",
+    "question": "Which direction is the camera moving towards?\nA. zooming backward\nB. ascending upward\nC. sliding left\nD. zooming forward",
+    "answer": "D. zooming forward",
+    "dim": "direction",
+    "question_length": 120,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100468035",
+    "question": "In what manner is the camera moving?\nA. zooming backward\nB. dollying up\nC. zooming forward\nD. tilting down",
+    "answer": "C. zooming forward",
+    "dim": "direction",
+    "question_length": 106,
+    "num_options": 4
+  },
+  {
+    "video_id": "3411806181",
+    "question": "Which direction is the person moving the charging gun?\nA. Away from the car\nB. Parallel to the car\nC. Towards the car",
+    "answer": "C. Towards the car",
+    "dim": "direction",
+    "question_length": 117,
+    "num_options": 3
+  },
+  {
+    "video_id": "3411806181",
+    "question": "What action is the person performing on the charging gun?\nA. holding it still\nB. unpluging it from the car\nC. plugging it into the car",
+    "answer": "C. plugging it into the car",
+    "dim": "direction",
+    "question_length": 134,
+    "num_options": 3
+  },
+  {
+    "video_id": "3411806181",
+    "question": "Towards which side is the person moving the charging gun?\nA. himself\nB. the car\nC. none of both",
+    "answer": "B. the car",
+    "dim": "direction",
+    "question_length": 95,
+    "num_options": 3
+  },
+  {
+    "video_id": "1056433484",
+    "question": "What is the direction of the Earth's motion around the Sun?\nA. Counter-clockwise\nB. Clockwise\nC. Upwards",
+    "answer": "A. Counter-clockwise",
+    "dim": "direction",
+    "question_length": 104,
+    "num_options": 3
+  },
+  {
+    "video_id": "1056433484",
+    "question": "In which direction does the Earth travel in its orbit around the Sun?\nA. Clockwise\nB. Counter-clockwise\nC. Vertical",
+    "answer": "B. Counter-clockwise",
+    "dim": "direction",
+    "question_length": 115,
+    "num_options": 3
+  },
+  {
+    "video_id": "1056433484",
+    "question": "The Earth's rotation in relation to the Sun follows a ____________ direction.\nA. Counter-clockwise\nB. Clockwise\nC. Horizontal",
+    "answer": "A. Counter-clockwise",
+    "dim": "direction",
+    "question_length": 125,
+    "num_options": 3
+  },
+  {
+    "video_id": "1073914229",
+    "question": "What direction are the trains moving?\nA. in the same direction\nB. towards each other\nC. away from each other",
+    "answer": "B. towards each other",
+    "dim": "direction",
+    "question_length": 108,
+    "num_options": 3
+  },
+  {
+    "video_id": "1073914229",
+    "question": "In what manner are the trains traveling?\nA. stopped\nB. in the same direction\nC. towards each other\nD. away from each other",
+    "answer": "C. towards each other",
+    "dim": "direction",
+    "question_length": 122,
+    "num_options": 4
+  },
+  {
+    "video_id": "1073914229",
+    "question": "What is the trajectory of the trains?\nA. perpendicular to each other\nB. moving away from each other\nC. proceeding in the same way\nD. moving towards each other",
+    "answer": "D. moving towards each other",
+    "dim": "direction",
+    "question_length": 158,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093139559",
+    "question": "What is the type of camera motion in the video? \nA. Zooming into three football players\nB. Panning left\nC. Panning right\nD. Zooming out from three football palyers",
+    "answer": "A. Zooming into three football players",
+    "dim": "direction",
+    "question_length": 163,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093139559",
+    "question": "In which direction is the camera moving? \nA. Zooming in\nB. Upwards\nC. Zooming out\nD. Downwards",
+    "answer": "A. Zooming in",
+    "dim": "direction",
+    "question_length": 94,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093139559",
+    "question": "Which option best describes the camera's motion? \nA. Tilting upwards\nB. Zooming forward\nC. Zooming backward\nD. Standing still",
+    "answer": "B. Zooming forward",
+    "dim": "direction",
+    "question_length": 125,
+    "num_options": 4
+  },
+  {
+    "video_id": "1080591311",
+    "question": "What direction is the jellyfish moving?\nA. moving towards the right\nB. floating upwards\nC. moving towards the left\nD. sinking downwards",
+    "answer": "B. floating upwards",
+    "dim": "direction",
+    "question_length": 135,
+    "num_options": 4
+  },
+  {
+    "video_id": "1080591311",
+    "question": "What is the direction of motion for the jellyfish?\nA. floating to the right\nB. floating to the left\nC. floating downwards\nD. floating upwards",
+    "answer": "D. floating upwards",
+    "dim": "direction",
+    "question_length": 141,
+    "num_options": 4
+  },
+  {
+    "video_id": "1080591311",
+    "question": "Which way is the jellyfish moving?\nA. going down\nB. going away from the screen\nC. going towards the screen\nD. going up",
+    "answer": "D. going up",
+    "dim": "direction",
+    "question_length": 118,
+    "num_options": 4
+  },
+  {
+    "video_id": "3411228673",
+    "question": "What is the direction of the movement in the video?\nA. sideways along the skyscraper buildings\nB. upwards among skyscraper buildings\nC. downwards towards the ground",
+    "answer": "B. upwards among skyscraper buildings",
+    "dim": "direction",
+    "question_length": 164,
+    "num_options": 3
+  },
+  {
+    "video_id": "3411228673",
+    "question": "In which direction is the camera moving?\nA. backwards\nB. forwards\nC. downwards\nD. upwards",
+    "answer": "D. upwards",
+    "dim": "direction",
+    "question_length": 89,
+    "num_options": 4
+  },
+  {
+    "video_id": "3411228673",
+    "question": "What is the path of movement in the video?\nA. flying downwards\nB. flying forwards\nC. flying backwards\nD. flying upwards",
+    "answer": "D. flying upwards",
+    "dim": "direction",
+    "question_length": 119,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093737353",
+    "question": "What type of motion is the camera performing in the video?\nA. panning to the right\nB. panning to the left\nC. tilting up\nD. zooming in",
+    "answer": "A. panning to the right",
+    "dim": "direction",
+    "question_length": 133,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093737353",
+    "question": "In which direction is the camera moving?\nA. downwards\nB. rightwards\nC. leftwards\nD. upwards",
+    "answer": "B. rightwards",
+    "dim": "direction",
+    "question_length": 91,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093737353",
+    "question": "What is the direction of the camera's movement?\nA. panning to the left\nB. panning to the right\nC. backwards\nD. forwards",
+    "answer": "B. panning to the right",
+    "dim": "direction",
+    "question_length": 119,
+    "num_options": 4
+  },
+  {
+    "video_id": "1017768724",
+    "question": "What is the direction of the person's movement?\nA. moving upwards\nB. moving leftwards\nC. moving downwards\nD. moving rightwards",
+    "answer": "D. moving rightwards",
+    "dim": "direction",
+    "question_length": 126,
+    "num_options": 4
+  },
+  {
+    "video_id": "1017768724",
+    "question": "In which direction is the person heading?\nA. vertically\nB. backward\nC. forward\nD. horizontally",
+    "answer": "D. horizontally",
+    "dim": "direction",
+    "question_length": 94,
+    "num_options": 4
+  },
+  {
+    "video_id": "1017768724",
+    "question": "How is the person moving?\nA. moving rightwards\nB. jumping upwards\nC. moving leftwards\nD. running forwards",
+    "answer": "A. moving rightwards",
+    "dim": "direction",
+    "question_length": 105,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100117263",
+    "question": "What is the direction of the little lion's motion?\nA. downward\nB. upward\nC. towards the camera\nD. rightward",
+    "answer": "A. downward",
+    "dim": "direction",
+    "question_length": 107,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100117263",
+    "question": "What is the little lion doing?\nA. sitting nearby an adult lion\nB. sitting on the back of an adult lion\nC. falling from the back of an adult lion\nD. jumping onto the back of an adult lion",
+    "answer": "C. falling from the back of an adult lion",
+    "dim": "direction",
+    "question_length": 186,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100117263",
+    "question": "In what direction is the little lion going?\nA. falling down\nB. climbing up\nC. walking forward\nD. walking backward",
+    "answer": "A. falling down",
+    "dim": "direction",
+    "question_length": 113,
+    "num_options": 4
+  },
+  {
+    "video_id": "1021488277",
+    "question": "What is happening in the video? \nA. A person drops down the pineapple\nB. A person pushes forward the pineapple\nC. A person rotates the pineapple\nD. A person picks up the pineapple",
+    "answer": "D. A person picks up the pineapple",
+    "dim": "direction",
+    "question_length": 179,
+    "num_options": 4
+  },
+  {
+    "video_id": "1021488277",
+    "question": "What action is taking place in the video?\nA. The pineapple is being dropped by a person.\nB. The pineapple is being rotated by a person.\nC. The pineapple is being pushed forward by a person.\nD. The pineapple is being picked up by a person.",
+    "answer": "D. The pineapple is being picked up by a person.",
+    "dim": "direction",
+    "question_length": 238,
+    "num_options": 4
+  },
+  {
+    "video_id": "1021488277",
+    "question": "What can be observed in the video?\nA. The pineapple is rotated by a person.\nB. The pineapple is pushed in a forward direction.\nC. The pineapple is lifted by an individual.\nD. The pineapple is released and falls downward.",
+    "answer": "C. The pineapple is lifted by an individual.",
+    "dim": "direction",
+    "question_length": 220,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100397435",
+    "question": "What direction is the robot vacuum cleaner moving in the video?\nA. to the right side of the screen\nB. to the left side of the screen\nC. towards the screen\nD. away from the screen",
+    "answer": "A. to the right side of the screen",
+    "dim": "direction",
+    "question_length": 178,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100397435",
+    "question": "What is the movement pattern of the robot vacuum cleaner?\nA. straight line towards the screen\nB. straight line to the right side of the screen\nC. straight line to the left side of the screen\nD. straight line away from the screen",
+    "answer": "B. straight line to the right side of the screen",
+    "dim": "direction",
+    "question_length": 228,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100397435",
+    "question": "Where is the robot vacuum cleaner heading?\nA. to the lower side of the screen\nB. to the upper side of the screen\nC. to the left side of the screen\nD. to the right side of the screen",
+    "answer": "D. to the right side of the screen",
+    "dim": "direction",
+    "question_length": 181,
+    "num_options": 4
+  },
+  {
+    "video_id": "1108534143",
+    "question": "What is the puppy doing in the video?\nA. staying in a wigwam\nB. walking into a wigwam\nC. walking out of a wigwam",
+    "answer": "C. walking out of a wigwam",
+    "dim": "direction",
+    "question_length": 112,
+    "num_options": 3
+  },
+  {
+    "video_id": "1108534143",
+    "question": "In which direction is the puppy moving?\nA. walking out of a wigwam\nB. entring a wigwam\nC. walking around a wigwam",
+    "answer": "A. walking out of a wigwam",
+    "dim": "direction",
+    "question_length": 113,
+    "num_options": 3
+  },
+  {
+    "video_id": "1108534143",
+    "question": "What action is the puppy taking?\nA. entring a wigwam\nB. walking out of a wigwam\nC. walking around a wigwam",
+    "answer": "B. walking out of a wigwam",
+    "dim": "direction",
+    "question_length": 106,
+    "num_options": 3
+  },
+  {
+    "video_id": "1047368344",
+    "question": "What is the girl doing?\nA. jumping into water\nB. jumping around water\nC. swimming in the water\nD. jumping out of water",
+    "answer": "A. jumping into water",
+    "dim": "direction",
+    "question_length": 118,
+    "num_options": 4
+  },
+  {
+    "video_id": "1047368344",
+    "question": "How is the girl moving?\nA. towards the camera\nB. towards the water\nC. away from the water",
+    "answer": "B. towards the water",
+    "dim": "direction",
+    "question_length": 89,
+    "num_options": 3
+  },
+  {
+    "video_id": "1047368344",
+    "question": "In which direction is the girl moving?\nA. towards the water\nB. away from the water\nC. inside the water",
+    "answer": "A. towards the water",
+    "dim": "direction",
+    "question_length": 102,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100329207_reverse",
+    "question": "What is the direction of the camera view?\nA. moving right\nB. moving backward\nC. moving left\nD. moving forward",
+    "answer": "B. moving backward",
+    "dim": "direction",
+    "question_length": 109,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100329207_reverse",
+    "question": "In which direction is the video panning?\nA. up\nB. down\nC. backward\nD. forward",
+    "answer": "C. backward",
+    "dim": "direction",
+    "question_length": 77,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100329207_reverse",
+    "question": "What is the direction of the camera movement?\nA. moving forward\nB. tilting up\nC. tilting down\nD. moving backward",
+    "answer": "D. moving backward",
+    "dim": "direction",
+    "question_length": 112,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089201973_reverse",
+    "question": "What is the direction of the football in the video?\nA. moving from left to right\nB. moving from right to left\nC. stationary",
+    "answer": "B. moving from right to left",
+    "dim": "direction",
+    "question_length": 123,
+    "num_options": 3
+  },
+  {
+    "video_id": "1089201973_reverse",
+    "question": "In which direction is the football traveling?\nA. Rightwards\nB. Upwards\nC. Leftwards\nD. Downwards",
+    "answer": "C. Leftwards",
+    "dim": "direction",
+    "question_length": 96,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089201973_reverse",
+    "question": "How would you describe the path of the football?\nA. from bottom to top\nB. from right to left\nC. from left to right\nD. from top to bottom",
+    "answer": "B. from right to left",
+    "dim": "direction",
+    "question_length": 136,
+    "num_options": 4
+  },
+  {
+    "video_id": "1034736653_reverse",
+    "question": "In which direction are the woman athletes running?\nA. from right to left\nB. in circles\nC. from left to right",
+    "answer": "A. from right to left",
+    "dim": "direction",
+    "question_length": 108,
+    "num_options": 3
+  },
+  {
+    "video_id": "1034736653_reverse",
+    "question": "From which side are the woman athletes entering the screen?\nA. right\nB. top\nC. left\nD. bottom",
+    "answer": "A. right",
+    "dim": "direction",
+    "question_length": 93,
+    "num_options": 4
+  },
+  {
+    "video_id": "1034736653_reverse",
+    "question": "Which way are the woman athletes heading?\nA. from left to right\nB. away from the camera\nC. from right to left\nD. towards the camera",
+    "answer": "C. from right to left",
+    "dim": "direction",
+    "question_length": 131,
+    "num_options": 4
+  },
+  {
+    "video_id": "1084153195_reverse",
+    "question": "What is the movement of the dolphins?\nA. swimming towards the shore\nB. hovering in one place\nC. swimming away from the shore",
+    "answer": "C. swimming away from the shore",
+    "dim": "direction",
+    "question_length": 124,
+    "num_options": 3
+  },
+  {
+    "video_id": "1084153195_reverse",
+    "question": "In which direction are the dolphins swimming?\nA. parallel to the shore\nB. towards the shore\nC. away from the shore",
+    "answer": "C. away from the shore",
+    "dim": "direction",
+    "question_length": 114,
+    "num_options": 3
+  },
+  {
+    "video_id": "1084153195_reverse",
+    "question": "If you observe the dolphins, what direction would you notice them heading?\nA. towards the shore\nB. parallel to the shore\nC. away from the shore",
+    "answer": "C. away from the shore",
+    "dim": "direction",
+    "question_length": 143,
+    "num_options": 3
+  },
+  {
+    "video_id": "1081092839_reverse",
+    "question": "What is the direction of the sun?\nA. descending\nB. ascending\nC. moving sideways",
+    "answer": "B. ascending",
+    "dim": "direction",
+    "question_length": 79,
+    "num_options": 3
+  },
+  {
+    "video_id": "1081092839_reverse",
+    "question": "What is the movement pattern of the sun?\nA. falling\nB. rising\nC. remaining still",
+    "answer": "B. rising",
+    "dim": "direction",
+    "question_length": 80,
+    "num_options": 3
+  },
+  {
+    "video_id": "1081092839_reverse",
+    "question": "What is the movement direction of the sun?\nA. descending\nB. ascending\nC. rotating",
+    "answer": "B. ascending",
+    "dim": "direction",
+    "question_length": 81,
+    "num_options": 3
+  },
+  {
+    "video_id": "1081092839_reverse",
+    "question": "In what direction does the sun travel during sunset?\nA. downwards\nB. upwards\nC. horizontally",
+    "answer": "B. upwards",
+    "dim": "direction",
+    "question_length": 92,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059462749_reverse",
+    "question": "In which direction is the person moving?\nA. rightwards\nB. downwards\nC. upwards\nD. leftwards",
+    "answer": "C. upwards",
+    "dim": "direction",
+    "question_length": 91,
+    "num_options": 4
+  },
+  {
+    "video_id": "1059462749_reverse",
+    "question": "What word describes the movement of the person?\nA. standing\nB. descending\nC. climbing up\nD. jumping",
+    "answer": "C. climbing up",
+    "dim": "direction",
+    "question_length": 99,
+    "num_options": 4
+  },
+  {
+    "video_id": "1059462749_reverse",
+    "question": "From a higher point to a lower point, the person is:\nA. rotating\nB. rising\nC. staying still\nD. descending",
+    "answer": "B. rising",
+    "dim": "direction",
+    "question_length": 105,
+    "num_options": 4
+  },
+  {
+    "video_id": "1088279109_reverse",
+    "question": "What is the elevator doing?\nA. rising\nB. going down\nC. staying still",
+    "answer": "B. going down",
+    "dim": "direction",
+    "question_length": 68,
+    "num_options": 3
+  },
+  {
+    "video_id": "1088279109_reverse",
+    "question": "In which direction is the elevator moving?\nA. up\nB. down\nC. not moving",
+    "answer": "B. down",
+    "dim": "direction",
+    "question_length": 70,
+    "num_options": 3
+  },
+  {
+    "video_id": "1088279109_reverse",
+    "question": "What is the direction of the elevator's movement?\nA. descending\nB. ascending\nC. stationary",
+    "answer": "A. descending",
+    "dim": "direction",
+    "question_length": 90,
+    "num_options": 3
+  },
+  {
+    "video_id": "1088279109_reverse",
+    "question": "Which way is the elevator going?\nA. up\nB. down\nC. stopped",
+    "answer": "B. down",
+    "dim": "direction",
+    "question_length": 57,
+    "num_options": 3
+  },
+  {
+    "video_id": "1096612823_reverse",
+    "question": "What is happening to the video?\nA. zooming out\nB. rotating\nC. panning left\nD. zooming in",
+    "answer": "A. zooming out",
+    "dim": "direction",
+    "question_length": 88,
+    "num_options": 4
+  },
+  {
+    "video_id": "1096612823_reverse",
+    "question": "What is the direction of the video?\nA. panning right\nB. fading out\nC. zooming in\nD. moving backward",
+    "answer": "D. moving backward",
+    "dim": "direction",
+    "question_length": 99,
+    "num_options": 4
+  },
+  {
+    "video_id": "1096612823_reverse",
+    "question": "How is the video changing?\nA. panning upwards\nB. rewinding\nC. zooming out\nD. zooming in",
+    "answer": "C. zooming out",
+    "dim": "direction",
+    "question_length": 87,
+    "num_options": 4
+  },
+  {
+    "video_id": "1075484900_reverse",
+    "question": "Which way is the child facing in relation to the man?\nA. Forward\nB. Turning towards the man\nC. Turning away from the man\nD. Backward",
+    "answer": "B. Turning towards the man",
+    "dim": "direction",
+    "question_length": 132,
+    "num_options": 4
+  },
+  {
+    "video_id": "1075484900_reverse",
+    "question": "In what direction is the child moving in relation to the man?\nA. Backward\nB. Forward\nC. Turning away from the man\nD. Turning towards the man",
+    "answer": "D. Turning towards the man",
+    "dim": "direction",
+    "question_length": 140,
+    "num_options": 4
+  },
+  {
+    "video_id": "1075484900_reverse",
+    "question": "What is the orientation of the child with respect to the man?\nA. Downwards\nB. Upwards\nC. Turning away from the man\nD. Turning towards the man",
+    "answer": "D. Turning towards the man",
+    "dim": "direction",
+    "question_length": 141,
+    "num_options": 4
+  },
+  {
+    "video_id": "1090578917_reverse",
+    "question": "What direction is the man leaping?\nA. to his left\nB. backward\nC. forward\nD. to his right",
+    "answer": "A. to his left",
+    "dim": "direction",
+    "question_length": 88,
+    "num_options": 4
+  },
+  {
+    "video_id": "1090578917_reverse",
+    "question": "Which way is the man moving?\nA. left\nB. forwards\nC. right\nD. up",
+    "answer": "A. left",
+    "dim": "direction",
+    "question_length": 63,
+    "num_options": 4
+  },
+  {
+    "video_id": "1090578917_reverse",
+    "question": "What is the direction of the man's movement?\nA. counterclockwise\nB. horizontal\nC. vertically\nD. clockwise",
+    "answer": "B. horizontal",
+    "dim": "direction",
+    "question_length": 105,
+    "num_options": 4
+  },
+  {
+    "video_id": "1075338140_reverse",
+    "question": "What is the direction of the ball?\nA. forward and backward\nB. spinning in place\nC. rolling from left to right\nD. rolling from right to left",
+    "answer": "D. rolling from right to left",
+    "dim": "direction",
+    "question_length": 139,
+    "num_options": 4
+  },
+  {
+    "video_id": "1075338140_reverse",
+    "question": "Which way is the ball moving?\nA. counterclockwise\nB. rolling from left to right\nC. clockwise\nD. rolling from right to left",
+    "answer": "D. rolling from right to left",
+    "dim": "direction",
+    "question_length": 122,
+    "num_options": 4
+  },
+  {
+    "video_id": "1075338140_reverse",
+    "question": "In which direction does the ball travel?\nA. straight ahead\nB. rolling from left to right\nC. rolling from right to left\nD. floating in mid-air",
+    "answer": "C. rolling from right to left",
+    "dim": "direction",
+    "question_length": 141,
+    "num_options": 4
+  },
+  {
+    "video_id": "1067268403_reverse",
+    "question": "What is the movement direction of the wind turbines?\nA. Stationary\nB. Rotating clockwise\nC. Rotating counterclockwise",
+    "answer": "C. Rotating counterclockwise",
+    "dim": "direction",
+    "question_length": 117,
+    "num_options": 3
+  },
+  {
+    "video_id": "1067268403_reverse",
+    "question": "Which way are the wind turbines rotating?\nA. Randomly\nB. Clockwise\nC. Anti-clockwise",
+    "answer": "C. Anti-clockwise",
+    "dim": "direction",
+    "question_length": 84,
+    "num_options": 3
+  },
+  {
+    "video_id": "1067268403_reverse",
+    "question": "In which direction are the wind turbines turning?\nA. Anticlockwise\nB. Still\nC. Clockwise",
+    "answer": "A. Anticlockwise",
+    "dim": "direction",
+    "question_length": 88,
+    "num_options": 3
+  },
+  {
+    "video_id": "1067268403_reverse",
+    "question": "What is the rotational direction of the wind turbines?\nA. Clockwise\nB. Anti-clockwise\nC. Unchanging",
+    "answer": "B. Anti-clockwise",
+    "dim": "direction",
+    "question_length": 99,
+    "num_options": 3
+  },
+  {
+    "video_id": "1096007487_reverse",
+    "question": "From the camera's point of view, in which direction is the 3d cloud moving?\nA. upward\nB. downward\nC. leftward\nD. rightward",
+    "answer": "D. rightward",
+    "dim": "direction",
+    "question_length": 122,
+    "num_options": 4
+  },
+  {
+    "video_id": "1096007487_reverse",
+    "question": "How is the 3d cloud moving from the camera's point of view?\nA. contracting\nB. spinning leftward\nC. spinning rightward\nD. expanding",
+    "answer": "C. spinning rightward",
+    "dim": "direction",
+    "question_length": 130,
+    "num_options": 4
+  },
+  {
+    "video_id": "1096007487_reverse",
+    "question": "What is the movement pattern of the 3d cloud as seen from the camera's point of view?\nA. from right to left\nB. rotating clockwise\nC. rotating counter-clockwise\nD. from left to right",
+    "answer": "D. from left to right",
+    "dim": "direction",
+    "question_length": 181,
+    "num_options": 4
+  },
+  {
+    "video_id": "1095939659_reverse",
+    "question": "In which direction is the light growing?\nA. Downwards\nB. Clockwise\nC. Counterclockwise\nD. Upwards",
+    "answer": "C. Counterclockwise",
+    "dim": "direction",
+    "question_length": 97,
+    "num_options": 4
+  },
+  {
+    "video_id": "1095939659_reverse",
+    "question": "What is the direction of the light's movement?\nA. Clockwise\nB. Anticlockwise\nC. Straight forward\nD. Downwards",
+    "answer": "B. Anticlockwise",
+    "dim": "direction",
+    "question_length": 109,
+    "num_options": 4
+  },
+  {
+    "video_id": "1095939659_reverse",
+    "question": "How is the light changing direction?\nA. Spinning vertically\nB. Rotating clockwise\nC. Shifting diagonally\nD. Disappearing counterclockwise",
+    "answer": "D. Disappearing counterclockwise",
+    "dim": "direction",
+    "question_length": 137,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098785169_reverse",
+    "question": "What is the direction of the galaxy's spin?\nA. counterclockwise\nB. left to right\nC. clockwise\nD. up and down",
+    "answer": "A. counterclockwise",
+    "dim": "direction",
+    "question_length": 108,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098785169_reverse",
+    "question": "In which direction is the galaxy rotating?\nA. backward\nB. counter clockwise\nC. clockwise\nD. forward",
+    "answer": "B. counter clockwise",
+    "dim": "direction",
+    "question_length": 99,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098785169_reverse",
+    "question": "How is the galaxy spinning?\nA. backward\nB. counter clockwise\nC. clockwise\nD. forward",
+    "answer": "B. counter clockwise",
+    "dim": "direction",
+    "question_length": 84,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099984801_reverse",
+    "question": "What is the movement of the clouds?\nA. moving away from the camera\nB. staying still\nC. moving towards the camera",
+    "answer": "A. moving away from the camera",
+    "dim": "direction",
+    "question_length": 112,
+    "num_options": 3
+  },
+  {
+    "video_id": "1099984801_reverse",
+    "question": "In what direction are the clouds heading?\nA. towards the camera\nB. upward\nC. downward\nD. away from the camera",
+    "answer": "D. away from the camera",
+    "dim": "direction",
+    "question_length": 109,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099984801_reverse",
+    "question": "What is the movement direction of the clouds?\nA. forward\nB. in a circular motion\nC. side to side\nD. backward",
+    "answer": "A. forward",
+    "dim": "direction",
+    "question_length": 108,
+    "num_options": 4
+  },
+  {
+    "video_id": "1082419672_reverse",
+    "question": "What is the direction of movement in the video?\nA. hovering\nB. flying forwards\nC. flying backwards",
+    "answer": "B. flying forwards",
+    "dim": "direction",
+    "question_length": 98,
+    "num_options": 3
+  },
+  {
+    "video_id": "1082419672_reverse",
+    "question": "What is the trajectory of the movement?\nA. straight line\nB. arc-shaped\nC. zigzag",
+    "answer": "A. straight line",
+    "dim": "direction",
+    "question_length": 80,
+    "num_options": 3
+  },
+  {
+    "video_id": "1082419672_reverse",
+    "question": "In what direction is the entire video moving relative to the ship?\nA. forward\nB. up\nC. down\nD. backward",
+    "answer": "A. forward",
+    "dim": "direction",
+    "question_length": 103,
+    "num_options": 4
+  },
+  {
+    "video_id": "1058985719_reverse",
+    "question": "What is the direction in which the airplane is flying?\nA. bottom to top\nB. right to left\nC. top to bottom\nD. left to right",
+    "answer": "C. top to bottom",
+    "dim": "direction",
+    "question_length": 122,
+    "num_options": 4
+  },
+  {
+    "video_id": "1058985719_reverse",
+    "question": "Which way is the airplane moving on the screen?\nA. anticlockwise\nB. upwards\nC. clockwise\nD. downwards",
+    "answer": "D. downwards",
+    "dim": "direction",
+    "question_length": 101,
+    "num_options": 4
+  },
+  {
+    "video_id": "1058985719_reverse",
+    "question": "What is the trajectory of the airplane?\nA. vertically upwards\nB. vertically downwards\nC. horizontally rightwards\nD. horizontally leftwards",
+    "answer": "B. vertically downwards",
+    "dim": "direction",
+    "question_length": 138,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055413730_reverse",
+    "question": "In which direction is the planet Earth spinning?\nA. Rightwards\nB. Downwards\nC. Leftwards\nD. Upwards",
+    "answer": "C. Leftwards",
+    "dim": "direction",
+    "question_length": 99,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055413730_reverse",
+    "question": "Considering the camera's perspective, what is the rotational movement of the planet Earth?\nA. spinning to the left\nB. rotating upward\nC. spinning to the right",
+    "answer": "A. spinning to the left",
+    "dim": "direction",
+    "question_length": 158,
+    "num_options": 3
+  },
+  {
+    "video_id": "1055413730_reverse",
+    "question": "What is the apparent motion of the Earth based on the camera's viewpoint?\nA. away from the camera\nB. towards the camera\nC. spinning to the right\nD. spinning to the left",
+    "answer": "D. spinning to the left",
+    "dim": "direction",
+    "question_length": 168,
+    "num_options": 4
+  },
+  {
+    "video_id": "1081684532_reverse",
+    "question": "What is the direction of the asteroids in the video?\nA. flying away from the camera\nB. flying to the left\nC. flying towards the camera\nD. flying to the right",
+    "answer": "A. flying away from the camera",
+    "dim": "direction",
+    "question_length": 157,
+    "num_options": 4
+  },
+  {
+    "video_id": "1081684532_reverse",
+    "question": "Which direction are the asteroids moving?\nA. downwards\nB. towards the camera\nC. upwards\nD. away from the camera",
+    "answer": "D. away from the camera",
+    "dim": "direction",
+    "question_length": 111,
+    "num_options": 4
+  },
+  {
+    "video_id": "1081684532_reverse",
+    "question": "Which way are the asteroids going?\nA. towards the camera\nB. parallel to the camera\nC. away from the camera",
+    "answer": "C. away from the camera",
+    "dim": "direction",
+    "question_length": 106,
+    "num_options": 3
+  },
+  {
+    "video_id": "23391142_reverse",
+    "question": "What direction is the video panning?\nA. Upwards\nB. Downwards\nC. To the left\nD. To the right",
+    "answer": "C. To the left",
+    "dim": "direction",
+    "question_length": 91,
+    "num_options": 4
+  },
+  {
+    "video_id": "23391142_reverse",
+    "question": "What is the movement of the video?\nA. Zoom in\nB. Panning to the left\nC. Zoom out\nD. Panning to the right",
+    "answer": "B. Panning to the left",
+    "dim": "direction",
+    "question_length": 104,
+    "num_options": 4
+  },
+  {
+    "video_id": "23391142_reverse",
+    "question": "Which way is the scene shifting?\nA. Panning to the left\nB. Panning to the right\nC. Away from the camera\nD. Towards the camera",
+    "answer": "A. Panning to the left",
+    "dim": "direction",
+    "question_length": 125,
+    "num_options": 4
+  },
+  {
+    "video_id": "1053758117_reverse",
+    "question": "What is happening in the video?\nA. Zoom out from a 3D digital brain\nB. Standing still before a 3D digital brain\nC. Zoom into a 3D digital brain",
+    "answer": "A. Zoom out from a 3D digital brain",
+    "dim": "direction",
+    "question_length": 143,
+    "num_options": 3
+  },
+  {
+    "video_id": "1053758117_reverse",
+    "question": "In which direction is the camera moving in the video?\nA. zooming in\nB. downwards\nC. upwards\nD. zooming out",
+    "answer": "D. zooming out",
+    "dim": "direction",
+    "question_length": 106,
+    "num_options": 4
+  },
+  {
+    "video_id": "1053758117_reverse",
+    "question": "How would you describe the trajectory of the video's direction?\nA. panning right\nB. panning left\nC. zooming out\nD. zooming in",
+    "answer": "C. zooming out",
+    "dim": "direction",
+    "question_length": 125,
+    "num_options": 4
+  },
+  {
+    "video_id": "1106668103_reverse",
+    "question": "What is the direction of movement in the video?\nA. staying still\nB. moving forward\nC. moving backward",
+    "answer": "C. moving backward",
+    "dim": "direction",
+    "question_length": 101,
+    "num_options": 3
+  },
+  {
+    "video_id": "1106668103_reverse",
+    "question": "In what way is the primary motion depicted in the video?\nA. turning leftward\nB. moving forward\nC. moving backward\nD. turning rightward",
+    "answer": "C. moving backward",
+    "dim": "direction",
+    "question_length": 134,
+    "num_options": 4
+  },
+  {
+    "video_id": "1106668103_reverse",
+    "question": "How would you describe the primary trajectory in the video?\nA. descending\nB. moving backward\nC. moving forward",
+    "answer": "B. moving backward",
+    "dim": "direction",
+    "question_length": 110,
+    "num_options": 3
+  },
+  {
+    "video_id": "1057163434_reverse",
+    "question": "What is the chef doing with the bread?\nA. removing it from the top of the burger\nB. putting it on top of the burger\nC. putting it inside the burger\nD. throwing it away",
+    "answer": "A. removing it from the top of the burger",
+    "dim": "direction",
+    "question_length": 167,
+    "num_options": 4
+  },
+  {
+    "video_id": "1057163434_reverse",
+    "question": "Which direction is the chef moving the bread?\nA. throwing it away\nB. removing it from the burger\nC. putting it on top of the burger\nD. putting it inside the burger",
+    "answer": "B. removing it from the burger",
+    "dim": "direction",
+    "question_length": 163,
+    "num_options": 4
+  },
+  {
+    "video_id": "1057163434_reverse",
+    "question": "Which action is the chef performing with the bread?\nA. putting it on top of the burger\nB. picking it up from the burger\nC. inserting it inside the burger",
+    "answer": "B. picking it up from the burger",
+    "dim": "direction",
+    "question_length": 153,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100319395_reverse",
+    "question": "What direction is the circular pattern moving?\nA. clockwise\nB. moving towards the camera\nC. counter-clockwise\nD. moving away from the camera",
+    "answer": "C. counter-clockwise",
+    "dim": "direction",
+    "question_length": 140,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100319395_reverse",
+    "question": "Which way is the circular pattern moving?\nA. spinning clockwise\nB. spinning counter-clockwise\nC. vibrating back and forth",
+    "answer": "B. spinning counter-clockwise",
+    "dim": "direction",
+    "question_length": 121,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100319395_reverse",
+    "question": "In which direction is the circular pattern spinning?\nA. towards the screen\nB. anticlockwise\nC. clockwise\n D. away from the screen",
+    "answer": "B. anticlockwise",
+    "dim": "direction",
+    "question_length": 129,
+    "num_options": 3
+  },
+  {
+    "video_id": "1101200293_reverse",
+    "question": "What is the direction of the camera motion relative to the aircraft carrier?\nA. counterclockwise\nB. downward\nC. upward\nD. clockwise",
+    "answer": "A. counterclockwise",
+    "dim": "direction",
+    "question_length": 131,
+    "num_options": 4
+  },
+  {
+    "video_id": "1101200293_reverse",
+    "question": "Which way is the camera moving around the aircraft carrier?\nA. clockwise\nB. back and forth\nC. tilting upwards\nD. counterclockwise",
+    "answer": "D. counterclockwise",
+    "dim": "direction",
+    "question_length": 129,
+    "num_options": 4
+  },
+  {
+    "video_id": "1101200293_reverse",
+    "question": "In what direction is the camera flying around the aircraft carrier?\nA. clockwise\nB. descending\nC. ascending\nD. anti-clockwise",
+    "answer": "D. anti-clockwise",
+    "dim": "direction",
+    "question_length": 125,
+    "num_options": 4
+  },
+  {
+    "video_id": "1072453637_reverse",
+    "question": "What is the direction of the camera panning in the video?\nA. panning to the back of a fighter jet\nB. panning downwards around a fighter jet\nC. panning upwards around a fighter jet\nD. panning to the front of a fighter jet",
+    "answer": "D. panning to the front of a fighter jet",
+    "dim": "direction",
+    "question_length": 220,
+    "num_options": 4
+  },
+  {
+    "video_id": "1072453637_reverse",
+    "question": "What is the camera's panning orientation in the video?\nA. Moving to the front of a fighter jet\nB. Ascending around a fighter jet\nC. Moving to the rear of a fighter jet\nD. Descending around a fighter jet",
+    "answer": "A. Moving to the front of a fighter jet",
+    "dim": "direction",
+    "question_length": 202,
+    "num_options": 4
+  },
+  {
+    "video_id": "1072453637_reverse",
+    "question": "Identify the camera's panning movement in the video.\nA. Panning to the back of a fighter jet\nB. Panning upward around a fighter jet\nC. Panning downward around a fighter jet\nD. Panning to the front of a fighter jet",
+    "answer": "D. Panning to the front of a fighter jet",
+    "dim": "direction",
+    "question_length": 213,
+    "num_options": 4
+  },
+  {
+    "video_id": "3396473605_reverse",
+    "question": "In which direction do the five stars disappear?\nA. from right to left\nB. from top to bottom\nC. from left to right\nD. from bottom to top",
+    "answer": "A. from right to left",
+    "dim": "direction",
+    "question_length": 135,
+    "num_options": 4
+  },
+  {
+    "video_id": "3396473605_reverse",
+    "question": "Which star disappears first?\nA. the star in the center\nB. the star in the right\nC. the star in the left\nD. all stars appear at the same time",
+    "answer": "B. the star in the right",
+    "dim": "direction",
+    "question_length": 140,
+    "num_options": 4
+  },
+  {
+    "video_id": "3396473605_reverse",
+    "question": "What is the direction that the stars disappear?\nA. from right to left\nB. from left to right\nC. upwards\nD. downwards",
+    "answer": "A. from right to left",
+    "dim": "direction",
+    "question_length": 115,
+    "num_options": 4
+  },
+  {
+    "video_id": "1086820415_reverse",
+    "question": "What is the direction of motion of the large wave?\nA. moving vertically towards the top of the screen\nB. moving horizontally towards the right side of the screen\nC. moving vertically towards the bottom of the screen\nD. moving horizontally towards the left side of the screen",
+    "answer": "A. moving vertically towards the top of the screen",
+    "dim": "direction",
+    "question_length": 274,
+    "num_options": 4
+  },
+  {
+    "video_id": "1086820415_reverse",
+    "question": "Which direction does the large wave move in the video?\nA. vertically towards the top of the screen\nB. diagonally towards the bottom-right corner\nC. vertically towards the bottom of the screen\nD. diagonally towards the top-left corner",
+    "answer": "A. vertically towards the top of the screen",
+    "dim": "direction",
+    "question_length": 233,
+    "num_options": 4
+  },
+  {
+    "video_id": "1086820415_reverse",
+    "question": "How does the large wave travel across the screen?\nA. moving vertically towards the bottom\nB. contracting towards the center\nC. moving vertically towards the top\nD. expanding from the center",
+    "answer": "C. moving vertically towards the top",
+    "dim": "direction",
+    "question_length": 189,
+    "num_options": 4
+  },
+  {
+    "video_id": "1073831006_reverse",
+    "question": "What is the direction of the zebras' movement?\nA. from right to left\nB. from left to right\nC. from top to bottom",
+    "answer": "A. from right to left",
+    "dim": "direction",
+    "question_length": 112,
+    "num_options": 3
+  },
+  {
+    "video_id": "1073831006_reverse",
+    "question": "In what direction are the zebras moving?\nA. from left to right relative to the camera\nB. away from the camera\nC. towards the camera\nD. from right to left relative to the camera",
+    "answer": "D. from right to left relative to the camera",
+    "dim": "direction",
+    "question_length": 176,
+    "num_options": 4
+  },
+  {
+    "video_id": "1073831006_reverse",
+    "question": "Which direction are the zebras heading?\nA. downward\nB. leftward\nC. rightward\nD. upward",
+    "answer": "B. leftward",
+    "dim": "direction",
+    "question_length": 86,
+    "num_options": 4
+  },
+  {
+    "video_id": "1024867412_reverse",
+    "question": "What direction is the car driving?\nA. Taking a left turn\nB. Going straight\nC. Taking a right turn\nD. Going backward",
+    "answer": "A. Taking a left turn",
+    "dim": "direction",
+    "question_length": 115,
+    "num_options": 4
+  },
+  {
+    "video_id": "1024867412_reverse",
+    "question": "In which direction is the car moving?\nA. Left\nB. Right\nC. Backward\nD. Forward",
+    "answer": "A. Left",
+    "dim": "direction",
+    "question_length": 77,
+    "num_options": 4
+  },
+  {
+    "video_id": "1024867412_reverse",
+    "question": "What maneuver is the car making?\nA. Making a left turn\nB. Parked on the street\nC. Driving backward\nD. Making a right turn",
+    "answer": "A. Making a left turn",
+    "dim": "direction",
+    "question_length": 121,
+    "num_options": 4
+  },
+  {
+    "video_id": "1076877854_reverse",
+    "question": "Which direction is the closest robotic arm moving from the camera's point of view?\nA. To the right side of the screen\nB. Towards the camera\nC. Away from the camera\nD. To the left side of the screen",
+    "answer": "D. To the left side of the screen",
+    "dim": "direction",
+    "question_length": 197,
+    "num_options": 4
+  },
+  {
+    "video_id": "1076877854_reverse",
+    "question": "What motion can be observed about the closest robotic arm?\nA. Rotating\nB. Moving to the left side of the screen\nC. Oscillating\nD. Moving to the right side of the screen",
+    "answer": "B. Moving to the left side of the screen",
+    "dim": "direction",
+    "question_length": 168,
+    "num_options": 4
+  },
+  {
+    "video_id": "1076877854_reverse",
+    "question": "What kind of movement does the closest robotic arm exhibit?\nA. Shifting to the left side of the screen\nB. Ascending and descending\nC. Shifting to the right side of the screen\nD. Swaying back and forth",
+    "answer": "A. Shifting to the left side of the screen",
+    "dim": "direction",
+    "question_length": 200,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100468035_reverse",
+    "question": "What is the direction of the camera in the video?\nA. zooming backward\nB. zooming forward\nC. tracking right\nD. panning left",
+    "answer": "A. zooming backward",
+    "dim": "direction",
+    "question_length": 122,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100468035_reverse",
+    "question": "Which direction is the camera moving towards?\nA. zooming backward\nB. ascending upward\nC. sliding left\nD. zooming forward",
+    "answer": "A. zooming backward",
+    "dim": "direction",
+    "question_length": 120,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100468035_reverse",
+    "question": "In what manner is the camera moving?\nA. zooming backward\nB. dollying up\nC. zooming forward\nD. tilting down",
+    "answer": "A. zooming backward",
+    "dim": "direction",
+    "question_length": 106,
+    "num_options": 4
+  },
+  {
+    "video_id": "3411806181_reverse",
+    "question": "Which direction is the person moving the charging gun?\nA. Away from the car\nB. Parallel to the car\nC. Towards the car",
+    "answer": "A. Away from the car",
+    "dim": "direction",
+    "question_length": 117,
+    "num_options": 3
+  },
+  {
+    "video_id": "3411806181_reverse",
+    "question": "What action is the person performing on the charging gun?\nA. holding it still\nB. unpluging it from the car\nC. plugging it into the car",
+    "answer": "B. unpluging it from the car",
+    "dim": "direction",
+    "question_length": 134,
+    "num_options": 3
+  },
+  {
+    "video_id": "3411806181_reverse",
+    "question": "Towards which side is the person moving the charging gun?\nA. himself\nB. the car\nC. none of both",
+    "answer": "A. himself",
+    "dim": "direction",
+    "question_length": 95,
+    "num_options": 3
+  },
+  {
+    "video_id": "1073914229_reverse",
+    "question": "What direction are the trains moving?\nA. in the same direction\nB. towards each other\nC. away from each other",
+    "answer": "C. away from each other",
+    "dim": "direction",
+    "question_length": 108,
+    "num_options": 3
+  },
+  {
+    "video_id": "1073914229_reverse",
+    "question": "In what manner are the trains traveling?\nA. stopped\nB. in the same direction\nC. towards each other\nD. away from each other",
+    "answer": "D. away from each other",
+    "dim": "direction",
+    "question_length": 122,
+    "num_options": 4
+  },
+  {
+    "video_id": "1073914229_reverse",
+    "question": "What is the trajectory of the trains?\nA. perpendicular to each other\nB. moving away from each other\nC. proceeding in the same way\nD. moving towards each other",
+    "answer": "B. moving away from each other",
+    "dim": "direction",
+    "question_length": 158,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093139559_reverse",
+    "question": "What is the type of camera motion in the video? \nA. Zooming into three football players\nB. Panning left\nC. Panning right\nD. Zooming out from three football palyers",
+    "answer": "D. Zooming out from three football palyers",
+    "dim": "direction",
+    "question_length": 163,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093139559_reverse",
+    "question": "In which direction is the camera moving? \nA. Zooming in\nB. Upwards\nC. Zooming out\nD. Downwards",
+    "answer": "C. Zooming out",
+    "dim": "direction",
+    "question_length": 94,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093139559_reverse",
+    "question": "Which option best describes the camera's motion? \nA. Tilting upwards\nB. Zooming forward\nC. Zooming backward\nD. Standing still",
+    "answer": "C. Zooming backward",
+    "dim": "direction",
+    "question_length": 125,
+    "num_options": 4
+  },
+  {
+    "video_id": "1080591311_reverse",
+    "question": "What direction is the jellyfish moving?\nA. moving towards the right\nB. floating upwards\nC. moving towards the left\nD. sinking downwards",
+    "answer": "D. sinking downwards",
+    "dim": "direction",
+    "question_length": 135,
+    "num_options": 4
+  },
+  {
+    "video_id": "1080591311_reverse",
+    "question": "What is the direction of motion for the jellyfish?\nA. floating to the right\nB. floating to the left\nC. floating downwards\nD. floating upwards",
+    "answer": "C. floating downwards",
+    "dim": "direction",
+    "question_length": 141,
+    "num_options": 4
+  },
+  {
+    "video_id": "1080591311_reverse",
+    "question": "Which way is the jellyfish moving?\nA. going down\nB. going away from the screen\nC. going towards the screen\nD. going up",
+    "answer": "A. going down",
+    "dim": "direction",
+    "question_length": 118,
+    "num_options": 4
+  },
+  {
+    "video_id": "3411228673_reverse",
+    "question": "What is the direction of the movement in the video?\nA. sideways along the skyscraper buildings\nB. upwards among skyscraper buildings\nC. downwards towards the ground",
+    "answer": "C. downwards towards the ground",
+    "dim": "direction",
+    "question_length": 164,
+    "num_options": 3
+  },
+  {
+    "video_id": "3411228673_reverse",
+    "question": "In which direction is the camera moving?\nA. backwards\nB. forwards\nC. downwards\nD. upwards",
+    "answer": "C. downwards",
+    "dim": "direction",
+    "question_length": 89,
+    "num_options": 4
+  },
+  {
+    "video_id": "3411228673_reverse",
+    "question": "What is the path of movement in the video?\nA. flying downwards\nB. flying forwards\nC. flying backwards\nD. flying upwards",
+    "answer": "A. flying downwards",
+    "dim": "direction",
+    "question_length": 119,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093737353_reverse",
+    "question": "What type of motion is the camera performing in the video?\nA. panning to the right\nB. panning to the left\nC. tilting up\nD. zooming in",
+    "answer": "B. panning to the left",
+    "dim": "direction",
+    "question_length": 133,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093737353_reverse",
+    "question": "In which direction is the camera moving?\nA. downwards\nB. rightwards\nC. leftwards\nD. upwards",
+    "answer": "C. leftwards",
+    "dim": "direction",
+    "question_length": 91,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093737353_reverse",
+    "question": "What is the direction of the camera's movement?\nA. panning to the left\nB. panning to the right\nC. backwards\nD. forwards",
+    "answer": "A. panning to the left",
+    "dim": "direction",
+    "question_length": 119,
+    "num_options": 4
+  },
+  {
+    "video_id": "1017768724_reverse",
+    "question": "What is the direction of the person's movement?\nA. moving upwards\nB. moving leftwards\nC. moving downwards\nD. moving rightwards",
+    "answer": "B. moving leftwards",
+    "dim": "direction",
+    "question_length": 126,
+    "num_options": 4
+  },
+  {
+    "video_id": "1017768724_reverse",
+    "question": "In which direction is the person heading?\nA. vertically\nB. backward\nC. forward\nD. horizontally",
+    "answer": "D. horizontally",
+    "dim": "direction",
+    "question_length": 94,
+    "num_options": 4
+  },
+  {
+    "video_id": "1017768724_reverse",
+    "question": "How is the person moving?\nA. moving rightwards\nB. jumping upwards\nC. moving leftwards\nD. running forwards",
+    "answer": "C. moving leftwards",
+    "dim": "direction",
+    "question_length": 105,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100117263_reverse",
+    "question": "What is the direction of the little lion's motion?\nA. downward\nB. upward\nC. towards the camera\nD. rightward",
+    "answer": "B. upward",
+    "dim": "direction",
+    "question_length": 107,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100117263_reverse",
+    "question": "What is the little lion doing?\nA. sitting nearby an adult lion\nB. sitting on the back of an adult lion\nC. falling from the back of an adult lion\nD. jumping onto the back of an adult lion",
+    "answer": "D. jumping onto the back of an adult lion",
+    "dim": "direction",
+    "question_length": 186,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100117263_reverse",
+    "question": "In what direction is the little lion going?\nA. falling down\nB. climbing up\nC. walking forward\nD. walking backward",
+    "answer": "B. climbing up",
+    "dim": "direction",
+    "question_length": 113,
+    "num_options": 4
+  },
+  {
+    "video_id": "1021488277_reverse",
+    "question": "What is happening in the video? \nA. A person drops down the pineapple\nB. A person pushes forward the pineapple\nC. A person rotates the pineapple\nD. A person picks up the pineapple",
+    "answer": "A. A person drops down the pineapple",
+    "dim": "direction",
+    "question_length": 179,
+    "num_options": 4
+  },
+  {
+    "video_id": "1021488277_reverse",
+    "question": "What action is taking place in the video?\nA. The pineapple is being dropped by a person.\nB. The pineapple is being rotated by a person.\nC. The pineapple is being pushed forward by a person.\nD. The pineapple is being picked up by a person.",
+    "answer": "A. The pineapple is being dropped by a person.",
+    "dim": "direction",
+    "question_length": 238,
+    "num_options": 4
+  },
+  {
+    "video_id": "1021488277_reverse",
+    "question": "What can be observed in the video?\nA. The pineapple is rotated by a person.\nB. The pineapple is pushed in a forward direction.\nC. The pineapple is lifted by an individual.\nD. The pineapple is put down.",
+    "answer": "D. The pineapple is put down.",
+    "dim": "direction",
+    "question_length": 201,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100397435_reverse",
+    "question": "What direction is the robot vacuum cleaner moving in the video?\nA. to the right side of the screen\nB. to the left side of the screen\nC. towards the screen\nD. away from the screen",
+    "answer": "B. to the left side of the screen",
+    "dim": "direction",
+    "question_length": 178,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100397435_reverse",
+    "question": "What is the movement pattern of the robot vacuum cleaner?\nA. straight line towards the screen\nB. straight line to the right side of the screen\nC. straight line to the left side of the screen\nD. straight line away from the screen",
+    "answer": "C. straight line to the left side of the screen",
+    "dim": "direction",
+    "question_length": 228,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100397435_reverse",
+    "question": "Where is the robot vacuum cleaner heading?\nA. to the lower side of the screen\nB. to the upper side of the screen\nC. to the left side of the screen\nD. to the right side of the screen",
+    "answer": "C. to the left side of the screen",
+    "dim": "direction",
+    "question_length": 181,
+    "num_options": 4
+  },
+  {
+    "video_id": "1108534143_reverse",
+    "question": "What is the puppy doing in the video?\nA. staying in a wigwam\nB. walking into a wigwam\nC. walking out of a wigwam",
+    "answer": "B. walking into a wigwam",
+    "dim": "direction",
+    "question_length": 112,
+    "num_options": 3
+  },
+  {
+    "video_id": "1108534143_reverse",
+    "question": "In which direction is the puppy moving?\nA. walking out of a wigwam\nB. entring a wigwam\nC. walking around a wigwam",
+    "answer": "B. entring a wigwam",
+    "dim": "direction",
+    "question_length": 113,
+    "num_options": 3
+  },
+  {
+    "video_id": "1108534143_reverse",
+    "question": "What action is the puppy taking?\nA. entring a wigwam\nB. walking out of a wigwam\nC. walking around a wigwam",
+    "answer": "A. entring a wigwam",
+    "dim": "direction",
+    "question_length": 106,
+    "num_options": 3
+  },
+  {
+    "video_id": "1047368344_reverse",
+    "question": "What is the girl doing?\nA. jumping into water\nB. jumping around water\nC. swimming in the water\nD. jumping out of water",
+    "answer": "D. jumping out of water",
+    "dim": "direction",
+    "question_length": 118,
+    "num_options": 4
+  },
+  {
+    "video_id": "1047368344_reverse",
+    "question": "How is the girl moving?\nA. towards the camera\nB. towards the water\nC. away from the water",
+    "answer": "C. away from the water",
+    "dim": "direction",
+    "question_length": 89,
+    "num_options": 3
+  },
+  {
+    "video_id": "1047368344_reverse",
+    "question": "In which direction is the girl moving?\nA. towards the water\nB. away from the water\nC. inside the water",
+    "answer": "B. away from the water",
+    "dim": "direction",
+    "question_length": 102,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086286649",
+    "question": "Which way are the armored vehicles moving from the camera's point of view?\nA. Stationary\nB. Right to left\nC. Left to right",
+    "answer": "B. Right to left",
+    "dim": "direction",
+    "question_length": 122,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086286649",
+    "question": "Towards which direction are the armored vehicles approaching?\nA. The right side of screen\nB. The upper side of screen\nC. The lower side of screen\nD. The left side of screen",
+    "answer": "D. The left side of screen",
+    "dim": "direction",
+    "question_length": 172,
+    "num_options": 4
+  },
+  {
+    "video_id": "1086286649",
+    "question": "How are the armored vehicles proceeding?\nA. From bottom to top\nB. From top to bottom\nC. From left to right\nD. From right to left",
+    "answer": "D. From right to left",
+    "dim": "direction",
+    "question_length": 128,
+    "num_options": 4
+  },
+  {
+    "video_id": "3406618583",
+    "question": "What is the direction of the camera movement in the video?\nA. panning left and right around the girl\nB. panning up and down around the girl\nC. rotating clockwise around the girl\nD. zooming in and out around the girl",
+    "answer": "B. panning up and down around the girl",
+    "dim": "direction",
+    "question_length": 215,
+    "num_options": 4
+  },
+  {
+    "video_id": "3406618583",
+    "question": "How is the camera moving in the video?\nA. panning up and down around the girl\nB. rotating counterclockwise around the girl\nC. staying still\nD. panning left and right around the girl",
+    "answer": "A. panning up and down around the girl",
+    "dim": "direction",
+    "question_length": 181,
+    "num_options": 4
+  },
+  {
+    "video_id": "3406618583",
+    "question": "In which way is the camera moving around the girl in the video?\nA. panning left and right\nB. zooming in and out\nC. rotating clockwise\nD. panning up and down",
+    "answer": "D. panning up and down",
+    "dim": "direction",
+    "question_length": 156,
+    "num_options": 4
+  },
+  {
+    "video_id": "1104663381",
+    "question": "What is the direction in which the pizza dough is rotating?\nA. counter-clockwise\nB. clockwise\nC. it is not rotating",
+    "answer": "A. counter-clockwise",
+    "dim": "direction",
+    "question_length": 115,
+    "num_options": 3
+  },
+  {
+    "video_id": "1104663381",
+    "question": "In what direction is the pizza dough moving?\nA. flipping up and down\nB. rotating clockwise\nC. rotating counter-clockwise\nD. flipping left and right",
+    "answer": "C. rotating counter-clockwise",
+    "dim": "direction",
+    "question_length": 147,
+    "num_options": 4
+  },
+  {
+    "video_id": "1104663381",
+    "question": "What is the rotational direction of the pizza dough?\nA. clockwise\nB. stationary\nC. anti-clockwise",
+    "answer": "C. anti-clockwise",
+    "dim": "direction",
+    "question_length": 97,
+    "num_options": 3
+  },
+  {
+    "video_id": "1088497853",
+    "question": "What is the direction of the movement in the video?\nA. leftwards\nB. upwards\nC. rightwards\nD. downwards",
+    "answer": "B. upwards",
+    "dim": "direction",
+    "question_length": 102,
+    "num_options": 4
+  },
+  {
+    "video_id": "1088497853",
+    "question": "Which direction is the camera moving before the stone building?\nA. rightwards\nB. upwards\nC. leftwards\nD. downwards",
+    "answer": "B. upwards",
+    "dim": "direction",
+    "question_length": 114,
+    "num_options": 4
+  },
+  {
+    "video_id": "1088497853",
+    "question": "What is the trajectory of the camera movement in the video?\nA. flying downwards\nB. flying rightwards\nC. flying upwards\nD. flying leftwards",
+    "answer": "C. flying upwards",
+    "dim": "direction",
+    "question_length": 138,
+    "num_options": 4
+  }
+]

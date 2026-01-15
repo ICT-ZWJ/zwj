@@ -1,0 +1,2538 @@
+[
+  {
+    "video_id": "1098982673",
+    "question": "What is the speed of the video?\nA. normal speed\nB. slow motion\nC. fast forward\nD. reverse",
+    "answer": "A. normal speed",
+    "dim": "speed",
+    "question_length": 89,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098982673",
+    "question": "How fast is the video playing?\nA. 2x speed\nB. 1x speed\nC. 10x speed\nD. 0.5x speed",
+    "answer": "B. 1x speed",
+    "dim": "speed",
+    "question_length": 81,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098982673",
+    "question": "Which speed setting does the video appear to be at?\nA. fluctuating speed\nB. real-time speed\nC. decelerated speed\nD. accelerated speed",
+    "answer": "B. real-time speed",
+    "dim": "speed",
+    "question_length": 133,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098982673",
+    "question": "In what pace is the video running?\nA. rapid pace\nB. leisure pace\nC. standard pace\nD. sporadic pace",
+    "answer": "C. standard pace",
+    "dim": "speed",
+    "question_length": 98,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098982673",
+    "question": "What is the tempo of the video?\nA. erratic tempo\nB. moderate tempo\nC. brisk tempo\nD. sluggish tempo",
+    "answer": "B. moderate tempo",
+    "dim": "speed",
+    "question_length": 99,
+    "num_options": 4
+  },
+  {
+    "video_id": "1111657885",
+    "question": "What is the tempo of the video?\nA. rapid pace\nB. slow motion\nC. normal speed",
+    "answer": "B. slow motion",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1111657885",
+    "question": "How is the entire video presented?\nA. pause\nB. fast forward\nC. slow motion",
+    "answer": "C. slow motion",
+    "dim": "speed",
+    "question_length": 74,
+    "num_options": 3
+  },
+  {
+    "video_id": "1111657885",
+    "question": "In which speed mode is the video playing?\nA. real-time speed\nB. slow motion\nC. accelerated\nD. standing still",
+    "answer": "B. slow motion",
+    "dim": "speed",
+    "question_length": 108,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What is the speed of the video?\nA. slow motion\nB. normal speed\nC. time-lapse",
+    "answer": "B. normal speed",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What is the tempo of the entire video?\nA. slow\nB. regular\nC. fast",
+    "answer": "B. regular",
+    "dim": "speed",
+    "question_length": 65,
+    "num_options": 3
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What is the rate of the video?\nA. moderate speed\nB. low speed\nC. high speed",
+    "answer": "A. moderate speed",
+    "dim": "speed",
+    "question_length": 75,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077507593",
+    "question": "What is the speed of the video?\nA. normal speed\nB. slow motion\nC. time-lapse",
+    "answer": "B. slow motion",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077507593",
+    "question": "What is the rate at which the events are happening in the video?\nA. gradual\nB. fast\nC. slow",
+    "answer": "C. slow",
+    "dim": "speed",
+    "question_length": 91,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077507593",
+    "question": "What is the tempo of the video?\nA. slow tempo\nB. rapid tempo\nC. moderate tempo",
+    "answer": "A. slow tempo",
+    "dim": "speed",
+    "question_length": 78,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077507593",
+    "question": "How would you describe the pace of the video?\nA. medium-paced\nB. quick-paced\nC. slow-paced",
+    "answer": "C. slow-paced",
+    "dim": "speed",
+    "question_length": 90,
+    "num_options": 3
+  },
+  {
+    "video_id": "1107116885",
+    "question": "What is the pace of the video?\nA. time-lapse\nB. accelerated speed\nC. slow motion\nD. normal speed",
+    "answer": "D. normal speed",
+    "dim": "speed",
+    "question_length": 96,
+    "num_options": 4
+  },
+  {
+    "video_id": "1107116885",
+    "question": "How fast is the video playing?\nA. at an average speed\nB. with time-lapse effect\nC. in slow motion\nD. at a rapid speed",
+    "answer": "A. at an average speed",
+    "dim": "speed",
+    "question_length": 117,
+    "num_options": 4
+  },
+  {
+    "video_id": "1107116885",
+    "question": "Which speed setting is applied to the entire video?\nA. fast-forward\nB. normal speed\nC. slow motion\nD. time-lapse",
+    "answer": "B. normal speed",
+    "dim": "speed",
+    "question_length": 112,
+    "num_options": 4
+  },
+  {
+    "video_id": "1107116885",
+    "question": "At what rate is the video playing?\nA. with a time warp\nB. slowly\nC. rapidly\nD. normally",
+    "answer": "D. normally",
+    "dim": "speed",
+    "question_length": 87,
+    "num_options": 4
+  },
+  {
+    "video_id": "1107116885",
+    "question": "What is the tempo of the video?\nA. speeded-up\nB. regular\nC. quick\nD. sluggish",
+    "answer": "B. regular",
+    "dim": "speed",
+    "question_length": 77,
+    "num_options": 4
+  },
+  {
+    "video_id": "1059718130",
+    "question": "What is the speed of the video?\nA. slow motion\nB. normal speed\nC. time-lapse\nD. stop motion",
+    "answer": "C. time-lapse",
+    "dim": "speed",
+    "question_length": 91,
+    "num_options": 4
+  },
+  {
+    "video_id": "1059718130",
+    "question": "What is the pace at which the video is playing?\nA. fast-forward\nB. slow motion\nC. real-time",
+    "answer": "A. fast-forward",
+    "dim": "speed",
+    "question_length": 91,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130",
+    "question": "At what rate does the video progress?\nA. slow motion\nB. normal speed\nC. time-lapse\nD. reverse motion",
+    "answer": "C. time-lapse",
+    "dim": "speed",
+    "question_length": 100,
+    "num_options": 4
+  },
+  {
+    "video_id": "1083845854",
+    "question": "What speed is the video playing at?\nA. time-lapse\nB. slow motion\nC. normal speed",
+    "answer": "A. time-lapse",
+    "dim": "speed",
+    "question_length": 80,
+    "num_options": 3
+  },
+  {
+    "video_id": "1083845854",
+    "question": "The video is playing at which speed?\nA. slow motion\nB. normal speed\nC. fast-forward",
+    "answer": "C. fast-forward",
+    "dim": "speed",
+    "question_length": 83,
+    "num_options": 3
+  },
+  {
+    "video_id": "1083845854",
+    "question": "Which word describes the speed of the video?\nA. time-lapse\nB. normal\nC. backwards\nD. double",
+    "answer": "A. time-lapse",
+    "dim": "speed",
+    "question_length": 91,
+    "num_options": 4
+  },
+  {
+    "video_id": "1083845854",
+    "question": "At what rate is the video progressing?\nA. slow motion\nB. time-lapse\nC. normal speed",
+    "answer": "B. time-lapse",
+    "dim": "speed",
+    "question_length": 83,
+    "num_options": 3
+  },
+  {
+    "video_id": "1050618460",
+    "question": "What is the speed of the entire video?\nA. normal speed\nB. time-lapse\nC. slow motion",
+    "answer": "B. time-lapse",
+    "dim": "speed",
+    "question_length": 83,
+    "num_options": 3
+  },
+  {
+    "video_id": "1050618460",
+    "question": "How would you describe the pace of the entire video?\nA. fast-paced\nB. slow-paced\nC. medium-paced",
+    "answer": "A. fast-paced",
+    "dim": "speed",
+    "question_length": 96,
+    "num_options": 3
+  },
+  {
+    "video_id": "1050618460",
+    "question": "How does the entire video appear in terms of tempo?\nA. rapidly\nB. moderately\nC. leisurely",
+    "answer": "A. rapidly",
+    "dim": "speed",
+    "question_length": 89,
+    "num_options": 3
+  },
+  {
+    "video_id": "1083113449",
+    "question": "What is the speed of the video?\nA. slow motion\nB. time-lapse\nC. normal speed",
+    "answer": "B. time-lapse",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1083113449",
+    "question": "What type of speed is applied to the video?\nA. rewind\nB. time-lapse\nC. slow ",
+    "answer": "B. time-lapse",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1083113449",
+    "question": "What effect is applied to the video's speed?\nA. time-lapse\nB. normal speed\nC. slow motion",
+    "answer": "A. time-lapse",
+    "dim": "speed",
+    "question_length": 89,
+    "num_options": 3
+  },
+  {
+    "video_id": "1083113449",
+    "question": "In what way is the speed altered in the video?\nA. normal speed\nB. time-lapse\nC. slow motion",
+    "answer": "B. time-lapse",
+    "dim": "speed",
+    "question_length": 91,
+    "num_options": 3
+  },
+  {
+    "video_id": "1091143117",
+    "question": "What is the speed of the video?\nA. time-lapse\nB. slow motion\nC. normal speed",
+    "answer": "C. normal speed",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1091143117",
+    "question": "Which of the following describes the velocity of the video?\nA. fast-forward\nB. regular\nC. backwards",
+    "answer": "B. regular",
+    "dim": "speed",
+    "question_length": 99,
+    "num_options": 3
+  },
+  {
+    "video_id": "1091143117",
+    "question": "Which word best captures the pace of the video?\nA. speedy\nB. real-time speed\nC. fast-paced",
+    "answer": "B. real-time speed",
+    "dim": "speed",
+    "question_length": 90,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100329207",
+    "question": "What is the speed of the video?\nA. fast forward\nB. normal speed\nC. reverse speed\nD. super slow motion",
+    "answer": "B. normal speed",
+    "dim": "speed",
+    "question_length": 101,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100329207",
+    "question": "Which option describes the rate at which the video is playing?\nA. accelerated\nB. normal speed\nC. super slow motion\nD. fast-paced",
+    "answer": "B. normal speed",
+    "dim": "speed",
+    "question_length": 128,
+    "num_options": 4
+  },
+  {
+    "video_id": "1100329207",
+    "question": "What is the tempo of the video?\nA. paused\nB. sped up\nC. slowed down\nD. regular pace",
+    "answer": "D. regular pace",
+    "dim": "speed",
+    "question_length": 83,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089201973",
+    "question": "What is the speed of the video?\nA. normal speed\nB. time-lapse\nC. slow motion",
+    "answer": "C. slow motion",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1089201973",
+    "question": "What is the pace at which the video is playing?\nA. rapid speed\nB. slow motion\nC. moderate speed",
+    "answer": "B. slow motion",
+    "dim": "speed",
+    "question_length": 95,
+    "num_options": 3
+  },
+  {
+    "video_id": "1089201973",
+    "question": "At what rate is the video being played?\nA. slow motion\nB. fast speed\nC. regular speed",
+    "answer": "A. slow motion",
+    "dim": "speed",
+    "question_length": 85,
+    "num_options": 3
+  },
+  {
+    "video_id": "1089201973",
+    "question": "What term describes the tempo of the video?\nA. high speed\nB. slow motion\nC. standard speed",
+    "answer": "B. slow motion",
+    "dim": "speed",
+    "question_length": 90,
+    "num_options": 3
+  },
+  {
+    "video_id": "1089201973",
+    "question": "Which word best describes the  velocity of the video?\nA. regular speed\nB. slow motion\nC. swift speed",
+    "answer": "B. slow motion",
+    "dim": "speed",
+    "question_length": 100,
+    "num_options": 3
+  },
+  {
+    "video_id": "1034736653",
+    "question": "What is the speed of the woman closest to the camera?\nA. Normal speed\nB. Slowest speed\nC. The fastest speed",
+    "answer": "C. The fastest speed",
+    "dim": "speed",
+    "question_length": 107,
+    "num_options": 3
+  },
+  {
+    "video_id": "1034736653",
+    "question": "Compared to the other people in the video, how fast is the woman closest to the camera moving?\nA. Faster\nB. Same speed\nC. Slower",
+    "answer": "A. Faster",
+    "dim": "speed",
+    "question_length": 128,
+    "num_options": 3
+  },
+  {
+    "video_id": "1034736653",
+    "question": "Among the individuals in the video, who is moving at the highest speed?\nA. Woman closest to the camera\nB. Man in the background\nC. Other people in the video",
+    "answer": "A. Woman closest to the camera",
+    "dim": "speed",
+    "question_length": 156,
+    "num_options": 3
+  },
+  {
+    "video_id": "1034736653",
+    "question": "In terms of speed, how does the woman closest to the camera rank?\nA. Slowest\nB. Fastest\nC. Middle",
+    "answer": "B. Fastest",
+    "dim": "speed",
+    "question_length": 97,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098153561",
+    "question": "What is the speed of the video?\nA. normal speed\nB. time-lapse\nC. slow motion",
+    "answer": "B. time-lapse",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098153561",
+    "question": "How fast is the video playing?\nA. very slow\nB. at a regular pace\nC. in fast forward",
+    "answer": "C. in fast forward",
+    "dim": "speed",
+    "question_length": 83,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098153561",
+    "question": "Which of the following best describes the tempo of the video?\nA. sluggish\nB. steady\nC. accelerated",
+    "answer": "C. accelerated",
+    "dim": "speed",
+    "question_length": 98,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098153561",
+    "question": "In what manner is the video playing?\nA. gradually\nB. instantly\nC. quickly",
+    "answer": "C. quickly",
+    "dim": "speed",
+    "question_length": 73,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098153561",
+    "question": "What is the rate at which the video is being played?\nA. rapid\nB. slow-paced\nC. moderate",
+    "answer": "A. rapid",
+    "dim": "speed",
+    "question_length": 87,
+    "num_options": 3
+  },
+  {
+    "video_id": "1084153195",
+    "question": "What is the rate of movement in the video?\nA. fast speed\nB. no speed\nC. normal speed\nD. slow speed",
+    "answer": "C. normal speed",
+    "dim": "speed",
+    "question_length": 98,
+    "num_options": 4
+  },
+  {
+    "video_id": "1084153195",
+    "question": "Which word describes the pace of the video?\nA. stationary speed\nB. leisurely speed\nC. moderate speed\nD. rapid speed",
+    "answer": "C. moderate speed",
+    "dim": "speed",
+    "question_length": 115,
+    "num_options": 4
+  },
+  {
+    "video_id": "1084153195",
+    "question": "What term best describes the velocity of the video?\nA. average speed\nB. low speed\nC. high speed\nD. still speed",
+    "answer": "A. average speed",
+    "dim": "speed",
+    "question_length": 110,
+    "num_options": 4
+  },
+  {
+    "video_id": "1084153195",
+    "question": "What type of motion does the video exhibit?\nA. standard speed\nB. immobile speed\nC. sluggish speed\nD. swift speed",
+    "answer": "A. standard speed",
+    "dim": "speed",
+    "question_length": 112,
+    "num_options": 4
+  },
+  {
+    "video_id": "1084153195",
+    "question": "What is the tempo of the video?\nA. rapid speed\nB. unhurried speed\nC. regular speed\nD. static speed",
+    "answer": "C. regular speed",
+    "dim": "speed",
+    "question_length": 98,
+    "num_options": 4
+  },
+  {
+    "video_id": "1054717541",
+    "question": "How is the video playing?\nA. in slow motion\nB. with a time-lapse effect\nC. at normal speed",
+    "answer": "A. in slow motion",
+    "dim": "speed",
+    "question_length": 90,
+    "num_options": 3
+  },
+  {
+    "video_id": "1054717541",
+    "question": "What is the tempo of the video playback?\nA. medium\nB. slow\nC. fast",
+    "answer": "B. slow",
+    "dim": "speed",
+    "question_length": 66,
+    "num_options": 3
+  },
+  {
+    "video_id": "1054717541",
+    "question": "In what way is the video playing?\nA. rapidly\nB. slowly\nC. consistently",
+    "answer": "B. slowly",
+    "dim": "speed",
+    "question_length": 70,
+    "num_options": 3
+  },
+  {
+    "video_id": "1054717541",
+    "question": "What is the relative speed of the video compared to real-time?\nA. slower\nB. faster\nC. equal",
+    "answer": "A. slower",
+    "dim": "speed",
+    "question_length": 91,
+    "num_options": 3
+  },
+  {
+    "video_id": "1081092839",
+    "question": "What is the speed of the video?\nA. time-lapse\nB. slow motion\nC. normal speed",
+    "answer": "A. time-lapse",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1081092839",
+    "question": "What is the tempo of the video?\nA. normal speed\nB. slow motion\nC. fast pace",
+    "answer": "C. fast pace",
+    "dim": "speed",
+    "question_length": 75,
+    "num_options": 3
+  },
+  {
+    "video_id": "1081092839",
+    "question": "Which speed is the video playing at?\nA. time-lapse\nB. slow motion\nC. regular speed",
+    "answer": "A. time-lapse",
+    "dim": "speed",
+    "question_length": 82,
+    "num_options": 3
+  },
+  {
+    "video_id": "1081092839",
+    "question": "What is the rate of the video?\nA. regular speed\nB. slow motion\nC. time-lapse",
+    "answer": "C. time-lapse",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059462749",
+    "question": "What is the speed of the video?\nA. time-lapse\nB. normal speed\nC. slow motion",
+    "answer": "B. normal speed",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059462749",
+    "question": "How fast is the video playing?\nA. slowly\nB. quickly\nC. normally",
+    "answer": "C. normally",
+    "dim": "speed",
+    "question_length": 63,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059462749",
+    "question": "What is the pace of the video?\nA. regular\nB. accelerated\nC. decelerated",
+    "answer": "A. regular",
+    "dim": "speed",
+    "question_length": 71,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059462749",
+    "question": "At what rate is the video played?\nA. moderate speed\nB. slow speed\nC. fast speed",
+    "answer": "A. moderate speed",
+    "dim": "speed",
+    "question_length": 79,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059462749",
+    "question": "In what tempo is the video running?\nA. high speed\nB. normal speed\nC. low speed",
+    "answer": "B. normal speed",
+    "dim": "speed",
+    "question_length": 78,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077590324",
+    "question": "What is the speed of the entire video?\nA. slow motion\nB. normal speed\nC. time-lapse",
+    "answer": "B. normal speed",
+    "dim": "speed",
+    "question_length": 83,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077590324",
+    "question": "What is the velocity of the video playback?\nA. low speed\nB. normal speed\nC. high speed",
+    "answer": "B. normal speed",
+    "dim": "speed",
+    "question_length": 86,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077590324",
+    "question": "In what fashion is the video being played?\nA. rapid motion\nB. average speed\nC. slow motion",
+    "answer": "B. average speed",
+    "dim": "speed",
+    "question_length": 90,
+    "num_options": 3
+  },
+  {
+    "video_id": "1040541401",
+    "question": "What is the speed of the video?\nA. time-lapse\nB. normal speed\nC. super slow motion",
+    "answer": "B. normal speed",
+    "dim": "speed",
+    "question_length": 82,
+    "num_options": 3
+  },
+  {
+    "video_id": "1040541401",
+    "question": "How fast is the video playing?\nA. normal speed\nB. very slow\nC. extremely fast",
+    "answer": "A. normal speed",
+    "dim": "speed",
+    "question_length": 77,
+    "num_options": 3
+  },
+  {
+    "video_id": "1040541401",
+    "question": "In what pace is the video running?\nA. rapid speed\nB. 10 times slow speed\nC. medium speed",
+    "answer": "C. medium speed",
+    "dim": "speed",
+    "question_length": 88,
+    "num_options": 3
+  },
+  {
+    "video_id": "1064645467",
+    "question": "What is the speed of the video?\nA. slow motion\nB. time-lapse\nC. normal speed",
+    "answer": "C. normal speed",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1064645467",
+    "question": "How fast is the video playing?\nA. normal speed\nB. fast speed\nC. slow speed",
+    "answer": "A. normal speed",
+    "dim": "speed",
+    "question_length": 74,
+    "num_options": 3
+  },
+  {
+    "video_id": "1064645467",
+    "question": "In what pace is the entire video played?\nA. moderately\nB. normally\nC. rapidly",
+    "answer": "B. normally",
+    "dim": "speed",
+    "question_length": 77,
+    "num_options": 3
+  },
+  {
+    "video_id": "1064645467",
+    "question": "Which option describes the speed of the video accurately?\nA. slowest speed\nB. fastest speed\nC. normal speed",
+    "answer": "C. normal speed",
+    "dim": "speed",
+    "question_length": 107,
+    "num_options": 3
+  },
+  {
+    "video_id": "1064645467",
+    "question": "What is the video playback rate?\nA. accelerated speed\nB. decelerated speed\nC. normal speed",
+    "answer": "C. normal speed",
+    "dim": "speed",
+    "question_length": 90,
+    "num_options": 3
+  },
+  {
+    "video_id": "1088279109",
+    "question": "What is the speed of the video?\nA. slow motion\nB. time-lapse\nC. normal speed",
+    "answer": "C. normal speed",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1088279109",
+    "question": "In which mode is the video being played?\nA. normal speed\nB. fast forward\nC. rewind\nD. pause",
+    "answer": "A. normal speed",
+    "dim": "speed",
+    "question_length": 91,
+    "num_options": 4
+  },
+  {
+    "video_id": "1088279109",
+    "question": "What is the tempo of the video?\nA. normal speed\nB. slow tempo\nC. no tempo\nD. fast tempo",
+    "answer": "A. normal speed",
+    "dim": "speed",
+    "question_length": 87,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093573255",
+    "question": "What is the speed of the video?\nA. normal speed\nB. slow motion\nC. time-lapse",
+    "answer": "C. time-lapse",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1093573255",
+    "question": "At what pace is the video running?\nA. steadily\nB. sluggishly\nC. rapidly",
+    "answer": "C. rapidly",
+    "dim": "speed",
+    "question_length": 71,
+    "num_options": 3
+  },
+  {
+    "video_id": "1093573255",
+    "question": "The video is played at what kind of speed?\nA. regular speed\nB. timelapse\nC. decelerated motion",
+    "answer": "B. timelapse",
+    "dim": "speed",
+    "question_length": 94,
+    "num_options": 3
+  },
+  {
+    "video_id": "1105233293",
+    "question": "How would you describe the pace of the video?\nA. accelerated speed\nB. normal speed\nC. reversed speed\nD. slow-motion",
+    "answer": "B. normal speed",
+    "dim": "speed",
+    "question_length": 115,
+    "num_options": 4
+  },
+  {
+    "video_id": "1105233293",
+    "question": "What is the tempo of the video playback?\nA. normal speed\nB. freeze frame\nC. time-lapse\nD. fast-forward",
+    "answer": "A. normal speed",
+    "dim": "speed",
+    "question_length": 102,
+    "num_options": 4
+  },
+  {
+    "video_id": "1105233293",
+    "question": "Which option best characterizes the speed of the entire video?\nA. decelerated motion\nB. quickened pace\nC. normal speed\nD. real-time speed",
+    "answer": "C. normal speed",
+    "dim": "speed",
+    "question_length": 137,
+    "num_options": 4
+  },
+  {
+    "video_id": "1105233293",
+    "question": "What is the velocity at which the video is playing?\nA. rapid speed\nB. slow motion\nC. stopped frame\nD. normal speed",
+    "answer": "D. normal speed",
+    "dim": "speed",
+    "question_length": 114,
+    "num_options": 4
+  },
+  {
+    "video_id": "1105233293",
+    "question": "How would you describe the rate at which the video is progressing?\nA. slo-mo\nB. normal speed\nC. expedited speed\nD. rewinding speed",
+    "answer": "B. normal speed",
+    "dim": "speed",
+    "question_length": 130,
+    "num_options": 4
+  },
+  {
+    "video_id": "1072594556",
+    "question": "How would you describe the speed of the car in the center of the screen?\nA. slower than other cars\nB. faster than other cars\nC. at the same speed as other cars",
+    "answer": "B. faster than other cars",
+    "dim": "speed",
+    "question_length": 159,
+    "num_options": 3
+  },
+  {
+    "video_id": "1072594556",
+    "question": "Compared to other cars, how does the car in the center of the screen move?\nA. At the same speed\nB. Faster\nC. Slower\nD. Information unavailable",
+    "answer": "B. Faster",
+    "dim": "speed",
+    "question_length": 142,
+    "num_options": 4
+  },
+  {
+    "video_id": "1072594556",
+    "question": "What do we know about the car's motion relative to other objects on the screen?\nA. It is the fastest\nB. It is the slowest\nC. There is no motion\nD. Same speed as the others",
+    "answer": "A. It is the fastest",
+    "dim": "speed",
+    "question_length": 171,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099984801",
+    "question": "What is the speed of the video?\nA. normal speed\nB. slow motion\nC. time-lapse",
+    "answer": "C. time-lapse",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1099984801",
+    "question": "What speed is the video set to?\nA. time-lapse\nB. time dilation\nC. real-time",
+    "answer": "A. time-lapse",
+    "dim": "speed",
+    "question_length": 75,
+    "num_options": 3
+  },
+  {
+    "video_id": "1099984801",
+    "question": "What is the pacing of the video?\nA. accelerating\nB. decelerating\nC. normal speed",
+    "answer": "A. accelerating",
+    "dim": "speed",
+    "question_length": 80,
+    "num_options": 3
+  },
+  {
+    "video_id": "23391142",
+    "question": "What is the speed of the video?\nA. normal speed\nB. slow motion\nC. time-lapse",
+    "answer": "B. slow motion",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "23391142",
+    "question": "How fast is the video playing?\nA. quickly\nB. at a moderate pace\nC. slowly",
+    "answer": "C. slowly",
+    "dim": "speed",
+    "question_length": 73,
+    "num_options": 3
+  },
+  {
+    "video_id": "23391142",
+    "question": "Which speed mode is applied to the video?\nA. regular speed\nB. accelerated\nC. slow motion",
+    "answer": "C. slow motion",
+    "dim": "speed",
+    "question_length": 88,
+    "num_options": 3
+  },
+  {
+    "video_id": "23391142",
+    "question": "What is the video playback rate?\nA. fast\nB. slow\nC. moderate",
+    "answer": "B. slow",
+    "dim": "speed",
+    "question_length": 60,
+    "num_options": 3
+  },
+  {
+    "video_id": "23391142",
+    "question": "In what kind of speed is the video shown?\nA. slow motion\nB. rapid\nC. normal",
+    "answer": "A. slow motion",
+    "dim": "speed",
+    "question_length": 75,
+    "num_options": 3
+  },
+  {
+    "video_id": "1094219575",
+    "question": "What is the speed of the video?\nA. normal speed\nB. time-lapse\nC. slow motion\nD. fast forwarding",
+    "answer": "B. time-lapse",
+    "dim": "speed",
+    "question_length": 95,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094219575",
+    "question": "Which term describes how the video is played?\nA. time-lapse\nB. rewinded\nC. decelerated\nD. paused",
+    "answer": "A. time-lapse",
+    "dim": "speed",
+    "question_length": 96,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094219575",
+    "question": "How is the video being played?\nA. as a time-lapse\nB. on fast forward\nC. in slow motion\nD. at a regular pace",
+    "answer": "A. as a time-lapse",
+    "dim": "speed",
+    "question_length": 107,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094219575",
+    "question": "What type of speed is applied to the video?\nA. gradual speed\nB. erratic speed\nC. time-lapse speed\nD. variable speed",
+    "answer": "C. time-lapse speed",
+    "dim": "speed",
+    "question_length": 115,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094219575",
+    "question": "In what way is the video being shown?\nA. rapidly\nB. in real-time\nC. as a time-lapse\nD. in slow motion",
+    "answer": "C. as a time-lapse",
+    "dim": "speed",
+    "question_length": 101,
+    "num_options": 4
+  },
+  {
+    "video_id": "1067427023",
+    "question": "What is the speed of the video?\nA. normal speed\nB. time-lapse\nC. slow motion",
+    "answer": "B. time-lapse",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1067427023",
+    "question": "How fast is the video playing?\nA. time-lapse\nB. normal speed\nC. slow motion",
+    "answer": "A. time-lapse",
+    "dim": "speed",
+    "question_length": 75,
+    "num_options": 3
+  },
+  {
+    "video_id": "1067427023",
+    "question": "In what manner is the video progressing?\nA. real-time\nB. slow motion\nC. sped up",
+    "answer": "C. sped up",
+    "dim": "speed",
+    "question_length": 79,
+    "num_options": 3
+  },
+  {
+    "video_id": "1067268406",
+    "question": "What is the speed of the car?\nA. at the same speed as the camera\nB. faster than the camera\nC. slower than the camera",
+    "answer": "B. faster than the camera",
+    "dim": "speed",
+    "question_length": 116,
+    "num_options": 3
+  },
+  {
+    "video_id": "1067268406",
+    "question": "How does the car's speed compare to the camera's speed?\nA. It is faster.\nB. It is slower.\nC. They have the same speed.",
+    "answer": "A. It is faster.",
+    "dim": "speed",
+    "question_length": 118,
+    "num_options": 3
+  },
+  {
+    "video_id": "1067268406",
+    "question": "Does the car move at a different speed compared to the camera?\nA. Yes, it moves faster.\nB. Yes, it moves slower.\nC. No, they move at the same speed.",
+    "answer": "A. Yes, it moves faster.",
+    "dim": "speed",
+    "question_length": 148,
+    "num_options": 3
+  },
+  {
+    "video_id": "1092682551",
+    "question": "What is the speed of the cars compared to the camera?\nA. travel at the same speed as the camera\nB. faster than the camera\nC. travel slower than the camera",
+    "answer": "C. travel slower than the camera",
+    "dim": "speed",
+    "question_length": 154,
+    "num_options": 3
+  },
+  {
+    "video_id": "1092682551",
+    "question": "How does the cars' speed compare to the camera's speed?\nA. They have the same speed.\nB. They are slower.\nC. They are faster.",
+    "answer": "B. They are slower.",
+    "dim": "speed",
+    "question_length": 124,
+    "num_options": 3
+  },
+  {
+    "video_id": "1092682551",
+    "question": "Do the cars move at a different speed compared to the camera?\nA. Yes, they move faster.\nB. No, they move at the same speed.\nC. Yes, they move slower.",
+    "answer": "C. Yes, they move slower.",
+    "dim": "speed",
+    "question_length": 149,
+    "num_options": 3
+  },
+  {
+    "video_id": "1073831006",
+    "question": "What is the speed of the zebras in the video?\nA. slow motion\nB. stationary\nC. fast motion\nD. normal speed",
+    "answer": "A. slow motion",
+    "dim": "speed",
+    "question_length": 105,
+    "num_options": 4
+  },
+  {
+    "video_id": "1073831006",
+    "question": "How fast is the video playing?\nA. normal speed\nB. time-lapse\nC. slow motion",
+    "answer": "C. slow motion",
+    "dim": "speed",
+    "question_length": 75,
+    "num_options": 3
+  },
+  {
+    "video_id": "1073831006",
+    "question": "Which option describes the rate at which the video is playing?\nA. accelerated\nB. normal speed\nC. slow motion",
+    "answer": "C. slow motion",
+    "dim": "speed",
+    "question_length": 108,
+    "num_options": 3
+  },
+  {
+    "video_id": "1092278063",
+    "question": "What is the speed of the conveyor belt?\nA. normal speed\nB. stopped\nC. super fast speed\nD. slow speed",
+    "answer": "A. normal speed",
+    "dim": "speed",
+    "question_length": 100,
+    "num_options": 4
+  },
+  {
+    "video_id": "1092278063",
+    "question": "How fast is the conveyor belt moving?\nA. very slowly\nB. very quickly\nC. at a moderate pace\nD. not moving at all",
+    "answer": "C. at a moderate pace",
+    "dim": "speed",
+    "question_length": 111,
+    "num_options": 4
+  },
+  {
+    "video_id": "1092278063",
+    "question": "What is the velocity of the conveyor belt?\nA. zero velocity\nB. extreme high velocity\nC. extreme low velocity\nD. moderate velocity",
+    "answer": "D. moderate velocity",
+    "dim": "speed",
+    "question_length": 129,
+    "num_options": 4
+  },
+  {
+    "video_id": "315784",
+    "question": "In relation to the speedometer on the left, how does the speedometer in the center appear?\nA. stationary\nB. moving slower\nC. moving faster",
+    "answer": "C. moving faster",
+    "dim": "speed",
+    "question_length": 138,
+    "num_options": 3
+  },
+  {
+    "video_id": "315784",
+    "question": "What is the relative speed of the speedometer in the center compared to the speedometer on the left?\nA. slower\nB. equal\nC. faster",
+    "answer": "C. faster",
+    "dim": "speed",
+    "question_length": 129,
+    "num_options": 3
+  },
+  {
+    "video_id": "315784",
+    "question": "How does the speedometer in the center differ from the speedometer on the left?\nA. moving at the same speed\nB. moving at a slower speed\nC. moving at a faster speed",
+    "answer": "C. moving at a faster speed",
+    "dim": "speed",
+    "question_length": 163,
+    "num_options": 3
+  },
+  {
+    "video_id": "3411806181",
+    "question": "What is the speed of the video?\nA. time-lapse\nB. slow motion\nC. normal speed",
+    "answer": "B. slow motion",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "3411806181",
+    "question": "What is the pace at which the video is playing?\nA. real-time speed\nB. fast forward\nC. slow motion",
+    "answer": "C. slow motion",
+    "dim": "speed",
+    "question_length": 97,
+    "num_options": 3
+  },
+  {
+    "video_id": "3411806181",
+    "question": "At what rate is the video being played?\nA. slow motion\nB. time-lapse\nC. normal speed",
+    "answer": "A. slow motion",
+    "dim": "speed",
+    "question_length": 84,
+    "num_options": 3
+  },
+  {
+    "video_id": "1043054206",
+    "question": "How would you describe the speed of the yellow car compared to other cars?\nA. Stopped\nB. Driving faster than other cars\nC. Driving at the same speed as other cars\nD. Driving slower than other cars",
+    "answer": "B. Driving faster than other cars",
+    "dim": "speed",
+    "question_length": 196,
+    "num_options": 4
+  },
+  {
+    "video_id": "1043054206",
+    "question": "In relation to other cars, how can you characterize the speed of the yellow car?\nA. Traveling at a slower pace than other cars\nB. Traveling at a faster pace than other cars\nC. Currently not in motion\nD. Traveling at an equivalent speed to other cars",
+    "answer": "B. Traveling at a faster pace than other cars",
+    "dim": "speed",
+    "question_length": 249,
+    "num_options": 4
+  },
+  {
+    "video_id": "1043054206",
+    "question": "When comparing the yellow car to other vehicles, how would you depict its speed?\nA. Moving more slowly than other cars\nB. Moving faster than other cars\nC. Moving at a comparable speed to other cars\nD. Stationary",
+    "answer": "B. Moving faster than other cars",
+    "dim": "speed",
+    "question_length": 211,
+    "num_options": 4
+  },
+  {
+    "video_id": "1096238125",
+    "question": "How is the man lifting the kettlebell compared to the woman?\nA. At roughly the same speed as the woman\nB. Slower\nC. Faster",
+    "answer": "A. At roughly the same speed as the woman",
+    "dim": "speed",
+    "question_length": 122,
+    "num_options": 3
+  },
+  {
+    "video_id": "1096238125",
+    "question": "In terms of speed, how does the man compare to the woman while lifting the kettlebell?\nA. Significantly faster\nB. Significantly slower\nC. Approximately the same",
+    "answer": "C. Approximately the same",
+    "dim": "speed",
+    "question_length": 160,
+    "num_options": 3
+  },
+  {
+    "video_id": "1096238125",
+    "question": "What is the speed of the man relative to the woman while lifting the kettlebell?\nA. same speed\nB. much faster\nC. much slower",
+    "answer": "A. same speed",
+    "dim": "speed",
+    "question_length": 124,
+    "num_options": 3
+  },
+  {
+    "video_id": "1061017846",
+    "question": "What is the speed of the boat on the top of the screen?\nA. slower than the boat on the bottom of the screen\nB. faster than the boat on the bottom of the screen\nC. travels at the same speed as the boat on the bottom of the screen",
+    "answer": "C. travels at the same speed as the boat on the bottom of the screen",
+    "dim": "speed",
+    "question_length": 228,
+    "num_options": 3
+  },
+  {
+    "video_id": "1061017846",
+    "question": "Is the boat on the top of the screen moving at a different speed compared to the boat on the bottom of the screen?\nA. no, it's moving at the same speed\nB. yes, it's moving faster\nC. yes, it's moving slower",
+    "answer": "A. no, it's moving at the same speed",
+    "dim": "speed",
+    "question_length": 205,
+    "num_options": 3
+  },
+  {
+    "video_id": "1061017846",
+    "question": "How would you describe the speed of the boat on the top of the screen compared to the boat on the bottom of the screen?\nA. equal speed\nB. significantly faster\nC. slightly faster",
+    "answer": "A. equal speed",
+    "dim": "speed",
+    "question_length": 177,
+    "num_options": 3
+  },
+  {
+    "video_id": "1056433484",
+    "question": "What is the speed of the earth's rotation compared to the sun?\nA. Faster than the sun\nB. Slower than the sun\nC. The same as the sun",
+    "answer": "A. Faster than the sun",
+    "dim": "speed",
+    "question_length": 131,
+    "num_options": 3
+  },
+  {
+    "video_id": "1056433484",
+    "question": "Which statement accurately describes the earth's speed compared to the sun?\nA. The earth rotates slower than the sun\nB. The earth rotates faster than the sun\nC. They rotate at equal speeds",
+    "answer": "B. The earth rotates faster than the sun",
+    "dim": "speed",
+    "question_length": 188,
+    "num_options": 3
+  },
+  {
+    "video_id": "1056433484",
+    "question": "In terms of speed, how does the earth's rotation compare to the sun?\nA. The sun rotates slower than the earth\nB. The sun rotates faster than the earth\nC. The earth rotates faster than the sun",
+    "answer": "C. The earth rotates faster than the sun",
+    "dim": "speed",
+    "question_length": 191,
+    "num_options": 3
+  },
+  {
+    "video_id": "1099360359",
+    "question": "Which train drives faster?\nA. The train closer to the screen\nB. There is no information about their speeds\nC. They both drive at the same speed\nD. The train further away from the screen",
+    "answer": "D. The train further away from the screen",
+    "dim": "speed",
+    "question_length": 185,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099360359",
+    "question": "What is the relative speed between the two trains?\nA. There is no information about their speeds\nB. They both drive at the same speed\nC. The train closer to the screen drives faster\nD. The train further away from the screen drives faster",
+    "answer": "D. The train further away from the screen drives faster",
+    "dim": "speed",
+    "question_length": 237,
+    "num_options": 4
+  },
+  {
+    "video_id": "1099360359",
+    "question": "According to the video, which train has a higher speed?\nA. The train further away from the screen\nB. They both drive at the same speed\nC. There is no information about their speeds\nD. The train closer to the screen",
+    "answer": "A. The train further away from the screen",
+    "dim": "speed",
+    "question_length": 214,
+    "num_options": 4
+  },
+  {
+    "video_id": "1042819039",
+    "question": "What is the speed of the video?\nA. slow motion\nB. time-lapse\nC. normal speed",
+    "answer": "B. time-lapse",
+    "dim": "speed",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1042819039",
+    "question": "What is the pace at which the video is playing?\nA. normal speed\nB. slow motion\nC. fast forward",
+    "answer": "C. fast forward",
+    "dim": "speed",
+    "question_length": 94,
+    "num_options": 3
+  },
+  {
+    "video_id": "1042819039",
+    "question": "In what manner is the video being shown?\nA. in real-time\nB. in time-lapse\nC. in slow motion",
+    "answer": "B. in time-lapse",
+    "dim": "speed",
+    "question_length": 91,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130_concat_0",
+    "question": "What is the speed of the sun above?\nA. rising slower than the sun below\nB. rising faster than the sun below\nC. rising at the same speed as the sun below",
+    "answer": "C. rising at the same speed as the sun below",
+    "dim": "speed",
+    "question_length": 152,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130_concat_0",
+    "question": "Which sun is rising faster?\nA. the sun below\nB. Both suns are rising at the same speed\nC. the sun above",
+    "answer": "B. Both suns are rising at the same speed",
+    "dim": "speed",
+    "question_length": 103,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130_concat_0",
+    "question": "How does the speed of the sun above compare to the speed of the sun below?\nA. The sun above is rising slower than the sun below\nB. The sun above and the sun below have the same speed\nC. The sun above is rising faster than the sun below",
+    "answer": "B. The sun above and the sun below have the same speed",
+    "dim": "speed",
+    "question_length": 235,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130_concat_1",
+    "question": "What is the speed of the sun above?\nA. rising faster than the sun below\nB. rising slower than the sun below\nC. rising at the same speed as the sun below",
+    "answer": "B. rising slower than the sun below",
+    "dim": "speed",
+    "question_length": 152,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130_concat_1",
+    "question": "Which sun is rising faster?\nA. the sun above\nB. Both suns are rising at the same speed\nC. the sun below",
+    "answer": "C. the sun below",
+    "dim": "speed",
+    "question_length": 103,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130_concat_1",
+    "question": "How does the speed of the sun above compare to the speed of the sun below?\nA. The sun above is rising faster than the sun below\nB. The sun above and the sun below have the same speed\nC. The sun above is rising slower than the sun below",
+    "answer": "C. The sun above is rising slower than the sun below",
+    "dim": "speed",
+    "question_length": 235,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130_concat_2",
+    "question": "What is the speed of the sun above?\nA. rising at the same speed as the sun below\nB. rising slower than the sun below\nC. rising faster than the sun below",
+    "answer": "C. rising faster than the sun below",
+    "dim": "speed",
+    "question_length": 152,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130_concat_2",
+    "question": "Which sun is rising faster?\nA. Both suns are rising at the same speed\nB. the sun below\nC. the sun above",
+    "answer": "C. the sun above",
+    "dim": "speed",
+    "question_length": 103,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059718130_concat_2",
+    "question": "How does the speed of the sun above compare to the speed of the sun below?\nA. The sun above is rising slower than the sun below\nB. The sun above and the sun below have the same speed\nC. The sun above is rising faster than the sun below",
+    "answer": "C. The sun above is rising faster than the sun below",
+    "dim": "speed",
+    "question_length": 235,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098153561_concat_0",
+    "question": "What is the speed that the forest above changing color?\nA. faster than the forest below\nB. at the same speed as the forest below\nC. slower than the forest below",
+    "answer": "B. at the same speed as the forest below",
+    "dim": "speed",
+    "question_length": 160,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098153561_concat_0",
+    "question": "How does the speed of the forest above compare to the forest below?\nA. it changes color at the same speed as the forest below\nB. it changes color slower than the forest below\nC. it changes color faster than the forest below",
+    "answer": "A. it changes color at the same speed as the forest below",
+    "dim": "speed",
+    "question_length": 223,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098153561_concat_0",
+    "question": "In relation to the speed of the forest below, how does the speed of color change in the forest above appear?\nA. Faster\nB. Slower\nC. Equally fast",
+    "answer": "C. Equally fast",
+    "dim": "speed",
+    "question_length": 144,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098153561_concat_1",
+    "question": "What is the speed that the forest above changing color?\nA. slower than the forest below\nB. faster than the forest below\nC. at the same speed as the forest below",
+    "answer": "A. slower than the forest below",
+    "dim": "speed",
+    "question_length": 160,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098153561_concat_1",
+    "question": "How does the speed of the forest above compare to the forest below?\nA. it changes color faster than the forest below\nB. it changes color at the same speed as the forest below\nC. it changes color slower than the forest below",
+    "answer": "C. it changes color slower than the forest below",
+    "dim": "speed",
+    "question_length": 223,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098153561_concat_1",
+    "question": "In relation to the speed of the forest below, how does the speed of color change in the forest above appear?\nA. Faster\nB. Slower\nC. Equally fast",
+    "answer": "B. Slower",
+    "dim": "speed",
+    "question_length": 144,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098153561_concat_2",
+    "question": "What is the speed that the forest above changing color?\nA. faster than the forest below\nB. slower than the forest below\nC. at the same speed as the forest below",
+    "answer": "A. faster than the forest below",
+    "dim": "speed",
+    "question_length": 160,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098153561_concat_2",
+    "question": "How does the speed of the forest above compare to the forest below?\nA. it changes color at the same speed as the forest below\nB. it changes color faster than the forest below\nC. it changes color slower than the forest below",
+    "answer": "B. it changes color faster than the forest below",
+    "dim": "speed",
+    "question_length": 223,
+    "num_options": 3
+  },
+  {
+    "video_id": "1098153561_concat_2",
+    "question": "In relation to the speed of the forest below, how does the speed of color change in the forest above appear?\nA. Faster\nB. Slower\nC. Equally fast",
+    "answer": "A. Faster",
+    "dim": "speed",
+    "question_length": 144,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059462749_concat_0",
+    "question": "How is the person above climbing compared to the person below?\nA. Climbing faster than the person below\nB. Climbing slower than the person below\nC. Climbing at the same speed as the person below",
+    "answer": "C. Climbing at the same speed as the person below",
+    "dim": "speed",
+    "question_length": 194,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059462749_concat_0",
+    "question": "What can be said about the speed of the person above and the person below?\nA. The person above is moving faster than the person below\nB. The person above and below are moving at the same speed\nC. The person above is moving slower than the person below",
+    "answer": "B. The person above and below are moving at the same speed",
+    "dim": "speed",
+    "question_length": 251,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059462749_concat_0",
+    "question": "What is the speed of the person above compared to the person below?\nA. climbing faster\nB. climbing at the same speed\nC. climbing slower",
+    "answer": "B. climbing at the same speed",
+    "dim": "speed",
+    "question_length": 135,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059462749_concat_1",
+    "question": "How is the person above climbing compared to the person below?\nA. Climbing slower than the person below\nB. Climbing faster than the person below\nC. Climbing at the same speed as the person below",
+    "answer": "A. Climbing slower than the person below",
+    "dim": "speed",
+    "question_length": 194,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059462749_concat_1",
+    "question": "What can be said about the speed of the person above and the person below?\nA. The person above is moving faster than the person below\nB. The person above and below are moving at the same speed\nC. The person above is moving slower than the person below",
+    "answer": "C. The person above is moving slower than the person below",
+    "dim": "speed",
+    "question_length": 251,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059462749_concat_1",
+    "question": "What is the speed of the person above compared to the person below?\nA. climbing at the same speed\nB. climbing slower\nC. climbing faster",
+    "answer": "B. climbing slower",
+    "dim": "speed",
+    "question_length": 135,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059462749_concat_2",
+    "question": "How is the person above climbing compared to the person below?\nA. Climbing at the same speed as the person below\nB. Climbing faster than the person below\nC. Climbing slower than the person below",
+    "answer": "B. Climbing faster than the person below",
+    "dim": "speed",
+    "question_length": 194,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059462749_concat_2",
+    "question": "What can be said about the speed of the person above and the person below?\nA. The person above is moving faster than the person below\nB. The person above is moving slower than the person below\nC. The person above and below are moving at the same speed",
+    "answer": "A. The person above is moving faster than the person below",
+    "dim": "speed",
+    "question_length": 251,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059462749_concat_2",
+    "question": "What is the speed of the person above compared to the person below?\nA. climbing faster\nB. climbing at the same speed\nC. climbing slower",
+    "answer": "A. climbing faster",
+    "dim": "speed",
+    "question_length": 135,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059072773_concat_0",
+    "question": "What is the speed of the ice cream above?\nA. melting at the same speed as the ice cream below\nB. melting faster than the ice cream below\nC. melting slower than the ice cream below",
+    "answer": "A. melting at the same speed as the ice cream below",
+    "dim": "speed",
+    "question_length": 179,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059072773_concat_0",
+    "question": "How does the melting speed of the ice cream above compare to the ice cream below?\nA. melting slower\nB. melting faster\nC. at the same speed",
+    "answer": "C. at the same speed",
+    "dim": "speed",
+    "question_length": 138,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059072773_concat_0",
+    "question": "In comparison, how would you describe the speed of melting of the ice creams?\nA. The ice cream above is melting slower than the ice cream below.\nB. The ice cream above is melting faster than the ice cream below.\nC. The ice cream above is melting at the same speed as the ice cream below.",
+    "answer": "C. The ice cream above is melting at the same speed as the ice cream below.",
+    "dim": "speed",
+    "question_length": 287,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059072773_concat_1",
+    "question": "What is the speed of the ice cream above?\nA. melting slower than the ice cream below\nB. melting faster than the ice cream below\nC. melting at the same speed as the ice cream below",
+    "answer": "A. melting slower than the ice cream below",
+    "dim": "speed",
+    "question_length": 179,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059072773_concat_1",
+    "question": "How does the melting speed of the ice cream above compare to the ice cream below?\nA. melting faster\nB. at the same speed\nC. melting slower",
+    "answer": "C. melting slower",
+    "dim": "speed",
+    "question_length": 138,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059072773_concat_1",
+    "question": "In comparison, how would you describe the speed of melting of the ice creams?\nA. The ice cream above is melting at the same speed as the ice cream below.\nB. The ice cream above is melting faster than the ice cream below.\nC. The ice cream above is melting slower than the ice cream below.",
+    "answer": "C. The ice cream above is melting slower than the ice cream below.",
+    "dim": "speed",
+    "question_length": 287,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059072773_concat_2",
+    "question": "What is the speed of the ice cream above?\nA. melting at the same speed as the ice cream below\nB. melting faster than the ice cream below\nC. melting slower than the ice cream below",
+    "answer": "B. melting faster than the ice cream below",
+    "dim": "speed",
+    "question_length": 179,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059072773_concat_2",
+    "question": "How does the melting speed of the ice cream above compare to the ice cream below?\nA. melting slower\nB. at the same speed\nC. melting faster",
+    "answer": "C. melting faster",
+    "dim": "speed",
+    "question_length": 138,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059072773_concat_2",
+    "question": "In comparison, how would you describe the speed of melting of the ice creams?\nA. The ice cream above is melting slower than the ice cream below.\nB. The ice cream above is melting at the same speed as the ice cream below.\nC. The ice cream above is melting faster than the ice cream below.",
+    "answer": "C. The ice cream above is melting faster than the ice cream below.",
+    "dim": "speed",
+    "question_length": 287,
+    "num_options": 3
+  },
+  {
+    "video_id": "1090578917_concat_0",
+    "question": "What speed is the man above jumping at?\nA. Jumping at the same speed as the man below\nB. Slower than the man below\nC. Faster than the man below",
+    "answer": "A. Jumping at the same speed as the man below",
+    "dim": "speed",
+    "question_length": 143,
+    "num_options": 3
+  },
+  {
+    "video_id": "1090578917_concat_0",
+    "question": "In comparison to the man below, how does the speed of the man above jumping look?\nA. Slower speed\nB. The same speed\nC. Faster speed",
+    "answer": "B. The same speed",
+    "dim": "speed",
+    "question_length": 131,
+    "num_options": 3
+  },
+  {
+    "video_id": "1090578917_concat_0",
+    "question": "Which man is jumping slower than the other?\nA. The man below\nB. The man above\nC. Both man jumping at the same speed",
+    "answer": "C. Both man jumping at the same speed",
+    "dim": "speed",
+    "question_length": 115,
+    "num_options": 3
+  },
+  {
+    "video_id": "1090578917_concat_1",
+    "question": "What speed is the man above jumping at?\nA. Jumping at the same speed as the man below\nB. Slower than the man below\nC. Faster than the man below",
+    "answer": "B. Slower than the man below",
+    "dim": "speed",
+    "question_length": 143,
+    "num_options": 3
+  },
+  {
+    "video_id": "1090578917_concat_1",
+    "question": "In comparison to the man below, how does the speed of the man above jumping look?\nA. Faster speed\nB. The same speed\nC. Slower speed",
+    "answer": "C. Slower speed",
+    "dim": "speed",
+    "question_length": 131,
+    "num_options": 3
+  },
+  {
+    "video_id": "1090578917_concat_1",
+    "question": "Which man is jumping slower than the other?\nA. The man below\nB. The man above\nC. Both man jumping at the same speed",
+    "answer": "B. The man above",
+    "dim": "speed",
+    "question_length": 115,
+    "num_options": 3
+  },
+  {
+    "video_id": "1090578917_concat_2",
+    "question": "What speed is the man above jumping at?\nA. Jumping at the same speed as the man below\nB. Faster than the man below\nC. Slower than the man below",
+    "answer": "B. Faster than the man below",
+    "dim": "speed",
+    "question_length": 143,
+    "num_options": 3
+  },
+  {
+    "video_id": "1090578917_concat_2",
+    "question": "In comparison to the man below, how does the speed of the man above jumping look?\nA. Slower speed\nB. Faster speed\nC. The same speed",
+    "answer": "B. Faster speed",
+    "dim": "speed",
+    "question_length": 131,
+    "num_options": 3
+  },
+  {
+    "video_id": "1090578917_concat_2",
+    "question": "Which man is jumping slower than the other?\nA. Both man jumping at the same speed\nB. The man below\nC. The man above",
+    "answer": "B. The man below",
+    "dim": "speed",
+    "question_length": 115,
+    "num_options": 3
+  },
+  {
+    "video_id": "1075338140_concat_0",
+    "question": "What is the speed of the ball above?\nA. faster than the ball below\nB. slower than the ball below\nC. moving at the same speed as the ball below",
+    "answer": "C. moving at the same speed as the ball below",
+    "dim": "speed",
+    "question_length": 142,
+    "num_options": 3
+  },
+  {
+    "video_id": "1075338140_concat_0",
+    "question": "Which ball is moving faster?\nA. the ball below\nB. the ball above\nC. same speed",
+    "answer": "C. same speed",
+    "dim": "speed",
+    "question_length": 78,
+    "num_options": 3
+  },
+  {
+    "video_id": "1075338140_concat_0",
+    "question": "Compared to the ball below, how would you describe the speed of the ball above?\nA. slower\nB. faster\nC. same",
+    "answer": "C. same",
+    "dim": "speed",
+    "question_length": 107,
+    "num_options": 3
+  },
+  {
+    "video_id": "1075338140_concat_1",
+    "question": "What is the speed of the ball above?\nA. faster than the ball below\nB. moving at the same speed as the ball below\nC. slower than the ball below",
+    "answer": "C. slower than the ball below",
+    "dim": "speed",
+    "question_length": 142,
+    "num_options": 3
+  },
+  {
+    "video_id": "1075338140_concat_1",
+    "question": "Which ball is moving faster?\nA. same speed\nB. the ball above\nC. the ball below",
+    "answer": "C. the ball below",
+    "dim": "speed",
+    "question_length": 78,
+    "num_options": 3
+  },
+  {
+    "video_id": "1075338140_concat_1",
+    "question": "Compared to the ball below, how would you describe the speed of the ball above?\nA. slower\nB. same\nC. faster",
+    "answer": "A. slower",
+    "dim": "speed",
+    "question_length": 107,
+    "num_options": 3
+  },
+  {
+    "video_id": "1075338140_concat_2",
+    "question": "What is the speed of the ball above?\nA. moving at the same speed as the ball below\nB. faster than the ball below\nC. slower than the ball below",
+    "answer": "B. faster than the ball below",
+    "dim": "speed",
+    "question_length": 142,
+    "num_options": 3
+  },
+  {
+    "video_id": "1075338140_concat_2",
+    "question": "Which ball is moving faster?\nA. same speed\nB. the ball below\nC. the ball above",
+    "answer": "C. the ball above",
+    "dim": "speed",
+    "question_length": 78,
+    "num_options": 3
+  },
+  {
+    "video_id": "1075338140_concat_2",
+    "question": "Compared to the ball below, how would you describe the speed of the ball above?\nA. same\nB. slower\nC. faster",
+    "answer": "C. faster",
+    "dim": "speed",
+    "question_length": 107,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077575504_concat_0",
+    "question": "What is the speed of the pile of salt above?\nA. growing at the same speed as the pile of salt below\nB. growing at a faster speed than the pile of salt below\nC. growing at a slower speed than the pile of salt below",
+    "answer": "A. growing at the same speed as the pile of salt below",
+    "dim": "speed",
+    "question_length": 213,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077575504_concat_0",
+    "question": "In comparison to the pile of salt below, how fast is the pile of salt above growing?\nA. faster\nB. slower\nC. at an equal pace",
+    "answer": "C. at an equal pace",
+    "dim": "speed",
+    "question_length": 124,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077575504_concat_0",
+    "question": "How would you describe the speed of the pile of salt above compared to the pile of salt below?\nA. Growing faster\nB. Growing at the same rate\nC. Growing slower",
+    "answer": "B. Growing at the same rate",
+    "dim": "speed",
+    "question_length": 158,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077575504_concat_1",
+    "question": "What is the speed of the pile of salt above?\nA. growing at a faster speed than the pile of salt below\nB. growing at a slower speed than the pile of salt below\nC. growing at the same speed as the pile of salt below",
+    "answer": "B. growing at a slower speed than the pile of salt below",
+    "dim": "speed",
+    "question_length": 213,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077575504_concat_1",
+    "question": "In comparison to the pile of salt below, how fast is the pile of salt above growing?\nA. faster\nB. at an equal pace\nC. slower",
+    "answer": "C. slower",
+    "dim": "speed",
+    "question_length": 124,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077575504_concat_1",
+    "question": "How would you describe the speed of the pile of salt above compared to the pile of salt below?\nA. Growing faster\nB. Growing slower\nC. Growing at the same rate",
+    "answer": "B. Growing slower",
+    "dim": "speed",
+    "question_length": 158,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077575504_concat_2",
+    "question": "What is the speed of the pile of salt above?\nA. growing at the same speed as the pile of salt below\nB. growing at a slower speed than the pile of salt below\nC. growing at a faster speed than the pile of salt below",
+    "answer": "C. growing at a faster speed than the pile of salt below",
+    "dim": "speed",
+    "question_length": 213,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077575504_concat_2",
+    "question": "In comparison to the pile of salt below, how fast is the pile of salt above growing?\nA. faster\nB. at an equal pace\nC. slower",
+    "answer": "A. faster",
+    "dim": "speed",
+    "question_length": 124,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077575504_concat_2",
+    "question": "How would you describe the speed of the pile of salt above compared to the pile of salt below?\nA. Growing slower\nB. Growing at the same rate\nC. Growing faster",
+    "answer": "C. Growing faster",
+    "dim": "speed",
+    "question_length": 158,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100319395_concat_0",
+    "question": "What is the speed of the white circle above?\nA. faster than the white circle below\nB. slower than the white circle below\nC. rotating at the same speed as the white circle below",
+    "answer": "C. rotating at the same speed as the white circle below",
+    "dim": "speed",
+    "question_length": 176,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100319395_concat_0",
+    "question": "Is the white circle above rotating at a different speed from the white circle below?\nA. Yes, it's rotating faster\nB. No, it's rotating slower\nC. No, it's rotating at the same speed",
+    "answer": "C. No, it's rotating at the same speed",
+    "dim": "speed",
+    "question_length": 180,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100319395_concat_0",
+    "question": "Compared to the white circle below, how fast is the rotation of the white circle above?\nA. It rotates at the same speed\nB. It's slower\nC. It's faster",
+    "answer": "A. It rotates at the same speed",
+    "dim": "speed",
+    "question_length": 149,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100319395_concat_1",
+    "question": "What is the speed of the white circle above?\nA. faster than the white circle below\nB. rotating at the same speed as the white circle below\nC. slower than the white circle below",
+    "answer": "A. faster than the white circle below",
+    "dim": "speed",
+    "question_length": 176,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100319395_concat_1",
+    "question": "Is the white circle above rotating at a different speed from the white circle below?\nA. No, it's rotating at the same speed\nB. Yes, it's rotating faster\nC. No, it's rotating slower",
+    "answer": "B. Yes, it's rotating faster",
+    "dim": "speed",
+    "question_length": 180,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100319395_concat_1",
+    "question": "Compared to the white circle below, how fast is the rotation of the white circle above?\nA. It rotates at the same speed\nB. It's slower\nC. It's faster",
+    "answer": "C. It's faster",
+    "dim": "speed",
+    "question_length": 149,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100319395_concat_2",
+    "question": "What is the speed of the white circle above?\nA. slower than the white circle below\nB. rotating at the same speed as the white circle below\nC. faster than the white circle below",
+    "answer": "A. slower than the white circle below",
+    "dim": "speed",
+    "question_length": 176,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100319395_concat_2",
+    "question": "Is the white circle above rotating at a different speed from the white circle below?\nA. No, it's rotating at the same speed\nB. Yes, it's rotating faster\nC. Yes, it's rotating slower",
+    "answer": "C. Yes, it's rotating slower",
+    "dim": "speed",
+    "question_length": 181,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100319395_concat_2",
+    "question": "Compared to the white circle below, how fast is the rotation of the white circle above?\nA. It's faster\nB. It rotates at the same speed\nC. It's slower",
+    "answer": "C. It's slower",
+    "dim": "speed",
+    "question_length": 149,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086820415_concat_0",
+    "question": "How is the speed of the wave above compared to the wave below?\nA. Moving at the same speed as the wave below\nB. Moving faster than the wave below\nC. Moving slower than the wave below",
+    "answer": "A. Moving at the same speed as the wave below",
+    "dim": "speed",
+    "question_length": 182,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086820415_concat_0",
+    "question": "Which wave is moving faster, the wave above or the wave below?\nA. The wave below\nB. Both waves are moving at the same speed\nC. The wave above",
+    "answer": "B. Both waves are moving at the same speed",
+    "dim": "speed",
+    "question_length": 141,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086820415_concat_0",
+    "question": "Is the speed of the wave above greater, lesser, or equal to the speed of the wave below?\nA. Lesser\nB. Equal\nC. Greater",
+    "answer": "B. Equal",
+    "dim": "speed",
+    "question_length": 118,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086820415_concat_1",
+    "question": "How is the speed of the wave above compared to the wave below?\nA. Moving faster than the wave below\nB. Moving slower than the wave below\nC. Moving at the same speed as the wave below",
+    "answer": "A. Moving faster than the wave below",
+    "dim": "speed",
+    "question_length": 182,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086820415_concat_1",
+    "question": "Which wave is moving faster, the wave above or the wave below?\nA. The wave below\nB. Both waves are moving at the same speed\nC. The wave above",
+    "answer": "C. The wave above",
+    "dim": "speed",
+    "question_length": 141,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086820415_concat_1",
+    "question": "Is the speed of the wave above greater, lesser, or equal to the speed of the wave below?\nA. Equal\nB. Lesser\nC. Greater",
+    "answer": "C. Greater",
+    "dim": "speed",
+    "question_length": 118,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086820415_concat_2",
+    "question": "How is the speed of the wave above compared to the wave below?\nA. Moving at the same speed as the wave below\nB. Moving slower than the wave below\nC. Moving faster than the wave below",
+    "answer": "B. Moving slower than the wave below",
+    "dim": "speed",
+    "question_length": 182,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086820415_concat_2",
+    "question": "Which wave is moving faster, the wave above or the wave below?\nA. The wave above\nB. The wave below\nC. Both waves are moving at the same speed",
+    "answer": "B. The wave below",
+    "dim": "speed",
+    "question_length": 141,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086820415_concat_2",
+    "question": "Is the speed of the wave above greater, lesser, or equal to the speed of the wave below?\nA. Equal\nB. Lesser\nC. Greater",
+    "answer": "B. Lesser",
+    "dim": "speed",
+    "question_length": 118,
+    "num_options": 3
+  },
+  {
+    "video_id": "1096238125_concat_0",
+    "question": "What is the speed of the two people above lifting the kettlebell?\nA. slower than the two people below\nB. faster than the two people below\nC. at the same speed as the two people below",
+    "answer": "C. at the same speed as the two people below",
+    "dim": "speed",
+    "question_length": 182,
+    "num_options": 3
+  },
+  {
+    "video_id": "1096238125_concat_0",
+    "question": "How are the two people above lifting the kettlebell moving in relation to the two people below?\nA. at the same speed\nB. faster\nC. slower",
+    "answer": "A. at the same speed",
+    "dim": "speed",
+    "question_length": 136,
+    "num_options": 3
+  },
+  {
+    "video_id": "1096238125_concat_0",
+    "question": "Relative to the two people below, how fast are the two people above lifting the kettlebell moving?\nA. faster\nB. at the same speed\nC. slower",
+    "answer": "B. at the same speed",
+    "dim": "speed",
+    "question_length": 139,
+    "num_options": 3
+  },
+  {
+    "video_id": "1096238125_concat_1",
+    "question": "What is the speed of the two people above lifting the kettlebell?\nA. slower than the two people below\nB. at the same speed as the two people below\nC. faster than the two people below",
+    "answer": "C. faster than the two people below",
+    "dim": "speed",
+    "question_length": 182,
+    "num_options": 3
+  },
+  {
+    "video_id": "1096238125_concat_1",
+    "question": "How are the two people above lifting the kettlebell moving in relation to the two people below?\nA. slower\nB. faster\nC. at the same speed",
+    "answer": "B. faster",
+    "dim": "speed",
+    "question_length": 136,
+    "num_options": 3
+  },
+  {
+    "video_id": "1096238125_concat_1",
+    "question": "Relative to the two people below, how fast are the two people above lifting the kettlebell moving?\nA. slower\nB. faster\nC. at the same speed",
+    "answer": "B. faster",
+    "dim": "speed",
+    "question_length": 139,
+    "num_options": 3
+  },
+  {
+    "video_id": "1096238125_concat_2",
+    "question": "What is the speed of the two people above lifting the kettlebell?\nA. at the same speed as the two people below\nB. slower than the two people below\nC. faster than the two people below",
+    "answer": "B. slower than the two people below",
+    "dim": "speed",
+    "question_length": 182,
+    "num_options": 3
+  },
+  {
+    "video_id": "1096238125_concat_2",
+    "question": "How are the two people above lifting the kettlebell moving in relation to the two people below?\nA. at the same speed\nB. slower\nC. faster",
+    "answer": "B. slower",
+    "dim": "speed",
+    "question_length": 136,
+    "num_options": 3
+  },
+  {
+    "video_id": "1096238125_concat_2",
+    "question": "Relative to the two people below, how fast are the two people above lifting the kettlebell moving?\nA. at the same speed\nB. slower\nC. faster",
+    "answer": "B. slower",
+    "dim": "speed",
+    "question_length": 139,
+    "num_options": 3
+  },
+  {
+    "video_id": "1056433484_concat_0",
+    "question": "What is the speed of the earth above?\nA. slower than the earth below\nB. rotates at the same speed as the earth below\nC. faster than the earth below",
+    "answer": "B. rotates at the same speed as the earth below",
+    "dim": "speed",
+    "question_length": 147,
+    "num_options": 3
+  },
+  {
+    "video_id": "1056433484_concat_0",
+    "question": "How does the speed of the earth above compare to the speed of the earth below?\nA. It is slower.\nB. It is faster.\nC. It is the same.",
+    "answer": "C. It is the same.",
+    "dim": "speed",
+    "question_length": 131,
+    "num_options": 3
+  },
+  {
+    "video_id": "1056433484_concat_0",
+    "question": "Which statement accurately describes the speed of the earth above?\nA. It rotates faster than the earth below.\nB. It rotates slower than the earth below.\nC. It rotates at the same speed as the earth below.",
+    "answer": "C. It rotates at the same speed as the earth below.",
+    "dim": "speed",
+    "question_length": 204,
+    "num_options": 3
+  },
+  {
+    "video_id": "1056433484_concat_1",
+    "question": "What is the speed of the earth above?\nA. faster than the earth below\nB. rotates at the same speed as the earth below\nC. slower than the earth below",
+    "answer": "C. slower than the earth below",
+    "dim": "speed",
+    "question_length": 147,
+    "num_options": 3
+  },
+  {
+    "video_id": "1056433484_concat_1",
+    "question": "How does the speed of the earth above compare to the speed of the earth below?\nA. It is slower.\nB. It is the same.\nC. It is faster.",
+    "answer": "A. It is slower.",
+    "dim": "speed",
+    "question_length": 131,
+    "num_options": 3
+  },
+  {
+    "video_id": "1056433484_concat_1",
+    "question": "Which statement accurately describes the speed of the earth above?\nA. It rotates faster than the earth below.\nB. It rotates slower than the earth below.\nC. It rotates at the same speed as the earth below.",
+    "answer": "B. It rotates slower than the earth below.",
+    "dim": "speed",
+    "question_length": 204,
+    "num_options": 3
+  },
+  {
+    "video_id": "1056433484_concat_2",
+    "question": "What is the speed of the earth above?\nA. faster than the earth below\nB. rotates at the same speed as the earth below\nC. slower than the earth below",
+    "answer": "A. faster than the earth below",
+    "dim": "speed",
+    "question_length": 147,
+    "num_options": 3
+  },
+  {
+    "video_id": "1056433484_concat_2",
+    "question": "How does the speed of the earth above compare to the speed of the earth below?\nA. It is slower.\nB. It is faster.\nC. It is the same.",
+    "answer": "B. It is faster.",
+    "dim": "speed",
+    "question_length": 131,
+    "num_options": 3
+  },
+  {
+    "video_id": "1056433484_concat_2",
+    "question": "Which statement accurately describes the speed of the earth above?\nA. It rotates at the same speed as the earth below.\nB. It rotates faster than the earth below.\nC. It rotates slower than the earth below.",
+    "answer": "B. It rotates faster than the earth below.",
+    "dim": "speed",
+    "question_length": 204,
+    "num_options": 3
+  },
+  {
+    "video_id": "15695290_concat_0",
+    "question": "What is the speed of the person above when drawing a picture?\nA. faster than the person below\nB. at the same speed as the person below\nC. slower than the person below",
+    "answer": "B. at the same speed as the person below",
+    "dim": "speed",
+    "question_length": 166,
+    "num_options": 3
+  },
+  {
+    "video_id": "15695290_concat_0",
+    "question": "Comparing the speeds, how does the person above draw a picture compared to the person below?\nA. more slowly\nB. at an equal speed\nC. more rapidly",
+    "answer": "B. at an equal speed",
+    "dim": "speed",
+    "question_length": 144,
+    "num_options": 3
+  },
+  {
+    "video_id": "15695290_concat_0",
+    "question": "In the comparison of the speed of drawing, who is considered as faster?\nA. They draw at an equal rate\nB. The person below\nC. The person above",
+    "answer": "A. They draw at an equal rate",
+    "dim": "speed",
+    "question_length": 141,
+    "num_options": 3
+  },
+  {
+    "video_id": "15695290_concat_1",
+    "question": "What is the speed of the person above when drawing a picture?\nA. faster than the person below\nB. at the same speed as the person below\nC. slower than the person below",
+    "answer": "C. slower than the person below",
+    "dim": "speed",
+    "question_length": 166,
+    "num_options": 3
+  },
+  {
+    "video_id": "15695290_concat_1",
+    "question": "Comparing the speeds, how does the person above draw a picture compared to the person below?\nA. more rapidly\nB. at an equal speed\nC. more slowly",
+    "answer": "C. more slowly",
+    "dim": "speed",
+    "question_length": 144,
+    "num_options": 3
+  },
+  {
+    "video_id": "15695290_concat_1",
+    "question": "In the comparison of the speed of drawing, who is considered as faster?\nA. The person above\nB. They draw at an equal rate\nC. The person below",
+    "answer": "C. The person below",
+    "dim": "speed",
+    "question_length": 141,
+    "num_options": 3
+  },
+  {
+    "video_id": "15695290_concat_2",
+    "question": "What is the speed of the person above when drawing a picture?\nA. slower than the person below\nB. at the same speed as the person below\nC. faster than the person below",
+    "answer": "C. faster than the person below",
+    "dim": "speed",
+    "question_length": 166,
+    "num_options": 3
+  },
+  {
+    "video_id": "15695290_concat_2",
+    "question": "Comparing the speeds, how does the person above draw a picture compared to the person below?\nA. at an equal speed\nB. more rapidly\nC. more slowly",
+    "answer": "B. more rapidly",
+    "dim": "speed",
+    "question_length": 144,
+    "num_options": 3
+  },
+  {
+    "video_id": "15695290_concat_2",
+    "question": "In the comparison of the speed of drawing, who is considered as faster?\nA. The person below\nB. They draw at an equal rate\nC. The person above",
+    "answer": "C. The person above",
+    "dim": "speed",
+    "question_length": 141,
+    "num_options": 3
+  },
+  {
+    "video_id": "1047368344_concat_0",
+    "question": "What is the speed of the girl above?\nA. running at the same speed as the girl below\nB. running slower than the girl below\nC. running faster than the girl below",
+    "answer": "A. running at the same speed as the girl below",
+    "dim": "speed",
+    "question_length": 159,
+    "num_options": 3
+  },
+  {
+    "video_id": "1047368344_concat_0",
+    "question": "How does the speed of the girl above compare to the girl below?\nA. the same\nB. slower\nC. faster",
+    "answer": "A. the same",
+    "dim": "speed",
+    "question_length": 95,
+    "num_options": 3
+  },
+  {
+    "video_id": "1047368344_concat_0",
+    "question": "How would you describe the speed of the girl above relative to the girl below?\nA. faster\nB. the same speed\nC. slower",
+    "answer": "B. the same speed",
+    "dim": "speed",
+    "question_length": 116,
+    "num_options": 3
+  },
+  {
+    "video_id": "1047368344_concat_1",
+    "question": "What is the speed of the girl above?\nA. running slower than the girl below\nB. running at the same speed as the girl below\nC. running faster than the girl below",
+    "answer": "A. running slower than the girl below",
+    "dim": "speed",
+    "question_length": 159,
+    "num_options": 3
+  },
+  {
+    "video_id": "1047368344_concat_1",
+    "question": "How does the speed of the girl above compare to the girl below?\nA. faster\nB. slower\nC. the same",
+    "answer": "B. slower",
+    "dim": "speed",
+    "question_length": 95,
+    "num_options": 3
+  },
+  {
+    "video_id": "1047368344_concat_1",
+    "question": "How would you describe the speed of the girl above relative to the girl below?\nA. slower\nB. faster\nC. the same speed",
+    "answer": "A. slower",
+    "dim": "speed",
+    "question_length": 116,
+    "num_options": 3
+  },
+  {
+    "video_id": "1047368344_concat_2",
+    "question": "What is the speed of the girl above?\nA. running at the same speed as the girl below\nB. running slower than the girl below\nC. running faster than the girl below",
+    "answer": "C. running faster than the girl below",
+    "dim": "speed",
+    "question_length": 159,
+    "num_options": 3
+  },
+  {
+    "video_id": "1047368344_concat_2",
+    "question": "How does the speed of the girl above compare to the girl below?\nA. the same\nB. faster\nC. slower",
+    "answer": "B. faster",
+    "dim": "speed",
+    "question_length": 95,
+    "num_options": 3
+  },
+  {
+    "video_id": "1047368344_concat_2",
+    "question": "How would you describe the speed of the girl above relative to the girl below?\nA. slower\nB. the same speed\nC. faster",
+    "answer": "C. faster",
+    "dim": "speed",
+    "question_length": 116,
+    "num_options": 3
+  },
+  {
+    "video_id": "1060403198_concat_0",
+    "question": "What is the speed of the tree above?\nA. growing slower than the tree below\nB. growing faster than the tree below\nC. growing at the same speed as the tree below",
+    "answer": "C. growing at the same speed as the tree below",
+    "dim": "speed",
+    "question_length": 159,
+    "num_options": 3
+  },
+  {
+    "video_id": "1060403198_concat_0",
+    "question": "How does the tree above grow compare to the tree below?\nA. slower\nB. at the same speed\nC. faster",
+    "answer": "B. at the same speed",
+    "dim": "speed",
+    "question_length": 96,
+    "num_options": 3
+  },
+  {
+    "video_id": "1060403198_concat_0",
+    "question": "Which tree is growing at a higher speed - the tree above or the tree below?\nA. both trees grow at an equal speed\nB. the tree above\nC. the tree below",
+    "answer": "A. both trees grow at an equal speed",
+    "dim": "speed",
+    "question_length": 148,
+    "num_options": 3
+  },
+  {
+    "video_id": "1060403198_concat_1",
+    "question": "What is the speed of the tree above?\nA. growing at the same speed as the tree below\nB. growing slower than the tree below\nC. growing faster than the tree below",
+    "answer": "C. growing faster than the tree below",
+    "dim": "speed",
+    "question_length": 159,
+    "num_options": 3
+  },
+  {
+    "video_id": "1060403198_concat_1",
+    "question": "How does the tree above grow compare to the tree below?\nA. faster\nB. at the same speed\nC. slower",
+    "answer": "A. faster",
+    "dim": "speed",
+    "question_length": 96,
+    "num_options": 3
+  },
+  {
+    "video_id": "1060403198_concat_1",
+    "question": "Which tree is growing at a higher speed - the tree above or the tree below?\nA. both trees grow at an equal speed\nB. the tree above\nC. the tree below",
+    "answer": "B. the tree above",
+    "dim": "speed",
+    "question_length": 148,
+    "num_options": 3
+  },
+  {
+    "video_id": "1060403198_concat_2",
+    "question": "What is the speed of the tree above?\nA. growing faster than the tree below\nB. growing at the same speed as the tree below\nC. growing slower than the tree below",
+    "answer": "C. growing slower than the tree below",
+    "dim": "speed",
+    "question_length": 159,
+    "num_options": 3
+  },
+  {
+    "video_id": "1060403198_concat_2",
+    "question": "How does the tree above grow compare to the tree below?\nA. slower\nB. at the same speed\nC. faster",
+    "answer": "A. slower",
+    "dim": "speed",
+    "question_length": 96,
+    "num_options": 3
+  },
+  {
+    "video_id": "1060403198_concat_2",
+    "question": "Which tree is growing at a higher speed - the tree above or the tree below?\nA. the tree below\nB. both trees grow at an equal speed\nC. the tree above",
+    "answer": "A. the tree below",
+    "dim": "speed",
+    "question_length": 148,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100058499_concat_0",
+    "question": "What is the speed of the man above compared to the man below?\nA. jumping rope faster\nB. jumping rope at the same speed\nC. jumping rope slower",
+    "answer": "B. jumping rope at the same speed",
+    "dim": "speed",
+    "question_length": 141,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100058499_concat_0",
+    "question": "How does the man above jump rope, relative to the man below?\nA. the same speed\nB. slower\nC. faster",
+    "answer": "A. the same speed",
+    "dim": "speed",
+    "question_length": 98,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100058499_concat_0",
+    "question": "Which man is jumping rope at a slower speed?\nA. the man above\nB. both are jumping rope at the same speed\nC. the man below",
+    "answer": "B. both are jumping rope at the same speed",
+    "dim": "speed",
+    "question_length": 121,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100058499_concat_1",
+    "question": "What is the speed of the man above compared to the man below?\nA. jumping rope faster\nB. jumping rope slower\nC. jumping rope at the same speed",
+    "answer": "B. jumping rope slower",
+    "dim": "speed",
+    "question_length": 141,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100058499_concat_1",
+    "question": "How does the man above jump rope, relative to the man below?\nA. the same speed\nB. slower\nC. faster",
+    "answer": "B. slower",
+    "dim": "speed",
+    "question_length": 98,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100058499_concat_1",
+    "question": "Which man is jumping rope at a slower speed?\nA. the man above\nB. the man below\nC. both are jumping rope at the same speed",
+    "answer": "A. the man above",
+    "dim": "speed",
+    "question_length": 121,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100058499_concat_2",
+    "question": "What is the speed of the man above compared to the man below?\nA. jumping rope faster\nB. jumping rope slower\nC. jumping rope at the same speed",
+    "answer": "A. jumping rope faster",
+    "dim": "speed",
+    "question_length": 141,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100058499_concat_2",
+    "question": "How does the man above jump rope, relative to the man below?\nA. the same speed\nB. slower\nC. faster",
+    "answer": "C. faster",
+    "dim": "speed",
+    "question_length": 98,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100058499_concat_2",
+    "question": "Which man is jumping rope at a slower speed?\nA. the man above\nB. the man below\nC. both are jumping rope at the same speed",
+    "answer": "B. the man below",
+    "dim": "speed",
+    "question_length": 121,
+    "num_options": 3
+  },
+  {
+    "video_id": "1092813279_concat_0",
+    "question": "Which woman is doing push ups slower?\nA. the woman below\nB. two women doing push ups at the same speed\nC. the woman above",
+    "answer": "B. two women doing push ups at the same speed",
+    "dim": "speed",
+    "question_length": 121,
+    "num_options": 3
+  },
+  {
+    "video_id": "1092813279_concat_0",
+    "question": "What is the speed of the woman above's push ups compared to the woman below?\nA. same speed\nB. faster\nC. slower",
+    "answer": "A. same speed",
+    "dim": "speed",
+    "question_length": 110,
+    "num_options": 3
+  },
+  {
+    "video_id": "1092813279_concat_0",
+    "question": "Compared to the woman below, how would you describe the speed of the woman above's push ups?\nA. same speed\nB. faster\nC. slower",
+    "answer": "A. same speed",
+    "dim": "speed",
+    "question_length": 126,
+    "num_options": 3
+  },
+  {
+    "video_id": "1092813279_concat_1",
+    "question": "Which woman is doing push ups slower?\nA. the woman below\nB. the woman above\nC. two women doing push ups at the same speed",
+    "answer": "B. the woman above",
+    "dim": "speed",
+    "question_length": 121,
+    "num_options": 3
+  },
+  {
+    "video_id": "1092813279_concat_1",
+    "question": "What is the speed of the woman above's push ups compared to the woman below?\nA. faster\nB. slower\nC. same speed",
+    "answer": "B. slower",
+    "dim": "speed",
+    "question_length": 110,
+    "num_options": 3
+  },
+  {
+    "video_id": "1092813279_concat_1",
+    "question": "Compared to the woman below, how would you describe the speed of the woman above's push ups?\nA. faster\nB. same speed\nC. slower",
+    "answer": "C. slower",
+    "dim": "speed",
+    "question_length": 126,
+    "num_options": 3
+  },
+  {
+    "video_id": "1092813279_concat_2",
+    "question": "Which woman is doing push ups slower?\nA. the woman above\nB. two women doing push ups at the same speed\nC. the woman below",
+    "answer": "C. the woman below",
+    "dim": "speed",
+    "question_length": 121,
+    "num_options": 3
+  },
+  {
+    "video_id": "1092813279_concat_2",
+    "question": "What is the speed of the woman above's push ups compared to the woman below?\nA. same speed\nB. faster\nC. slower",
+    "answer": "B. faster",
+    "dim": "speed",
+    "question_length": 110,
+    "num_options": 3
+  },
+  {
+    "video_id": "1092813279_concat_2",
+    "question": "Compared to the woman below, how would you describe the speed of the woman above's push ups?\nA. faster\nB. same speed\nC. slower",
+    "answer": "A. faster",
+    "dim": "speed",
+    "question_length": 126,
+    "num_options": 3
+  },
+  {
+    "video_id": "1084518106_concat_0",
+    "question": "What is the speed of the truck above?\nA. driving at the same speed as the truck below\nB. driving faster than the truck below\nC. driving slower than the truck below",
+    "answer": "A. driving at the same speed as the truck below",
+    "dim": "speed",
+    "question_length": 163,
+    "num_options": 3
+  },
+  {
+    "video_id": "1084518106_concat_0",
+    "question": "How does the speed of the truck above compare to the truck below?\nA. the same speed\nB. slower\nC. faster",
+    "answer": "A. the same speed",
+    "dim": "speed",
+    "question_length": 103,
+    "num_options": 3
+  },
+  {
+    "video_id": "1084518106_concat_0",
+    "question": "Which truck is moving at a higher speed?\nA. the truck above\nB. the truck below\nC. they move a the same speed",
+    "answer": "C. they move a the same speed",
+    "dim": "speed",
+    "question_length": 108,
+    "num_options": 3
+  },
+  {
+    "video_id": "1084518106_concat_1",
+    "question": "What is the speed of the truck above?\nA. driving slower than the truck below\nB. driving faster than the truck below\nC. driving at the same speed as the truck below",
+    "answer": "B. driving faster than the truck below",
+    "dim": "speed",
+    "question_length": 163,
+    "num_options": 3
+  },
+  {
+    "video_id": "1084518106_concat_1",
+    "question": "How does the speed of the truck above compare to the truck below?\nA. faster\nB. the same speed\nC. slower",
+    "answer": "A. faster",
+    "dim": "speed",
+    "question_length": 103,
+    "num_options": 3
+  },
+  {
+    "video_id": "1084518106_concat_1",
+    "question": "Which truck is moving at a higher speed?\nA. the truck below\nB. they move a the same speed\nC. the truck above",
+    "answer": "C. the truck above",
+    "dim": "speed",
+    "question_length": 108,
+    "num_options": 3
+  },
+  {
+    "video_id": "1084518106_concat_2",
+    "question": "What is the speed of the truck above?\nA. driving faster than the truck below\nB. driving slower than the truck below\nC. driving at the same speed as the truck below",
+    "answer": "B. driving slower than the truck below",
+    "dim": "speed",
+    "question_length": 163,
+    "num_options": 3
+  },
+  {
+    "video_id": "1084518106_concat_2",
+    "question": "How does the speed of the truck above compare to the truck below?\nA. the same speed\nB. faster\nC. slower",
+    "answer": "C. slower",
+    "dim": "speed",
+    "question_length": 103,
+    "num_options": 3
+  },
+  {
+    "video_id": "1084518106_concat_2",
+    "question": "Which truck is moving at a higher speed?\nA. the truck above\nB. the truck below\nC. they move a the same speed",
+    "answer": "B. the truck below",
+    "dim": "speed",
+    "question_length": 108,
+    "num_options": 3
+  },
+  {
+    "video_id": "1062609286_concat_0",
+    "question": "What is happening to the battery charge above?\nA. increasing at a slower speed than the battery charge below\nB. increasing at a faster speed than the battery charge below\nC. increasing at the same speed as the battery charge below",
+    "answer": "C. increasing at the same speed as the battery charge below",
+    "dim": "speed",
+    "question_length": 230,
+    "num_options": 3
+  },
+  {
+    "video_id": "1062609286_concat_0",
+    "question": "What can be said about the speed at which the battery charge above is increasing?\nA. faster than the battery charge below\nB. slower than the battery charge below\nC. at an equal speed as the battery charge below",
+    "answer": "C. at an equal speed as the battery charge below",
+    "dim": "speed",
+    "question_length": 210,
+    "num_options": 3
+  },
+  {
+    "video_id": "1062609286_concat_0",
+    "question": "In relation to the charging speed below, how is the charging speed above?\nA. faster\nB. slower\nC. the same",
+    "answer": "C. the same",
+    "dim": "speed",
+    "question_length": 105,
+    "num_options": 3
+  },
+  {
+    "video_id": "1062609286_concat_1",
+    "question": "What is happening to the battery charge above?\nA. increasing at a faster speed than the battery charge below\nB. increasing at the same speed as the battery charge below\nC. increasing at a slower speed than the battery charge below",
+    "answer": "C. increasing at a slower speed than the battery charge below",
+    "dim": "speed",
+    "question_length": 230,
+    "num_options": 3
+  },
+  {
+    "video_id": "1062609286_concat_1",
+    "question": "What can be said about the speed at which the battery charge above is increasing?\nA. at an equal speed as the battery charge below\nB. faster than the battery charge below\nC. slower than the battery charge below",
+    "answer": "C. slower than the battery charge below",
+    "dim": "speed",
+    "question_length": 210,
+    "num_options": 3
+  },
+  {
+    "video_id": "1062609286_concat_1",
+    "question": "In relation to the charging speed below, how is the charging speed above?\nA. the same\nB. slower\nC. faster",
+    "answer": "B. slower",
+    "dim": "speed",
+    "question_length": 105,
+    "num_options": 3
+  },
+  {
+    "video_id": "1062609286_concat_2",
+    "question": "What is happening to the battery charge above?\nA. increasing at a faster speed than the battery charge below\nB. increasing at a slower speed than the battery charge below\nC. increasing at the same speed as the battery charge below",
+    "answer": "A. increasing at a faster speed than the battery charge below",
+    "dim": "speed",
+    "question_length": 230,
+    "num_options": 3
+  },
+  {
+    "video_id": "1062609286_concat_2",
+    "question": "What can be said about the speed at which the battery charge above is increasing?\nA. slower than the battery charge below\nB. faster than the battery charge below\nC. at an equal speed as the battery charge below",
+    "answer": "B. faster than the battery charge below",
+    "dim": "speed",
+    "question_length": 210,
+    "num_options": 3
+  },
+  {
+    "video_id": "1062609286_concat_2",
+    "question": "In relation to the charging speed below, how is the charging speed above?\nA. the same\nB. slower\nC. faster",
+    "answer": "C. faster",
+    "dim": "speed",
+    "question_length": 105,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086286649",
+    "question": "How are the armored vehicles moving?\nA. Stationary\nB. Rapidly\nC. Slowly",
+    "answer": "C. Slowly",
+    "dim": "speed",
+    "question_length": 71,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086286649",
+    "question": "What is the pace of the armored vehicles?\nA. Fast\nB. Slow\nC. Stationary",
+    "answer": "B. Slow",
+    "dim": "speed",
+    "question_length": 71,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086286649",
+    "question": "In terms of speed, how would you describe the movement of the armored vehicles?\nA. Slowly\nB. Stationary\nC. Quickly",
+    "answer": "A. Slowly",
+    "dim": "speed",
+    "question_length": 114,
+    "num_options": 3
+  },
+  {
+    "video_id": "1103623921",
+    "question": "What is the speed that the video is palying?\nA. slow-motion\nB. fast-forward\nC. normal speed\nD. stopped",
+    "answer": "C. normal speed",
+    "dim": "speed",
+    "question_length": 102,
+    "num_options": 4
+  },
+  {
+    "video_id": "1103623921",
+    "question": "How would you describe the speed at which the video is playing?\nA. Slowly\nB. Normally\nC. Rapidly",
+    "answer": "B. Normally",
+    "dim": "speed",
+    "question_length": 96,
+    "num_options": 3
+  },
+  {
+    "video_id": "1103623921",
+    "question": "What playback rate is the video currently at?\nA. Slow motion\nB. Paused\nC. Normal pace\nD. Fast-forwarded",
+    "answer": "C. Normal pace",
+    "dim": "speed",
+    "question_length": 103,
+    "num_options": 4
+  }
+]

@@ -1,0 +1,2706 @@
+[
+  {
+    "video_id": "1034419625",
+    "question": "What is the man doing in the video?\nA. dunking a basketball\nB. dribbling a basketball\nC. passing a basketball",
+    "answer": "A. dunking a basketball",
+    "dim": "action",
+    "question_length": 109,
+    "num_options": 3
+  },
+  {
+    "video_id": "1034419625",
+    "question": "Which activity is the man engaged in?\nA. passing a basketball\nB. dribbling a basketball\nC. dunking a basketball",
+    "answer": "C. dunking a basketball",
+    "dim": "action",
+    "question_length": 111,
+    "num_options": 3
+  },
+  {
+    "video_id": "1034419625",
+    "question": "What action is the man performing?\nA. dribbling a basketball\nB. dunking a basketball\nC. passing a basketball",
+    "answer": "B. dunking a basketball",
+    "dim": "action",
+    "question_length": 108,
+    "num_options": 3
+  },
+  {
+    "video_id": "1034419625",
+    "question": "Which of the following actions describes the man?\nA. dribbling a basketball\nB. passing a basketball\nC. dunking a basketball",
+    "answer": "C. dunking a basketball",
+    "dim": "action",
+    "question_length": 123,
+    "num_options": 3
+  },
+  {
+    "video_id": "1094590221",
+    "question": "What is the man doing in the video?\nA. dribbling basketball\nB. passing basketball\nC. shooting basketball\nD. dunking basketball",
+    "answer": "C. shooting basketball",
+    "dim": "action",
+    "question_length": 126,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094590221",
+    "question": "What activity is depicted in the video?\nA. shooting basketball\nB. dribbling basketball\nC. dunking basketball\nD. passing basketball",
+    "answer": "A. shooting basketball",
+    "dim": "action",
+    "question_length": 130,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094590221",
+    "question": "Which action is being performed by the man?\nA. dunking basketball\nB. dribbling basketball\nC. painting\nD. shooting basketball",
+    "answer": "D. shooting basketball",
+    "dim": "action",
+    "question_length": 124,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094590221",
+    "question": "What is the main action of the man in the video?\nA. dribbling basketball\nB. shooting basketball\nC. dunking basketball\nD. passing basketball",
+    "answer": "B. shooting basketball",
+    "dim": "action",
+    "question_length": 139,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094590221",
+    "question": "In the video, what is the man engaged in?\nA. passing basketball\nB. shooting basketball\nC. dunking basketball\nD. dribbling basketball",
+    "answer": "B. shooting basketball",
+    "dim": "action",
+    "question_length": 132,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098982673",
+    "question": "What is the woman doing?\nA. Eating and singing\nB. Dancing and singing\nC. Sleeping and singing\nD. Running and singing",
+    "answer": "B. Dancing and singing",
+    "dim": "action",
+    "question_length": 116,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098982673",
+    "question": "What can be observed about the woman?\nA. She is cooking meal\nB. She is dancing and singing\nC. She is washing dishes\nD. She is walking",
+    "answer": "B. She is dancing and singing",
+    "dim": "action",
+    "question_length": 133,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098982673",
+    "question": "In the video, what actions is the woman involved in?\nA. Cooking\nB. Jumping\nC. Dancing and singing\nD. Doing laundry",
+    "answer": "C. Dancing and singing",
+    "dim": "action",
+    "question_length": 114,
+    "num_options": 4
+  },
+  {
+    "video_id": "1111657885",
+    "question": "What are the people doing?\nA. skiing\nB. ice skating\nC. swimming",
+    "answer": "B. ice skating",
+    "dim": "action",
+    "question_length": 63,
+    "num_options": 3
+  },
+  {
+    "video_id": "1111657885",
+    "question": "What sport are the people engaged in?\nA. tennis\nB. soccer\nC. ice skating",
+    "answer": "C. ice skating",
+    "dim": "action",
+    "question_length": 72,
+    "num_options": 3
+  },
+  {
+    "video_id": "1111657885",
+    "question": "What activity can be observed in the video?\nA. dancing\nB. painting\nC. ice skating",
+    "answer": "C. ice skating",
+    "dim": "action",
+    "question_length": 81,
+    "num_options": 3
+  },
+  {
+    "video_id": "1111657885",
+    "question": "Which action are the people performing?\nA. ice skating\nB. playing guitar\nC. playing basketball",
+    "answer": "A. ice skating",
+    "dim": "action",
+    "question_length": 94,
+    "num_options": 3
+  },
+  {
+    "video_id": "1111657885",
+    "question": "What is the action being performed by the individuals?\nA. ice skating\nB. yoga\nC. running",
+    "answer": "A. ice skating",
+    "dim": "action",
+    "question_length": 88,
+    "num_options": 3
+  },
+  {
+    "video_id": "1073873933",
+    "question": "What is happening in the video?\nA. eating\nB. fighting\nC. sleeping\nD. dancing",
+    "answer": "B. fighting",
+    "dim": "action",
+    "question_length": 76,
+    "num_options": 4
+  },
+  {
+    "video_id": "1073873933",
+    "question": "What activity is the monkey engaged in?\nA. swimming\nB. running\nC. climbing\nD. fighting",
+    "answer": "D. fighting",
+    "dim": "action",
+    "question_length": 86,
+    "num_options": 4
+  },
+  {
+    "video_id": "1073873933",
+    "question": "What is the main action of the monkey?\nA. reading\nB. hiding\nC. painting\nD. fighting",
+    "answer": "D. fighting",
+    "dim": "action",
+    "question_length": 83,
+    "num_options": 4
+  },
+  {
+    "video_id": "1073873933",
+    "question": "Which action is depicted by the monkey?\nA. singing\nB. fighting\nC. knitting\nD. playing chess",
+    "answer": "B. fighting",
+    "dim": "action",
+    "question_length": 91,
+    "num_options": 4
+  },
+  {
+    "video_id": "1073873933",
+    "question": "What activity is the monkey participating in?\nA. fishing\nB. skiing\nC. shopping\nD. fighting",
+    "answer": "D. fighting",
+    "dim": "action",
+    "question_length": 90,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What are the people doing?\nA. cooking\nB. sleeping\nC. dancing",
+    "answer": "C. dancing",
+    "dim": "action",
+    "question_length": 60,
+    "num_options": 3
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What activity are the people engaged in?\nA. swimming\nB. dancing\nC. painting",
+    "answer": "B. dancing",
+    "dim": "action",
+    "question_length": 75,
+    "num_options": 3
+  },
+  {
+    "video_id": "1089810425",
+    "question": "Which action are the people performing?\nA. singing\nB. dancing\nC. reading",
+    "answer": "B. dancing",
+    "dim": "action",
+    "question_length": 72,
+    "num_options": 3
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What is the activity of the people?\nA. dancing\nB. running\nC. studying",
+    "answer": "A. dancing",
+    "dim": "action",
+    "question_length": 69,
+    "num_options": 3
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What are the people participating in?\nA. dancing\nB. knitting\nC. playing football",
+    "answer": "A. dancing",
+    "dim": "action",
+    "question_length": 80,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077507593",
+    "question": "What are the people doing in the video?\nA. sleeping\nB. eating\nC. dancing\nD. cooking",
+    "answer": "D. cooking",
+    "dim": "action",
+    "question_length": 83,
+    "num_options": 4
+  },
+  {
+    "video_id": "1077507593",
+    "question": "Which activity can be seen in the video?\nA. painting\nB. reading\nC. cooking\nD. swimming",
+    "answer": "C. cooking",
+    "dim": "action",
+    "question_length": 86,
+    "num_options": 4
+  },
+  {
+    "video_id": "1077507593",
+    "question": "What is the action being performed by the individuals?\nA. writing\nB. singing\nC. running\nD. cooking",
+    "answer": "D. cooking",
+    "dim": "action",
+    "question_length": 98,
+    "num_options": 4
+  },
+  {
+    "video_id": "1077507593",
+    "question": "What can you observe the people doing in the footage?\nA. playing sports\nB. studying\nC. cooking\nD. shopping",
+    "answer": "C. cooking",
+    "dim": "action",
+    "question_length": 106,
+    "num_options": 4
+  },
+  {
+    "video_id": "1077507593",
+    "question": "Which verb best describes the action of the people?\nA. sleeping\nB. cooking\nC. talking\nD. driving",
+    "answer": "B. cooking",
+    "dim": "action",
+    "question_length": 96,
+    "num_options": 4
+  },
+  {
+    "video_id": "1107116885",
+    "question": "What activity is the man engaged in?\nA. swimming\nB. shooting an arrow\nC. running",
+    "answer": "B. shooting an arrow",
+    "dim": "action",
+    "question_length": 80,
+    "num_options": 3
+  },
+  {
+    "video_id": "1107116885",
+    "question": "Which sport is the man participating in?\nA. soccer\nB. archery\nC. basketball",
+    "answer": "B. archery",
+    "dim": "action",
+    "question_length": 75,
+    "num_options": 3
+  },
+  {
+    "video_id": "1107116885",
+    "question": "What action is being performed by the man?\nA. dancing\nB. shooting an arrow\nC. singing",
+    "answer": "B. shooting an arrow",
+    "dim": "action",
+    "question_length": 85,
+    "num_options": 3
+  },
+  {
+    "video_id": "1107116885",
+    "question": "What is the man doing with the bow?\nA. throwing it away\nB. playing it like a guitar\nC. shooting an arrow",
+    "answer": "C. shooting an arrow",
+    "dim": "action",
+    "question_length": 104,
+    "num_options": 3
+  },
+  {
+    "video_id": "1107116885",
+    "question": "In the given footage, what is the man involved in?\nA. cooking\nB. painting\nC. shooting an arrow",
+    "answer": "C. shooting an arrow",
+    "dim": "action",
+    "question_length": 94,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100329207",
+    "question": "What is the sheep doing?\nA. running\nB. sleeping\nC. eating grass",
+    "answer": "A. running",
+    "dim": "action",
+    "question_length": 63,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100329207",
+    "question": "Which of the following actions is the sheep engaged in?\nA. swimming\nB. flying\nC. running",
+    "answer": "C. running",
+    "dim": "action",
+    "question_length": 88,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100329207",
+    "question": "In the video, what action can be seen performed by the sheep?\nA. running\nB. knitting\nC. typing on a keyboard",
+    "answer": "A. running",
+    "dim": "action",
+    "question_length": 108,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100329207",
+    "question": "From the given information, which action is being exhibited by the sheep?\nA. dancing\nB. running\nC. reading a book",
+    "answer": "B. running",
+    "dim": "action",
+    "question_length": 113,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100329207",
+    "question": "What is the activity showcased in the video involving the sheep?\nA. painting\nB. running\nC. playing a musical instrument",
+    "answer": "B. running",
+    "dim": "action",
+    "question_length": 119,
+    "num_options": 3
+  },
+  {
+    "video_id": "1089201973",
+    "question": "What are the people doing in the video?\nA. stopping football\nB. kicking football\nC. throwing football\nD. spinning football",
+    "answer": "B. kicking football",
+    "dim": "action",
+    "question_length": 122,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089201973",
+    "question": "What activity are the people engaged in?\nA. stopping football\nB. kicking football\nC. spinning football\nD. throwing football",
+    "answer": "B. kicking football",
+    "dim": "action",
+    "question_length": 123,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089201973",
+    "question": "Which action are the people performing?\nA. kicking football\nB. throwing football\nC. spinning football\nD. stopping football",
+    "answer": "A. kicking football",
+    "dim": "action",
+    "question_length": 122,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089201973",
+    "question": "What is the movement of the people?\nA. stopping football\nB. kicking football\nC. throwing football\nD. spinning football",
+    "answer": "B. kicking football",
+    "dim": "action",
+    "question_length": 118,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089201973",
+    "question": "Which sport are the people participating in?\nA. kicking football\nB. stopping football\nC. throwing football\nD. spinning football",
+    "answer": "A. kicking football",
+    "dim": "action",
+    "question_length": 127,
+    "num_options": 4
+  },
+  {
+    "video_id": "1034736653",
+    "question": "What are the woman athletes doing?\nA. cycling\nB. swimming\nC. running\nD. dancing",
+    "answer": "C. running",
+    "dim": "action",
+    "question_length": 79,
+    "num_options": 4
+  },
+  {
+    "video_id": "1034736653",
+    "question": "What is the primary action of the woman athletes?\nA. running\nB. reading\nC. singing\nD. cooking",
+    "answer": "A. running",
+    "dim": "action",
+    "question_length": 93,
+    "num_options": 4
+  },
+  {
+    "video_id": "1034736653",
+    "question": "What activity are the woman athletes engaged in?\nA. skiing\nB. running\nC. painting\nD. playing basketball",
+    "answer": "B. running",
+    "dim": "action",
+    "question_length": 103,
+    "num_options": 4
+  },
+  {
+    "video_id": "1034736653",
+    "question": "What sport are the woman athletes participating in?\nA. running\nB. gardening\nC. knitting\nD. soccer",
+    "answer": "A. running",
+    "dim": "action",
+    "question_length": 97,
+    "num_options": 4
+  },
+  {
+    "video_id": "1034736653",
+    "question": "Which action are the woman athletes performing?\nA. writing\nB. running\nC. driving\nD. shopping",
+    "answer": "B. running",
+    "dim": "action",
+    "question_length": 92,
+    "num_options": 4
+  },
+  {
+    "video_id": "1084153195",
+    "question": "What are the dolphins doing in the water? \nA. Diving\nB. Swimming\nC. Sleeping\nD. Jumping",
+    "answer": "B. Swimming",
+    "dim": "action",
+    "question_length": 87,
+    "num_options": 4
+  },
+  {
+    "video_id": "1084153195",
+    "question": "Which activity can be observed in the dolphins? \nA. Dancing\nB. Swimming\nC. Climbing\nD. Diving",
+    "answer": "B. Swimming",
+    "dim": "action",
+    "question_length": 93,
+    "num_options": 4
+  },
+  {
+    "video_id": "1084153195",
+    "question": "What is the action of the dolphins in the video? \nA. Swimming\nB. Jumping\nC. Flying\nD. Reading",
+    "answer": "A. Swimming",
+    "dim": "action",
+    "question_length": 93,
+    "num_options": 4
+  },
+  {
+    "video_id": "1054717541",
+    "question": "What is the person doing?\nA. cutting dough\nB. kneading dough\nC. grilling dough",
+    "answer": "B. kneading dough",
+    "dim": "action",
+    "question_length": 78,
+    "num_options": 3
+  },
+  {
+    "video_id": "1054717541",
+    "question": "Which action is the person performing?\nA. kneading dough\nB. cutting dough\nC. grilling dough",
+    "answer": "A. kneading dough",
+    "dim": "action",
+    "question_length": 91,
+    "num_options": 3
+  },
+  {
+    "video_id": "1054717541",
+    "question": "In the video, what is the person engaged in?\nA. grilling dough\nB. kneading dough\nC. cutting dough",
+    "answer": "B. kneading dough",
+    "dim": "action",
+    "question_length": 97,
+    "num_options": 3
+  },
+  {
+    "video_id": "1054717541",
+    "question": "What activity is the person involved in?\nA. kneading dough\nB. grilling dough\nC. cutting dough",
+    "answer": "A. kneading dough",
+    "dim": "action",
+    "question_length": 93,
+    "num_options": 3
+  },
+  {
+    "video_id": "1054717541",
+    "question": "What action is demonstrated by the person?\nA. grilling dough\nB. kneading dough\nC. cutting dough",
+    "answer": "B. kneading dough",
+    "dim": "action",
+    "question_length": 95,
+    "num_options": 3
+  },
+  {
+    "video_id": "1059462749",
+    "question": "Which action is being performed by the person?\nA. reading a book\nB. cooking\nC. climbing down a ladder\nD. riding a bike",
+    "answer": "C. climbing down a ladder",
+    "dim": "action",
+    "question_length": 118,
+    "num_options": 4
+  },
+  {
+    "video_id": "1059462749",
+    "question": "What activity is taking place with the person?\nA. playing soccer\nB. painting a picture\nC. dancing\nD. climbing down a ladder",
+    "answer": "D. climbing down a ladder",
+    "dim": "action",
+    "question_length": 123,
+    "num_options": 4
+  },
+  {
+    "video_id": "1059462749",
+    "question": "What is the main action of the person in the video?\nA. playing basketball\nB. climbing down a ladder\nC. singing\nD. running",
+    "answer": "B. climbing down a ladder",
+    "dim": "action",
+    "question_length": 121,
+    "num_options": 4
+  },
+  {
+    "video_id": "1059462749",
+    "question": "Which of the following actions is being demonstrated by the person?\nA. climbing down a ladder\nB. playing guitar\nC. writing a letter\nD. sleeping",
+    "answer": "A. climbing down a ladder",
+    "dim": "action",
+    "question_length": 143,
+    "num_options": 4
+  },
+  {
+    "video_id": "1077590324",
+    "question": "What is the woman doing in the video?\nA. doing laundry\nB. cooking\nC. singing",
+    "answer": "A. doing laundry",
+    "dim": "action",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077590324",
+    "question": "What activity is the woman engaged in?\nA. dancing\nB. doing laundry\nC. painting",
+    "answer": "B. doing laundry",
+    "dim": "action",
+    "question_length": 78,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077590324",
+    "question": "Which action is the woman performing?\nA. swimming\nB. doing laundry\nC. hiking",
+    "answer": "B. doing laundry",
+    "dim": "action",
+    "question_length": 76,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077590324",
+    "question": "What task is the woman involved in?\nA. knitting\nB. doing laundry\nC. gardening",
+    "answer": "B. doing laundry",
+    "dim": "action",
+    "question_length": 77,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077590324",
+    "question": "Which action is depicted in the video?\nA. reading\nB. sleeping\nC. doing laundry",
+    "answer": "C. doing laundry",
+    "dim": "action",
+    "question_length": 78,
+    "num_options": 3
+  },
+  {
+    "video_id": "1040541401",
+    "question": "What are the children doing?\nA. painting pictures\nB. reading books\nC. doing chemical experiments\nD. playing soccer",
+    "answer": "C. doing chemical experiments",
+    "dim": "action",
+    "question_length": 114,
+    "num_options": 4
+  },
+  {
+    "video_id": "1040541401",
+    "question": "What activities are the children engaged in?\nA. playing chess\nB. doing chemical experiments\nC. swimming in the pool\nD. dancing ballet",
+    "answer": "B. doing chemical experiments",
+    "dim": "action",
+    "question_length": 133,
+    "num_options": 4
+  },
+  {
+    "video_id": "1040541401",
+    "question": "Which action are the children involved in?\nA. building sandcastles\nB. baking cookies\nC. doing chemical experiments\nD. playing hide and seek",
+    "answer": "C. doing chemical experiments",
+    "dim": "action",
+    "question_length": 139,
+    "num_options": 4
+  },
+  {
+    "video_id": "1040541401",
+    "question": "What is the main action performed by the children?\nA. doing chemical experiments\nB. flying kites\nC. jumping on the trampoline\nD. riding bicycles",
+    "answer": "A. doing chemical experiments",
+    "dim": "action",
+    "question_length": 144,
+    "num_options": 4
+  },
+  {
+    "video_id": "1040541401",
+    "question": "In which activity are the children participating?\nA. singing in a choir\nB. acting in a play\nC. doing chemical experiments\nD. playing video games",
+    "answer": "C. doing chemical experiments",
+    "dim": "action",
+    "question_length": 144,
+    "num_options": 4
+  },
+  {
+    "video_id": "1064645467",
+    "question": "What is the man doing?\nA. cooking\nB. reading a book\nC. exercising\nD. watching TV",
+    "answer": "C. exercising",
+    "dim": "action",
+    "question_length": 80,
+    "num_options": 4
+  },
+  {
+    "video_id": "1064645467",
+    "question": "Which activity is the man engaged in?\nA. dancing\nB. doing exercise\nC. swimming\nD. painting",
+    "answer": "B. doing exercise",
+    "dim": "action",
+    "question_length": 90,
+    "num_options": 4
+  },
+  {
+    "video_id": "1064645467",
+    "question": "In the video, what is the man involved in?\nA. knitting\nB. doing yoga\nC. horseback riding\nD. exercising intensively",
+    "answer": "D. exercising intensively",
+    "dim": "action",
+    "question_length": 114,
+    "num_options": 4
+  },
+  {
+    "video_id": "1064645467",
+    "question": "What activity is the man participating in?\nA. exercising\nB. playing chess\nC. gardening\nD. business activity",
+    "answer": "A. exercising",
+    "dim": "action",
+    "question_length": 107,
+    "num_options": 4
+  },
+  {
+    "video_id": "1105233293",
+    "question": "What are the people doing in the video?\nA. swimming\nB. dancing\nC. playing basketball",
+    "answer": "C. playing basketball",
+    "dim": "action",
+    "question_length": 84,
+    "num_options": 3
+  },
+  {
+    "video_id": "1105233293",
+    "question": "What activity are the people engaged in?\nA. playing basketball\nB. sleeping\nC. eating",
+    "answer": "A. playing basketball",
+    "dim": "action",
+    "question_length": 84,
+    "num_options": 3
+  },
+  {
+    "video_id": "1105233293",
+    "question": "Which sport are the people participating in?\nA. playing basketball\nB. soccer\nC. tennis",
+    "answer": "A. playing basketball",
+    "dim": "action",
+    "question_length": 86,
+    "num_options": 3
+  },
+  {
+    "video_id": "1105233293",
+    "question": "What is the action of the people in the footage?\nA. playing basketball\nB. reading\nC. writing",
+    "answer": "A. playing basketball",
+    "dim": "action",
+    "question_length": 92,
+    "num_options": 3
+  },
+  {
+    "video_id": "1105233293",
+    "question": "In the video, what are the people actively involved in?\nA. painting\nB. shopping\nC. playing basketball",
+    "answer": "C. playing basketball",
+    "dim": "action",
+    "question_length": 101,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077146132",
+    "question": "What is the woman doing in the video?\nA. waking up\nB. tossing and turning in the bed\nC. falling asleep",
+    "answer": "A. waking up",
+    "dim": "action",
+    "question_length": 102,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077146132",
+    "question": "What action is the woman performing?\nA. waking up\nB. tossing and turning in the bed\nC. falling asleep",
+    "answer": "A. waking up",
+    "dim": "action",
+    "question_length": 101,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077146132",
+    "question": "Which of the following actions is the woman engaged in?\nA. tossing and turning in the bed\nB. waking up\nC. falling asleep",
+    "answer": "B. waking up",
+    "dim": "action",
+    "question_length": 120,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077146132",
+    "question": "In the video, what is the woman's activity?\nA. waking up\nB. tossing and turning in the bed\nC. falling asleep",
+    "answer": "A. waking up",
+    "dim": "action",
+    "question_length": 108,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077146132",
+    "question": "What action is depicted in the video?\nA. falling asleep\nB. waking up\nC. tossing and turning in the bed",
+    "answer": "B. waking up",
+    "dim": "action",
+    "question_length": 102,
+    "num_options": 3
+  },
+  {
+    "video_id": "1096612823",
+    "question": "In the video, what can be observed about the car's movement?\nA. sliding on ice\nB. dancing on the rooftop\nC. buried in the sand\nD. driving on the road",
+    "answer": "D. driving on the road",
+    "dim": "action",
+    "question_length": 149,
+    "num_options": 4
+  },
+  {
+    "video_id": "1096612823",
+    "question": "What is happening to the car?\nA. driving on the road\nB. being fixed\nC. sleeping",
+    "answer": "A. driving on the road",
+    "dim": "action",
+    "question_length": 79,
+    "num_options": 3
+  },
+  {
+    "video_id": "1096612823",
+    "question": "What is the car doing in the scene?\nA. flying in the sky\nB. swimming in the ocean\nC. parked on the sidewalk\nD. driving on the road",
+    "answer": "D. driving on the road",
+    "dim": "action",
+    "question_length": 130,
+    "num_options": 4
+  },
+  {
+    "video_id": "1090578917",
+    "question": "What is the man doing?\nA. playing soccer\nB. painting a picture\nC. reading a book\nD. cooking dinner",
+    "answer": "A. playing soccer",
+    "dim": "action",
+    "question_length": 98,
+    "num_options": 4
+  },
+  {
+    "video_id": "1090578917",
+    "question": "What activity is the man engaged in?\nA. playing soccer\nB. dancing\nC. singing\nD. swimming",
+    "answer": "A. playing soccer",
+    "dim": "action",
+    "question_length": 88,
+    "num_options": 4
+  },
+  {
+    "video_id": "1090578917",
+    "question": "What sport is the man participating in?\nA. volleyball\nB. basketball\nC. soccer\nD. tennis",
+    "answer": "C. soccer",
+    "dim": "action",
+    "question_length": 87,
+    "num_options": 4
+  },
+  {
+    "video_id": "1090578917",
+    "question": "What recreational activity is the man involved in?\nA. playing chess\nB. gardening\nC. hiking\nD. playing soccer",
+    "answer": "D. playing soccer",
+    "dim": "action",
+    "question_length": 108,
+    "num_options": 4
+  },
+  {
+    "video_id": "1090578917",
+    "question": "In what physical activity is the man actively involved?\nA. playing soccer\nB. weightlifting\nC. biking\nD. jogging",
+    "answer": "A. playing soccer",
+    "dim": "action",
+    "question_length": 111,
+    "num_options": 4
+  },
+  {
+    "video_id": "23391142",
+    "question": "What are the people doing in the video?\nA. dancing\nB. playing badminton\nC. reading books",
+    "answer": "B. playing badminton",
+    "dim": "action",
+    "question_length": 88,
+    "num_options": 3
+  },
+  {
+    "video_id": "23391142",
+    "question": "What activity are the people engaged in?\nA. swimming\nB. playing badminton\nC. playing soccer",
+    "answer": "B. playing badminton",
+    "dim": "action",
+    "question_length": 91,
+    "num_options": 3
+  },
+  {
+    "video_id": "23391142",
+    "question": "Which of the following activities are the people participating in?\nA. playing badminton\nB. hiking\nC. baking cookies",
+    "answer": "A. playing badminton",
+    "dim": "action",
+    "question_length": 115,
+    "num_options": 3
+  },
+  {
+    "video_id": "23391142",
+    "question": "What action can be seen in the video?\nA. knitting\nB. playing badminton\nC. painting",
+    "answer": "B. playing badminton",
+    "dim": "action",
+    "question_length": 82,
+    "num_options": 3
+  },
+  {
+    "video_id": "23391142",
+    "question": "What is happening in the video?\nA. sleeping\nB. singing\nC. playing badminton",
+    "answer": "C. playing badminton",
+    "dim": "action",
+    "question_length": 75,
+    "num_options": 3
+  },
+  {
+    "video_id": "1078368947",
+    "question": "What is the woman doing in the bathroom?\nA. reading a book while taking a shower\nB. writing letter while taking a bath\nC. reading a book while taking a bath",
+    "answer": "C. reading a book while taking a bath",
+    "dim": "action",
+    "question_length": 156,
+    "num_options": 3
+  },
+  {
+    "video_id": "1078368947",
+    "question": "What activity is the woman engaged in?\nA. reading a book while taking a bath\nB. listening to music while taking a bath\nC. drinking wine while taking a bath",
+    "answer": "A. reading a book while taking a bath",
+    "dim": "action",
+    "question_length": 155,
+    "num_options": 3
+  },
+  {
+    "video_id": "1078368947",
+    "question": "Which of the following actions is the woman involved in?\nA. washing her hair while taking a bath\nB. reading a book while taking a bath\nC. washing her face while taking a bath",
+    "answer": "B. reading a book while taking a bath",
+    "dim": "action",
+    "question_length": 174,
+    "num_options": 3
+  },
+  {
+    "video_id": "1085910917",
+    "question": "What is the woman doing in the video?\nA. drinking\nB. sleeping\nC. dancing",
+    "answer": "A. drinking",
+    "dim": "action",
+    "question_length": 72,
+    "num_options": 3
+  },
+  {
+    "video_id": "1085910917",
+    "question": "What activity is the woman engaged in?\nA. running\nB. drinking\nC. cooking",
+    "answer": "B. drinking",
+    "dim": "action",
+    "question_length": 72,
+    "num_options": 3
+  },
+  {
+    "video_id": "1085910917",
+    "question": "In the video, what is the action performed by the woman?\nA. reading\nB. swimming\nC. drinking",
+    "answer": "C. drinking",
+    "dim": "action",
+    "question_length": 91,
+    "num_options": 3
+  },
+  {
+    "video_id": "1085910917",
+    "question": "What behavior is exhibited by the woman?\nA. drinking\nB. eating\nC. talking",
+    "answer": "A. drinking",
+    "dim": "action",
+    "question_length": 73,
+    "num_options": 3
+  },
+  {
+    "video_id": "1085910917",
+    "question": "Which of the following actions is being carried out by the woman?\nA. drawing\nB. drinking\nC. walking",
+    "answer": "B. drinking",
+    "dim": "action",
+    "question_length": 99,
+    "num_options": 3
+  },
+  {
+    "video_id": "1058907236",
+    "question": "What is the squirrel doing in the park?\nA. Sleeping\nB. Swimming\nC. Foraging\nD. Dancing",
+    "answer": "C. Foraging",
+    "dim": "action",
+    "question_length": 86,
+    "num_options": 4
+  },
+  {
+    "video_id": "1058907236",
+    "question": "What action is the squirrel performing?\nA. Running around\nB. Taking a rest\nC. Foraging for mushroom\nD. Foraging for nuts",
+    "answer": "D. Foraging for nuts",
+    "dim": "action",
+    "question_length": 120,
+    "num_options": 4
+  },
+  {
+    "video_id": "1058907236",
+    "question": "What is the main activity of the squirrel?\nA. Building a nest\nB. Foraging for nuts\nC. Hibernating \nD. Jumping",
+    "answer": "B. Foraging for nuts",
+    "dim": "action",
+    "question_length": 109,
+    "num_options": 4
+  },
+  {
+    "video_id": "1081513610",
+    "question": "What is the man doing in the video?\nA. swimming\nB. discussing\nC. sleeping\nD. running",
+    "answer": "B. discussing",
+    "dim": "action",
+    "question_length": 84,
+    "num_options": 4
+  },
+  {
+    "video_id": "1081513610",
+    "question": "What action is the man performing?\nA. discussing\nB. reading\nC. cooking\nD. dancing",
+    "answer": "A. discussing",
+    "dim": "action",
+    "question_length": 81,
+    "num_options": 4
+  },
+  {
+    "video_id": "1081513610",
+    "question": "Which activity is the man engaged in?\nA. singing\nB. playing basketball\nC. discussing\nD. painting",
+    "answer": "C. discussing",
+    "dim": "action",
+    "question_length": 96,
+    "num_options": 4
+  },
+  {
+    "video_id": "1081513610",
+    "question": "What is the man occupied with?\nA. discussing\nB. shopping\nC. working out\nD. gardening",
+    "answer": "A. discussing",
+    "dim": "action",
+    "question_length": 84,
+    "num_options": 4
+  },
+  {
+    "video_id": "1081513610",
+    "question": "What does the man participate in?\nA. biking\nB. hiking\nC. fishing\nD. discussing",
+    "answer": "D. discussing",
+    "dim": "action",
+    "question_length": 78,
+    "num_options": 4
+  },
+  {
+    "video_id": "1073831006",
+    "question": "What are the zebras doing in the video?\nA. swimming\nB. sleeping\nC. running",
+    "answer": "C. running",
+    "dim": "action",
+    "question_length": 74,
+    "num_options": 3
+  },
+  {
+    "video_id": "1073831006",
+    "question": "Which of the following actions are the zebras performing?\nA. running\nB. jumping\nC. eating",
+    "answer": "A. running",
+    "dim": "action",
+    "question_length": 89,
+    "num_options": 3
+  },
+  {
+    "video_id": "1073831006",
+    "question": "In the video, what can we see the zebras doing?\nA. running\nB. standing still\nC. drinking water",
+    "answer": "A. running",
+    "dim": "action",
+    "question_length": 94,
+    "num_options": 3
+  },
+  {
+    "video_id": "1069338034",
+    "question": "What are the elephants doing in the video?\nA. eating and drinking\nB. sleeping and resting\nC. eating and playing",
+    "answer": "A. eating and drinking",
+    "dim": "action",
+    "question_length": 111,
+    "num_options": 3
+  },
+  {
+    "video_id": "1069338034",
+    "question": "Which action is observed in the video?\nA. swimming and taking bath\nB. swimming and drinking\nC. eating and drinking",
+    "answer": "C. eating and drinking",
+    "dim": "action",
+    "question_length": 114,
+    "num_options": 3
+  },
+  {
+    "video_id": "1069338034",
+    "question": "What activity are the elephants engaged in?\nA. swimming and cleaning themselves\nB. eating and drinking\nC. swimming and resting",
+    "answer": "B. eating and drinking",
+    "dim": "action",
+    "question_length": 126,
+    "num_options": 3
+  },
+  {
+    "video_id": "1076880707",
+    "question": "What is the bear doing near the tree?\nA. eating honey\nB. climbing a tree\nC. scratching against a tree",
+    "answer": "C. scratching against a tree",
+    "dim": "action",
+    "question_length": 101,
+    "num_options": 3
+  },
+  {
+    "video_id": "1076880707",
+    "question": "What activity is the bear engaged in?\nA. climbing a tree\nB. taking a nap under the tree\nC. scratching against a tree",
+    "answer": "C. scratching against a tree",
+    "dim": "action",
+    "question_length": 116,
+    "num_options": 3
+  },
+  {
+    "video_id": "1076880707",
+    "question": "Which action can be seen in the video?\nA. scratching against a tree\nB. sleeping against the tree\nC. eating under the tree",
+    "answer": "A. scratching against a tree",
+    "dim": "action",
+    "question_length": 121,
+    "num_options": 3
+  },
+  {
+    "video_id": "1024867412",
+    "question": "What is the dog doing in the video?\nA. eating\nB. driving a car\nC. sleeping\nD. barking",
+    "answer": "B. driving a car",
+    "dim": "action",
+    "question_length": 85,
+    "num_options": 4
+  },
+  {
+    "video_id": "1024867412",
+    "question": "Which activity is the dog engaged in?\nA. reading a book\nB. swimming\nC. cooking\nD. driving a car",
+    "answer": "D. driving a car",
+    "dim": "action",
+    "question_length": 95,
+    "num_options": 4
+  },
+  {
+    "video_id": "1024867412",
+    "question": "What action is the dog performing?\nA. painting\nB. dancing\nC. driving a car\nD. singing",
+    "answer": "C. driving a car",
+    "dim": "action",
+    "question_length": 85,
+    "num_options": 4
+  },
+  {
+    "video_id": "1024867412",
+    "question": "What can be seen in the video involving the dog?\nA. driving a car\nB. flying a kite\nC. running\nD. playing soccer",
+    "answer": "A. driving a car",
+    "dim": "action",
+    "question_length": 111,
+    "num_options": 4
+  },
+  {
+    "video_id": "1024867412",
+    "question": "Which of the following actions is being carried out by the dog?\nA. building a sandcastle\nB. driving a car\nC. riding a bike\nD. knitting",
+    "answer": "B. driving a car",
+    "dim": "action",
+    "question_length": 134,
+    "num_options": 4
+  },
+  {
+    "video_id": "1076877854",
+    "question": "What are the robots doing in the field?\nA. caring for seedlings\nB. watering plants\nC. harvesting crops\nD. plowing the soil",
+    "answer": "A. caring for seedlings",
+    "dim": "action",
+    "question_length": 122,
+    "num_options": 4
+  },
+  {
+    "video_id": "1076877854",
+    "question": "Which task are the robots performing?\nA. cooking dinner\nB. building houses\nC. caring for seedlings\nD. repairing cars",
+    "answer": "C. caring for seedlings",
+    "dim": "action",
+    "question_length": 116,
+    "num_options": 4
+  },
+  {
+    "video_id": "1076877854",
+    "question": "What action are the robots engaged in?\nA. cleaning tables\nB. caring for seedlings\nC. playing chess\nD. cooking meals",
+    "answer": "B. caring for seedlings",
+    "dim": "action",
+    "question_length": 115,
+    "num_options": 4
+  },
+  {
+    "video_id": "1104673225",
+    "question": "What is the woman doing in the video?\nA. wrapping up salad\nB. throwing away salad\nC. eating salad\nD. making salad",
+    "answer": "C. eating salad",
+    "dim": "action",
+    "question_length": 113,
+    "num_options": 4
+  },
+  {
+    "video_id": "1104673225",
+    "question": "What activity is the woman engaged in?\nA. wrapping up salad\nB. eating salad\nC. making salad\nD. drinking vegetable juice",
+    "answer": "B. eating salad",
+    "dim": "action",
+    "question_length": 119,
+    "num_options": 4
+  },
+  {
+    "video_id": "1104673225",
+    "question": "Which action is the woman involved in?\nA. drinking vegetable juice\nB. making salad\nC. wrapping up salad\nD. eating salad",
+    "answer": "D. eating salad",
+    "dim": "action",
+    "question_length": 119,
+    "num_options": 4
+  },
+  {
+    "video_id": "3411806181",
+    "question": "What is the person doing in the video?\nA. recharging an electric vehicle\nB. cleaning an electric vehicle\nC. repairing an electric vehicle",
+    "answer": "A. recharging an electric vehicle",
+    "dim": "action",
+    "question_length": 137,
+    "num_options": 3
+  },
+  {
+    "video_id": "3411806181",
+    "question": "What activity is the person engaged in?\nA. repairing an EV\nB. cleaning an EV\nC. recharging an EV",
+    "answer": "C. recharging an EV",
+    "dim": "action",
+    "question_length": 96,
+    "num_options": 3
+  },
+  {
+    "video_id": "3411806181",
+    "question": "Which of the following actions is the person involved in?\nA. driving an electric vehicle\nB. fueling a car\nC. recharging an electric vehicle\nD. cleaning an electric vehicle",
+    "answer": "C. recharging an electric vehicle",
+    "dim": "action",
+    "question_length": 171,
+    "num_options": 4
+  },
+  {
+    "video_id": "1096238125",
+    "question": "What are the man and woman doing in the video?\nA. doing sit-ups\nB. jumping rope\nC. lifting weights\nD. doing push-ups",
+    "answer": "C. lifting weights",
+    "dim": "action",
+    "question_length": 116,
+    "num_options": 4
+  },
+  {
+    "video_id": "1096238125",
+    "question": "How would you describe the action performed by the man and woman?\nA. doing push-ups\nB. lifting kettlebell\nC. running\nD. jumping rope",
+    "answer": "B. lifting kettlebell",
+    "dim": "action",
+    "question_length": 132,
+    "num_options": 4
+  },
+  {
+    "video_id": "1096238125",
+    "question": "Which activity are the man and woman engaged in?\nA. playing tennis\nB. doing bench press\nC. lifting kettlebell\nD. doing push-ups",
+    "answer": "C. lifting kettlebell",
+    "dim": "action",
+    "question_length": 127,
+    "num_options": 4
+  },
+  {
+    "video_id": "1103088481",
+    "question": "What is the person doing in the market?\nA. selling vegetables\nB. packaging vegetables\nC. cooking vegetables\nD. buying vegetables",
+    "answer": "D. buying vegetables",
+    "dim": "action",
+    "question_length": 128,
+    "num_options": 4
+  },
+  {
+    "video_id": "1103088481",
+    "question": "What activity is the person engaged in at the grocery store?\nA. packaging vegetables\nB. cooking vegetables\nC. selling vegetables\nD. buying vegetables",
+    "answer": "D. buying vegetables",
+    "dim": "action",
+    "question_length": 149,
+    "num_options": 4
+  },
+  {
+    "video_id": "1103088481",
+    "question": "What is the individual doing in the video?\nA. buying vegetables\nB. eating vegetables\nC. packaging vegetables\nD. selling vegetables",
+    "answer": "A. buying vegetables",
+    "dim": "action",
+    "question_length": 130,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098970151",
+    "question": "What is the cat doing in the video?\nA. licking its paw\nB. washing its face\nC. waving its paw\nD. licking its belly",
+    "answer": "A. licking its paw",
+    "dim": "action",
+    "question_length": 113,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098970151",
+    "question": "Which body part of the cat is it licking?\nA. nose\nB. ears\nC. paws\nD. tail",
+    "answer": "C. paws",
+    "dim": "action",
+    "question_length": 73,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098970151",
+    "question": "What is the cat doing with its paw?\nA. licking its paw\nB. waving its paw\nC. watching its paw\nD. biting its paw",
+    "answer": "A. licking its paw",
+    "dim": "action",
+    "question_length": 110,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098710341",
+    "question": "What is the person doing in the video?\nA. drinking water from a glass\nB. pouring water into a glass\nC. washing hands with water\nD. spilling water on the floor",
+    "answer": "B. pouring water into a glass",
+    "dim": "action",
+    "question_length": 158,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098710341",
+    "question": "Which action is the person performing?\nA. drinking water from a glass\nB. stirring water in a bowl\nC. pouring water into a glass\nD. adding water into a pot",
+    "answer": "C. pouring water into a glass",
+    "dim": "action",
+    "question_length": 154,
+    "num_options": 4
+  },
+  {
+    "video_id": "1098710341",
+    "question": "What action is being performed by the person?\nA. washing hands with water\nB. spilling water on the floor\nC. drinking water from a glass\nD. pouring water into a glass",
+    "answer": "D. pouring water into a glass",
+    "dim": "action",
+    "question_length": 165,
+    "num_options": 4
+  },
+  {
+    "video_id": "1062736174",
+    "question": "What is the chef doing in the video?\nA. chopping steak\nB. sprinkling vegetables on steak\nC. sprinkling salt on steak\nD. grilling steak",
+    "answer": "C. sprinkling salt on steak",
+    "dim": "action",
+    "question_length": 134,
+    "num_options": 4
+  },
+  {
+    "video_id": "1062736174",
+    "question": "Which action is the chef performing on the steak?\nA. flipping the steak\nB. pouring water\nC. sprinkling salt\nD. seasoning with pepper",
+    "answer": "C. sprinkling salt",
+    "dim": "action",
+    "question_length": 132,
+    "num_options": 4
+  },
+  {
+    "video_id": "1062736174",
+    "question": "What is the chef's activity related to the steak?\nA. marinating with spices\nB. sprinkling salt on it\nC. cutting into slices\nD. serving with salad",
+    "answer": "B. sprinkling salt on it",
+    "dim": "action",
+    "question_length": 145,
+    "num_options": 4
+  },
+  {
+    "video_id": "1108398787",
+    "question": "What type of action is the person performing?\nA. Chatting on a smartphone device\nB. Operating system settings on a smartphone device\nC. Watching videos on a smartphone device\nD. Playing games on a smartphone device",
+    "answer": "B. Operating system settings on a smartphone device",
+    "dim": "action",
+    "question_length": 214,
+    "num_options": 4
+  },
+  {
+    "video_id": "1108398787",
+    "question": "What activity is the person engaged in?\nA. Watching videos on a smartphone device\nB. Making a phone call using a smartphone device\nC. Operating system settings on a smartphone device\nD. Chatting on a smartphone device",
+    "answer": "C. Operating system settings on a smartphone device",
+    "dim": "action",
+    "question_length": 217,
+    "num_options": 4
+  },
+  {
+    "video_id": "1108398787",
+    "question": "What is the person doing with the smartphone?\nA. Listening to music\nB. Watching a movie\nC. Texting a friend\nD. Operating system settings",
+    "answer": "D. Operating system settings",
+    "dim": "action",
+    "question_length": 136,
+    "num_options": 4
+  },
+  {
+    "video_id": "1107034223",
+    "question": "What is the bear doing in the river?\nA. swimming\nB. climbing trees\nC. sleeping\nD. catching fishes",
+    "answer": "D. catching fishes",
+    "dim": "action",
+    "question_length": 97,
+    "num_options": 4
+  },
+  {
+    "video_id": "1107034223",
+    "question": "Which activity is the bear engaged in?\nA. hibernating\nB. eating\nC. fishing\nD. running",
+    "answer": "C. fishing",
+    "dim": "action",
+    "question_length": 85,
+    "num_options": 4
+  },
+  {
+    "video_id": "1107034223",
+    "question": "What is the main action of the bear?\nA. climbing rocks\nB. drinking water\nC. catching fishes\nD. roaring",
+    "answer": "C. catching fishes",
+    "dim": "action",
+    "question_length": 102,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094782389",
+    "question": "What action is the dog performing in the video?\nA. Running towards a woman\nB. Jumping towards a woman\nC. Barking to a woman\nD. Giving a high five to a woman",
+    "answer": "D. Giving a high five to a woman",
+    "dim": "action",
+    "question_length": 156,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094782389",
+    "question": "What activity is the dog engaged in?\nA. Catching food from a woman\nB. Giving a high five to a woman\nC. Wagging its tail at a woman\nD. Licking a woman",
+    "answer": "B. Giving a high five to a woman",
+    "dim": "action",
+    "question_length": 149,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094782389",
+    "question": "Which action did the dog execute?\nA. Licking the woman\nB. Fetching a ball thrown by the woman\nC. Digging a hole\nD. Giving a high five to the woman",
+    "answer": "D. Giving a high five to the woman",
+    "dim": "action",
+    "question_length": 146,
+    "num_options": 4
+  },
+  {
+    "video_id": "1043487715",
+    "question": "What are the children doing in the video?\nA. diving into water\nB. eating\nC. sleeping",
+    "answer": "A. diving into water",
+    "dim": "action",
+    "question_length": 84,
+    "num_options": 3
+  },
+  {
+    "video_id": "1043487715",
+    "question": "Which activity can be seen in the video involving the children?\nA. hiking\nB. dancing\nC. diving into water",
+    "answer": "C. diving into water",
+    "dim": "action",
+    "question_length": 105,
+    "num_options": 3
+  },
+  {
+    "video_id": "1043487715",
+    "question": "What is the primary action performed by the children?\nA. rowing a boat\nB. diving into water\nC. cooking",
+    "answer": "B. diving into water",
+    "dim": "action",
+    "question_length": 102,
+    "num_options": 3
+  },
+  {
+    "video_id": "1106280325",
+    "question": "What is the woman doing?\nA. hiking\nB. playing guitar\nC. reading book\nD. dancing",
+    "answer": "C. reading book",
+    "dim": "action",
+    "question_length": 79,
+    "num_options": 4
+  },
+  {
+    "video_id": "1106280325",
+    "question": "What activity is the woman engaged in?\nA. painting a picture\nB. playing guitar\nC. sleeping\nD. reading book",
+    "answer": "D. reading book",
+    "dim": "action",
+    "question_length": 106,
+    "num_options": 4
+  },
+  {
+    "video_id": "1106280325",
+    "question": "What can be seen in the video?\nA. woman reading book on the grass\nB. woman sleeping on the grass\nC. woman hiking in the wild\nD. woman drinking water ",
+    "answer": "A. woman reading book on the grass",
+    "dim": "action",
+    "question_length": 149,
+    "num_options": 4
+  },
+  {
+    "video_id": "15695290",
+    "question": "What is the person doing?\nA. playing soccer\nB. reading a book\nC. drawing a picture",
+    "answer": "C. drawing a picture",
+    "dim": "action",
+    "question_length": 82,
+    "num_options": 3
+  },
+  {
+    "video_id": "15695290",
+    "question": "What activity is the person engaged in?\nA. drawing a picture\nB. dancing\nC. cooking",
+    "answer": "A. drawing a picture",
+    "dim": "action",
+    "question_length": 82,
+    "num_options": 3
+  },
+  {
+    "video_id": "15695290",
+    "question": "What is the main task of the person?\nA. typing on the computer\nB. painting a wall\nC. drawing a picture",
+    "answer": "C. drawing a picture",
+    "dim": "action",
+    "question_length": 102,
+    "num_options": 3
+  },
+  {
+    "video_id": "1106899445",
+    "question": "What action is the person performing with the toothbrush?\nA. brushing teeth\nB. removing toothpaste from the toothbrush\nC. squeezing out toothpaste on the toothbrush",
+    "answer": "C. squeezing out toothpaste on the toothbrush",
+    "dim": "action",
+    "question_length": 164,
+    "num_options": 3
+  },
+  {
+    "video_id": "1106899445",
+    "question": "What is the main action of the person in the video?\nA. removing toothpaste from the toothbrush\nB. brushing teeth\nC. squeezing out toothpaste on a toothbrush",
+    "answer": "C. squeezing out toothpaste on a toothbrush",
+    "dim": "action",
+    "question_length": 156,
+    "num_options": 3
+  },
+  {
+    "video_id": "1106899445",
+    "question": "What happens in the video?\nA. a person is brushing teeth using the toothbrush\nB. toothpaste being washed from a toothbrush\nC. toothpaste being squeezed on a toothbrush",
+    "answer": "C. toothpaste being squeezed on a toothbrush",
+    "dim": "action",
+    "question_length": 167,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100397435",
+    "question": "What is the person doing in the video?\nA. turning off the robot vacuum cleaner\nB. starts the robot vacuum cleaner\nC. fixing the robot vacuum cleaner",
+    "answer": "B. starts the robot vacuum cleaner",
+    "dim": "action",
+    "question_length": 148,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100397435",
+    "question": "What action does the person perform?\nA. sweeping the floor\nB. starts the robot vacuum cleaner\nC. turning off the robot vacuum cleaner",
+    "answer": "B. starts the robot vacuum cleaner",
+    "dim": "action",
+    "question_length": 133,
+    "num_options": 3
+  },
+  {
+    "video_id": "1100397435",
+    "question": "What activity does the person engage in?\nA. taking apart the robot vacuum cleaner\nB. recharging the robot vacuum cleaner\nC. starts the robot vacuum cleaner",
+    "answer": "C. starts the robot vacuum cleaner",
+    "dim": "action",
+    "question_length": 155,
+    "num_options": 3
+  },
+  {
+    "video_id": "1034049020",
+    "question": "What is the woman doing in the video?\nA. cleaning a wall while walking\nB. standing still and painting a wall\nC. painting a wall while walking",
+    "answer": "C. painting a wall while walking",
+    "dim": "action",
+    "question_length": 141,
+    "num_options": 3
+  },
+  {
+    "video_id": "1034049020",
+    "question": "What activity is taking place in the video?\nA. a girl standing and cleaning a wall\nB. a girl is walking and cleaning a wall\nC. a girl painting a wall while walking",
+    "answer": "C. a girl painting a wall while walking",
+    "dim": "action",
+    "question_length": 163,
+    "num_options": 3
+  },
+  {
+    "video_id": "1034049020",
+    "question": "Which of the following actions is the woman performing?\nA. standing still and painting a wall\nB. standing and cleaning a wall\nC. painting a wall while walking",
+    "answer": "C. painting a wall while walking",
+    "dim": "action",
+    "question_length": 158,
+    "num_options": 3
+  },
+  {
+    "video_id": "1086286649",
+    "question": "What are the armored vehicles doing in the video?\nA. Loading People\nB. Parked\nC. Driving\nD. Firing",
+    "answer": "C. Driving",
+    "dim": "action",
+    "question_length": 98,
+    "num_options": 4
+  },
+  {
+    "video_id": "1086286649",
+    "question": "How are the armored vehicles moving?\nA. Driving\nB. Bouncing\nC. Standing still\nD. Hovering",
+    "answer": "A. Driving",
+    "dim": "action",
+    "question_length": 89,
+    "num_options": 4
+  },
+  {
+    "video_id": "1086286649",
+    "question": "What is the main action performed by the armored vehicles?\nA. Firing\nB. Loading People\nC. Driving\nD. Under Repair",
+    "answer": "C. Driving",
+    "dim": "action",
+    "question_length": 113,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093041749",
+    "question": "What is the dragon doing in the video?\nA. flying\nB. swimming\nC. breathing fire",
+    "answer": "C. breathing fire",
+    "dim": "action",
+    "question_length": 78,
+    "num_options": 3
+  },
+  {
+    "video_id": "1093041749",
+    "question": "Which action can the dragon perform?\nA. breathing fire\nB. eating food\nC. laying eggs",
+    "answer": "A. breathing fire",
+    "dim": "action",
+    "question_length": 84,
+    "num_options": 3
+  },
+  {
+    "video_id": "1093041749",
+    "question": "What activity does the dragon engage in?\nA. eating food\nB. breathing fire\nC. laying eggs",
+    "answer": "B. breathing fire",
+    "dim": "action",
+    "question_length": 88,
+    "num_options": 3
+  },
+  {
+    "video_id": "1076180768",
+    "question": "What is the knight doing in the video?\nA. riding a horse\nB. wielding a spear\nC. drawing sword from sheath\nD. shooting an arrow",
+    "answer": "C. drawing sword from sheath",
+    "dim": "action",
+    "question_length": 126,
+    "num_options": 4
+  },
+  {
+    "video_id": "1076180768",
+    "question": "What action is the knight performing?\nA. drawing sword from sheath\nB. shooting an arrow\nC. raising a shield\nD. putting on armor",
+    "answer": "A. drawing sword from sheath",
+    "dim": "action",
+    "question_length": 127,
+    "num_options": 4
+  },
+  {
+    "video_id": "1076180768",
+    "question": "Which of the following actions is the knight demonstrating?\nA. putting on armor\nB. casting a spell\nC. drawing sword from sheath\nD. shooting a bow and arrow",
+    "answer": "C. drawing sword from sheath",
+    "dim": "action",
+    "question_length": 155,
+    "num_options": 4
+  },
+  {
+    "video_id": "3406661033",
+    "question": "What is the man doing in the video?\nA. propelling himself forward in wheelchair\nB. swimming\nC. walking",
+    "answer": "A. propelling himself forward in wheelchair",
+    "dim": "action",
+    "question_length": 102,
+    "num_options": 3
+  },
+  {
+    "video_id": "3406661033",
+    "question": "Which action is the man performing?\nA. running\nB. propelling himself forward in wheelchair\nC. jumping",
+    "answer": "B. propelling himself forward in wheelchair",
+    "dim": "action",
+    "question_length": 101,
+    "num_options": 3
+  },
+  {
+    "video_id": "3406661033",
+    "question": "How is the man moving?\nA. running\nB. propelling himself forward in wheelchair\nC. crawling",
+    "answer": "B. propelling himself forward in wheelchair",
+    "dim": "action",
+    "question_length": 89,
+    "num_options": 3
+  },
+  {
+    "video_id": "3406618583",
+    "question": "What type of dance is the woman performing?\nA. hip-hop\nB. salsa\nC. ballet\nD. freestyle dance",
+    "answer": "D. freestyle dance",
+    "dim": "action",
+    "question_length": 92,
+    "num_options": 4
+  },
+  {
+    "video_id": "3406618583",
+    "question": "Which activity is the woman engaged in?\nA. ballet\nB. freestyle dance\nC. hip-hop\nD. jazz dance",
+    "answer": "B. freestyle dance",
+    "dim": "action",
+    "question_length": 93,
+    "num_options": 4
+  },
+  {
+    "video_id": "3406618583",
+    "question": "What is the woman demonstrating?\nA. freestyle dance\nB. hip-hop\nC. jazz dance\nD. ballet",
+    "answer": "A. freestyle dance",
+    "dim": "action",
+    "question_length": 86,
+    "num_options": 4
+  },
+  {
+    "video_id": "3405120819",
+    "question": "What is the chef doing?\nA. cutting dough\nB. shaping dough\nC. placing dough in a dish",
+    "answer": "B. shaping dough",
+    "dim": "action",
+    "question_length": 84,
+    "num_options": 3
+  },
+  {
+    "video_id": "3405120819",
+    "question": "What action is the chef performing?\nA. shaping dough\nB. mixing dough with water\nC. cutting dough",
+    "answer": "A. shaping dough",
+    "dim": "action",
+    "question_length": 96,
+    "num_options": 3
+  },
+  {
+    "video_id": "3405120819",
+    "question": "Which activity is the chef engaging in?\nA. shaping dough\nB. baking dough\nC. cutting dough",
+    "answer": "A. shaping dough",
+    "dim": "action",
+    "question_length": 89,
+    "num_options": 3
+  },
+  {
+    "video_id": "3405088753",
+    "question": "What is the woman doing in the video?\nA. cooking soup\nB. eating apple\nC. buying bread\nD. sleeping",
+    "answer": "C. buying bread",
+    "dim": "action",
+    "question_length": 97,
+    "num_options": 4
+  },
+  {
+    "video_id": "3405088753",
+    "question": "What action is the woman performing in the video?\nA. reading a book\nB. dancing\nC. buying bread\nD. working out",
+    "answer": "C. buying bread",
+    "dim": "action",
+    "question_length": 109,
+    "num_options": 4
+  },
+  {
+    "video_id": "3405088753",
+    "question": "What activity is the woman engaged in?\nA. buying bread\nB. swimming\nC. painting\nD. gardening",
+    "answer": "A. buying bread",
+    "dim": "action",
+    "question_length": 91,
+    "num_options": 4
+  },
+  {
+    "video_id": "3401191309",
+    "question": "What is the athletic man doing in the video?\nA. putting on prosthetic running blade\nB. taking off prosthetic running blade\nC. repairing a prosthetic running blade",
+    "answer": "B. taking off prosthetic running blade",
+    "dim": "action",
+    "question_length": 162,
+    "num_options": 3
+  },
+  {
+    "video_id": "3401191309",
+    "question": "Which activity is the athletic man engaged in?\nA. taking off prosthetic running blade\nB. putting on prosthetic running blade\nC. repairing a prosthetic running blade",
+    "answer": "A. taking off prosthetic running blade",
+    "dim": "action",
+    "question_length": 164,
+    "num_options": 3
+  },
+  {
+    "video_id": "3401191309",
+    "question": "What action is the athletic man performing?\nA. taking off prosthetic running blade\nB. repairing a prosthetic running blade\nC. putting on prosthetic running blade",
+    "answer": "A. taking off prosthetic running blade",
+    "dim": "action",
+    "question_length": 161,
+    "num_options": 3
+  },
+  {
+    "video_id": "21218935",
+    "question": "What is the woman doing?\nA. exercising\nB. cooking\nC. sleeping",
+    "answer": "A. exercising",
+    "dim": "action",
+    "question_length": 61,
+    "num_options": 3
+  },
+  {
+    "video_id": "21218935",
+    "question": "Which activity is the woman engaged in?\nA. reading\nB. dancing\nC. exercising",
+    "answer": "C. exercising",
+    "dim": "action",
+    "question_length": 75,
+    "num_options": 3
+  },
+  {
+    "video_id": "21218935",
+    "question": "In the video, what action is the woman performing?\nA. exercising\nB. walking\nC. painting",
+    "answer": "A. exercising",
+    "dim": "action",
+    "question_length": 87,
+    "num_options": 3
+  },
+  {
+    "video_id": "5395244",
+    "question": "What is the woman doing near the creek?\nA. canoeing across the pebble creek\nB. swimming across the pebble creek\nC. running across the pebble creek\nD. walking across the pebble creek",
+    "answer": "D. walking across the pebble creek",
+    "dim": "action",
+    "question_length": 181,
+    "num_options": 4
+  },
+  {
+    "video_id": "5395244",
+    "question": "How is the woman interacting with the creek?\nA. swimming across it\nB. canoeing across it\nC. walking across it\nD. jumping over it",
+    "answer": "C. walking across it",
+    "dim": "action",
+    "question_length": 128,
+    "num_options": 4
+  },
+  {
+    "video_id": "5395244",
+    "question": "What activity is the woman engaged in at the moment?\nA. walking across the pebble creek\nB. canoeing across the pebble creek\nC. running across the pebble creek\nD. swimming across the pebble creek",
+    "answer": "A. walking across the pebble creek",
+    "dim": "action",
+    "question_length": 194,
+    "num_options": 4
+  },
+  {
+    "video_id": "1037628617",
+    "question": "What is the person doing?\nA. Pressing a keyboard key and rotating a jog dial\nB. clicking button and rolling wheel on a mouse\nC. Tapping a touchpad and scrolling with two fingers",
+    "answer": "B. clicking button and rolling wheel on a mouse",
+    "dim": "action",
+    "question_length": 177,
+    "num_options": 3
+  },
+  {
+    "video_id": "1037628617",
+    "question": "What is the person's action in the video?\nA. Tapping a touchpad and scrolling with two fingers\nB. Pressing a keyboard key and rotating a jog dial\nC. clicking button and rolling wheel on a mouse",
+    "answer": "C. clicking button and rolling wheel on a mouse",
+    "dim": "action",
+    "question_length": 193,
+    "num_options": 3
+  },
+  {
+    "video_id": "1037628617",
+    "question": "In the video, what is the person engaged in?\nA. Pressing a keyboard key and rotating a jog dial\nB. clicking button and rolling wheel on a mouse\nC. Tapping a touchpad and scrolling with two fingers",
+    "answer": "B. clicking button and rolling wheel on a mouse",
+    "dim": "action",
+    "question_length": 196,
+    "num_options": 3
+  },
+  {
+    "video_id": "1066801717",
+    "question": "What is the woman doing in the video?\nA. watering bouquet of daffodils\nB. arranging bouquet of daffodils\nC. cutting bouquet of daffodils",
+    "answer": "B. arranging bouquet of daffodils",
+    "dim": "action",
+    "question_length": 136,
+    "num_options": 3
+  },
+  {
+    "video_id": "1066801717",
+    "question": "Which action is being performed by the woman?\nA. cutting bouquet of daffodils\nB. arranging bouquet of daffodils\nC. watering bouquet of daffodils",
+    "answer": "B. arranging bouquet of daffodils",
+    "dim": "action",
+    "question_length": 144,
+    "num_options": 3
+  },
+  {
+    "video_id": "1066801717",
+    "question": "What activity can be seen in the video involving the woman?\nA. arranging bouquet of daffodils\nB. watering bouquet of daffodils\nC. cutting bouquet of daffodils",
+    "answer": "A. arranging bouquet of daffodils",
+    "dim": "action",
+    "question_length": 158,
+    "num_options": 3
+  },
+  {
+    "video_id": "1088428381",
+    "question": "What is the woman doing in the video?\nA. storing items in a gift box\nB. opening a gift box\nC. wrapping a gift box\nD. delivering a gift box",
+    "answer": "B. opening a gift box",
+    "dim": "action",
+    "question_length": 138,
+    "num_options": 4
+  },
+  {
+    "video_id": "1088428381",
+    "question": "What action is the woman performing?\nA. wrapping a gift box\nB. delivering a gift box\nC. opening a gift box\nD. storing items in a gift box",
+    "answer": "C. opening a gift box",
+    "dim": "action",
+    "question_length": 137,
+    "num_options": 4
+  },
+  {
+    "video_id": "1088428381",
+    "question": "In the video, what action can be observed from the woman?\nA. storing items in a gift box\nB. delivering a gift box\nC. wrapping a gift box\nD. opening a gift box",
+    "answer": "D. opening a gift box",
+    "dim": "action",
+    "question_length": 158,
+    "num_options": 4
+  },
+  {
+    "video_id": "1069593640",
+    "question": "What is the woman doing in the video?\nA. drying hair with a towel\nB. washing face with a towel\nC. putting a towel on her neck",
+    "answer": "C. putting a towel on her neck",
+    "dim": "action",
+    "question_length": 125,
+    "num_options": 3
+  },
+  {
+    "video_id": "1069593640",
+    "question": "What action is being performed by the woman?\nA. putting a towel on her neck\nB. drying hair with a towel\nC. washing face with a towel",
+    "answer": "A. putting a towel on her neck",
+    "dim": "action",
+    "question_length": 132,
+    "num_options": 3
+  },
+  {
+    "video_id": "1069593640",
+    "question": "Which of the following actions is shown in the video?\nA. putting a towel on her neck\nB. drying hair with a towel\nC. washing face with a towel",
+    "answer": "A. putting a towel on her neck",
+    "dim": "action",
+    "question_length": 141,
+    "num_options": 3
+  },
+  {
+    "video_id": "15439453",
+    "question": "What activities are being performed simultaneously in the video?\nA. Tango dancing and playing piano\nB. Ballet dancing and playing saxophone\nC. Tango dancing and playing violin\nD. Tango dancing and playing saxophone",
+    "answer": "D. Tango dancing and playing saxophone",
+    "dim": "action",
+    "question_length": 214,
+    "num_options": 4
+  },
+  {
+    "video_id": "15439453",
+    "question": "Which two actions are depicted in the video?\nA. Tango dancing and playing piano\nB. Tango dancing and playing saxophone\nC. Ballet dancing and playing saxophone\nD. Tango dancing and playing violin",
+    "answer": "B. Tango dancing and playing saxophone",
+    "dim": "action",
+    "question_length": 194,
+    "num_options": 4
+  },
+  {
+    "video_id": "15439453",
+    "question": "Who is playing saxophone in the video?\nA. A boy\nB. A couple\nC. A girl",
+    "answer": "C. A girl",
+    "dim": "action",
+    "question_length": 69,
+    "num_options": 3
+  },
+  {
+    "video_id": "1107947873",
+    "question": "What is the doctor doing in the scenario?\nA. writing a prescription\nB. giving medicine to a patient\nC. performing a surgery",
+    "answer": "B. giving medicine to a patient",
+    "dim": "action",
+    "question_length": 123,
+    "num_options": 3
+  },
+  {
+    "video_id": "1107947873",
+    "question": "What is the primary role of the doctor in the scene?\nA. giving medicine to a patient\nB. checking vitals\nC. greeting patients",
+    "answer": "A. giving medicine to a patient",
+    "dim": "action",
+    "question_length": 124,
+    "num_options": 3
+  },
+  {
+    "video_id": "1107947873",
+    "question": "Which activity can be seen in the video involving the doctor?\nA. writing a prescription\nB. giving medicine to a patient\nC. performing a surgery",
+    "answer": "B. giving medicine to a patient",
+    "dim": "action",
+    "question_length": 143,
+    "num_options": 3
+  },
+  {
+    "video_id": "1081194848",
+    "question": "What is the researcher doing in the video?\nA. teaching children how to cook a frog\nB. teaching children how to feed a frog\nC. teaching children how to dissect a frog\nD. teaching children how to catch a frog",
+    "answer": "C. teaching children how to dissect a frog",
+    "dim": "action",
+    "question_length": 206,
+    "num_options": 4
+  },
+  {
+    "video_id": "1081194848",
+    "question": "What activity are the people engaged in?\nA. dissect a frog\nB. feed a frog\nC. cook a frog\nD. catch a frog",
+    "answer": "A. dissect a frog",
+    "dim": "action",
+    "question_length": 104,
+    "num_options": 4
+  },
+  {
+    "video_id": "1081194848",
+    "question": "What task is the researcher performing with the children?\nA. cook a frog\nB. dissect a frog\nC. feed a frog\nD. catch a frog",
+    "answer": "B. dissect a frog",
+    "dim": "action",
+    "question_length": 121,
+    "num_options": 4
+  },
+  {
+    "video_id": "1091526823",
+    "question": "What is happening to the hand in the video?\nA. opening a book\nB. writing on a book\nC. turning over pages of a book\nD. closing a book",
+    "answer": "C. turning over pages of a book",
+    "dim": "action",
+    "question_length": 132,
+    "num_options": 4
+  },
+  {
+    "video_id": "1091526823",
+    "question": "What action is the hand performing?\nA. opening a book\nB. writing on a book\nC. closing a book\nD. turning over pages of a book",
+    "answer": "D. turning over pages of a book",
+    "dim": "action",
+    "question_length": 124,
+    "num_options": 4
+  },
+  {
+    "video_id": "1091526823",
+    "question": "What is the hand doing?\nA. opening a book\nB. writing on a book\nC. closing a book\nD. turning over pages of a book",
+    "answer": "D. turning over pages of a book",
+    "dim": "action",
+    "question_length": 112,
+    "num_options": 4
+  },
+  {
+    "video_id": "1104663381",
+    "question": "What is the man doing in the video?\nA. cutting a pizza dough\nB. stretching a pizza dough\nC. folding a pizza dough",
+    "answer": "B. stretching a pizza dough",
+    "dim": "action",
+    "question_length": 113,
+    "num_options": 3
+  },
+  {
+    "video_id": "1104663381",
+    "question": "What activity is the man engaged in while being filmed?\nA. cutting a pizza dough\nB. stretching a pizza dough\nC. folding a pizza dough",
+    "answer": "B. stretching a pizza dough",
+    "dim": "action",
+    "question_length": 133,
+    "num_options": 3
+  },
+  {
+    "video_id": "1104663381",
+    "question": "What is the man's action depicted in the video?\nA. cutting a pizza dough\nB. stretching a pizza dough\nC. folding a pizza dough",
+    "answer": "B. stretching a pizza dough",
+    "dim": "action",
+    "question_length": 125,
+    "num_options": 3
+  },
+  {
+    "video_id": "22100041",
+    "question": "What is the woman doing in the video?\nA. waving goodbye\nB. clapping her hands\nC. doing an invitation gesture\nD. pointing towards something",
+    "answer": "C. doing an invitation gesture",
+    "dim": "action",
+    "question_length": 138,
+    "num_options": 4
+  },
+  {
+    "video_id": "22100041",
+    "question": "Which action is the woman performing?\nA. waving goodbye\nB. pointing towards something\nC. clapping her hands\nD. doing an invitation gesture",
+    "answer": "D. doing an invitation gesture",
+    "dim": "action",
+    "question_length": 138,
+    "num_options": 4
+  },
+  {
+    "video_id": "22100041",
+    "question": "When captured on video, what action is the woman engaged in?\nA. waving goodbye\nB. doing an invitation gesture\nC. pointing towards something\nD. clapping her hands",
+    "answer": "B. doing an invitation gesture",
+    "dim": "action",
+    "question_length": 161,
+    "num_options": 4
+  },
+  {
+    "video_id": "1103623921",
+    "question": "What is the man doing in the video?\nA. playing pool\nB. playing football\nC. cooking",
+    "answer": "A. playing pool",
+    "dim": "action",
+    "question_length": 82,
+    "num_options": 3
+  },
+  {
+    "video_id": "1103623921",
+    "question": "What activity is the man engaged in?\nA. sleeping\nB. dancing\nC. playing pool",
+    "answer": "C. playing pool",
+    "dim": "action",
+    "question_length": 75,
+    "num_options": 3
+  },
+  {
+    "video_id": "1103623921",
+    "question": "Which action is the man performing?\nA. swimming\nB. playing pool\nC. reading books",
+    "answer": "B. playing pool",
+    "dim": "action",
+    "question_length": 80,
+    "num_options": 3
+  },
+  {
+    "video_id": "1093338031",
+    "question": "What is the man attempting to do?\nA. click a computer screen\nB. fix a computer screen\nC. clean a computer screen\nD. punch a computer screen",
+    "answer": "D. punch a computer screen",
+    "dim": "action",
+    "question_length": 139,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093338031",
+    "question": "Which action is the man trying to perform?\nA. fix a computer screen\nB. clean a computer screen\nC. click a computer screen\nD. punch a computer screen",
+    "answer": "D. punch a computer screen",
+    "dim": "action",
+    "question_length": 148,
+    "num_options": 4
+  },
+  {
+    "video_id": "1093338031",
+    "question": "What is the man's activity in the video?\nA. Attempting to punch a computer screen\nB. Attempting to fix a computer screen\nC. Attempting to clean a computer screen\nD. Attempting to click a computer screen",
+    "answer": "A. Attempting to punch a computer screen",
+    "dim": "action",
+    "question_length": 202,
+    "num_options": 4
+  },
+  {
+    "video_id": "1064310466",
+    "question": "What is the man doing?\nA. watering cocoa seeds\nB. planting cocoa seeds\nC. baking cocoa seeds\nD. peeling cocoa seeds",
+    "answer": "D. peeling cocoa seeds",
+    "dim": "action",
+    "question_length": 115,
+    "num_options": 4
+  },
+  {
+    "video_id": "1064310466",
+    "question": "Which activity is the man involved in?\nA. baking cocoa seeds\nB. watering cocoa seeds\nC. peeling cocoa seeds\nD. planting cocoa seeds",
+    "answer": "C. peeling cocoa seeds",
+    "dim": "action",
+    "question_length": 131,
+    "num_options": 4
+  },
+  {
+    "video_id": "1064310466",
+    "question": "What action is the man performing?\nA. planting cocoa seeds\nB. watering cocoa seeds\nC. baking cocoa seeds\nD. peeling cocoa seeds",
+    "answer": "D. peeling cocoa seeds",
+    "dim": "action",
+    "question_length": 127,
+    "num_options": 4
+  },
+  {
+    "video_id": "1106087175",
+    "question": "What is the man doing in the video?\nA. wearing a white sneaker\nB. drawing on a white sneaker\nC. taking off a white sneaker\nD. tying shoelaces on a white sneaker",
+    "answer": "B. drawing on a white sneaker",
+    "dim": "action",
+    "question_length": 160,
+    "num_options": 4
+  },
+  {
+    "video_id": "1106087175",
+    "question": "What activity is the man engaged in?\nA. drawing on a white sneaker\nB. taking off a white sneaker\nC. tying shoelaces on a white sneaker\nD. wearing a white sneaker",
+    "answer": "A. drawing on a white sneaker",
+    "dim": "action",
+    "question_length": 161,
+    "num_options": 4
+  },
+  {
+    "video_id": "1106087175",
+    "question": "Which action can be observed in the video?\nA. drawing on a white sneaker\nB. taking off a white sneaker\nC. wearing a white sneaker\nD. tying shoelaces on a white sneaker",
+    "answer": "A. drawing on a white sneaker",
+    "dim": "action",
+    "question_length": 167,
+    "num_options": 4
+  },
+  {
+    "video_id": "1083624811",
+    "question": "What is the woman doing in the exercise?\nA. performing push-ups\nB. performing alternating leg lift plank\nC. performing a traditional plank hold\nD. performing side plank variations",
+    "answer": "B. performing alternating leg lift plank",
+    "dim": "action",
+    "question_length": 179,
+    "num_options": 4
+  },
+  {
+    "video_id": "1083624811",
+    "question": "Which action is the woman carrying out?\nA. performing side plank variations\nB. performing a traditional plank hold\nC. performing alternating leg lift plank\nD. performing push-ups",
+    "answer": "C. performing alternating leg lift plank",
+    "dim": "action",
+    "question_length": 178,
+    "num_options": 4
+  },
+  {
+    "video_id": "1083624811",
+    "question": "What activity is the woman engaged in?\nA. performing alternating leg lift plank\nB. performing push-ups\nC. performing a traditional plank hold\nD. performing side plank variations",
+    "answer": "A. performing alternating leg lift plank",
+    "dim": "action",
+    "question_length": 177,
+    "num_options": 4
+  },
+  {
+    "video_id": "1066238617",
+    "question": "What is the woman doing?\nA. dancing\nB. practising her punches\nC. cooking",
+    "answer": "B. practising her punches",
+    "dim": "action",
+    "question_length": 72,
+    "num_options": 3
+  },
+  {
+    "video_id": "1066238617",
+    "question": "What activity is the woman engaged in?\nA. singing\nB. practising her punches\nC. swimming",
+    "answer": "B. practising her punches",
+    "dim": "action",
+    "question_length": 87,
+    "num_options": 3
+  },
+  {
+    "video_id": "1066238617",
+    "question": "Which action is the woman performing?\nA. playing chess\nB. practising her punches\nC. writing",
+    "answer": "B. practising her punches",
+    "dim": "action",
+    "question_length": 91,
+    "num_options": 3
+  },
+  {
+    "video_id": "1072000366",
+    "question": "What are the girls doing to each other?\nA. elbowing each other\nB. giving high five to each other\nC. waving at each other\nD. shaking hands",
+    "answer": "A. elbowing each other",
+    "dim": "action",
+    "question_length": 137,
+    "num_options": 4
+  },
+  {
+    "video_id": "1072000366",
+    "question": "Which action are the girls engaged in?\nA. waving at each other\nB. shaking hands\nC. giving high five to each other\nD. elbowing each other",
+    "answer": "D. elbowing each other",
+    "dim": "action",
+    "question_length": 136,
+    "num_options": 4
+  },
+  {
+    "video_id": "1072000366",
+    "question": "What activity are the girls involved in?\nA. waving at each other\nB. shaking hands\nC. giving high five to each other\nD. elbowing each other",
+    "answer": "D. elbowing each other",
+    "dim": "action",
+    "question_length": 138,
+    "num_options": 4
+  },
+  {
+    "video_id": "1065272113",
+    "question": "What is the doctor doing to the woman?\nA. taking her blood pressure\nB. checking her temperature\nC. giving her an injection",
+    "answer": "C. giving her an injection",
+    "dim": "action",
+    "question_length": 122,
+    "num_options": 3
+  },
+  {
+    "video_id": "1065272113",
+    "question": "What action is the doctor performing on the woman?\nA. applying bandage\nB. writing a prescription\nC. giving an injection",
+    "answer": "C. giving an injection",
+    "dim": "action",
+    "question_length": 119,
+    "num_options": 3
+  },
+  {
+    "video_id": "1065272113",
+    "question": "Which of the following actions is the doctor engaged in?\nA. writing a prescription\nB. giving an injection\nC. applying bandage",
+    "answer": "B. giving an injection",
+    "dim": "action",
+    "question_length": 125,
+    "num_options": 3
+  },
+  {
+    "video_id": "1072971926",
+    "question": "What is the man doing with the pizza box?\nA. opening the pizza box\nB. wrapping the pizza box\nC. eating the pizza\nD. closing the pizza box",
+    "answer": "A. opening the pizza box",
+    "dim": "action",
+    "question_length": 137,
+    "num_options": 4
+  },
+  {
+    "video_id": "1072971926",
+    "question": "What action is being performed by the man?\nA. closing the pizza box\nB. eating the pizza\nC. wrapping the pizza box\nD. opening the pizza box",
+    "answer": "D. opening the pizza box",
+    "dim": "action",
+    "question_length": 138,
+    "num_options": 4
+  },
+  {
+    "video_id": "1072971926",
+    "question": "Which of the following actions is the man engaged in?\nA. opening the pizza box\nB. eating the pizza\nC. wrapping the pizza box\nD. closing the pizza box",
+    "answer": "A. opening the pizza box",
+    "dim": "action",
+    "question_length": 149,
+    "num_options": 4
+  },
+  {
+    "video_id": "3399348431",
+    "question": "What is the person doing with the sauce?\nA. mixing it with the vegetables\nB. squeezing it into a bowl of vegetables\nC. dipping vegetables in it",
+    "answer": "B. squeezing it into a bowl of vegetables",
+    "dim": "action",
+    "question_length": 143,
+    "num_options": 3
+  },
+  {
+    "video_id": "3399348431",
+    "question": "What is the video showing?\nA. dipping vegetables on the sauce\nB. squeezing the sauce into a bowl of vegetables\nC. mixing sauce with the vegetables",
+    "answer": "B. squeezing the sauce into a bowl of vegetables",
+    "dim": "action",
+    "question_length": 146,
+    "num_options": 3
+  },
+  {
+    "video_id": "3399348431",
+    "question": "What action is being performed with the sauce?\nA. squeezing it into a bowl of vegetables\nB. dipping vegetables in it\nC. mixing it with the vegetables",
+    "answer": "A. squeezing it into a bowl of vegetables",
+    "dim": "action",
+    "question_length": 149,
+    "num_options": 3
+  },
+  {
+    "video_id": "1025137214",
+    "question": "What is the man doing?\nA. walking\nB. smoking cigarette\nC. talking on the phone",
+    "answer": "B. smoking cigarette",
+    "dim": "action",
+    "question_length": 78,
+    "num_options": 3
+  },
+  {
+    "video_id": "1025137214",
+    "question": "What action is the man engaged in?\nA. reading a book\nB. smoking cigarette\nC. writing a letter",
+    "answer": "B. smoking cigarette",
+    "dim": "action",
+    "question_length": 93,
+    "num_options": 3
+  },
+  {
+    "video_id": "1025137214",
+    "question": "Which activity is the man involved in?\nA. playing soccer\nB. smoking cigarette\nC. cooking a meal",
+    "answer": "B. smoking cigarette",
+    "dim": "action",
+    "question_length": 95,
+    "num_options": 3
+  },
+  {
+    "video_id": "1033101626",
+    "question": "What is the man doing?\nA. cooking\nB. singing\nC. playing instrument",
+    "answer": "C. playing instrument",
+    "dim": "action",
+    "question_length": 66,
+    "num_options": 3
+  },
+  {
+    "video_id": "1033101626",
+    "question": "What activity is the man engaged in?\nA. dancing\nB. reading\nC. playing instrument",
+    "answer": "C. playing instrument",
+    "dim": "action",
+    "question_length": 80,
+    "num_options": 3
+  },
+  {
+    "video_id": "1033101626",
+    "question": "Which action is the man performing?\nA. walking\nB. sleeping\nC. playing instrument",
+    "answer": "C. playing instrument",
+    "dim": "action",
+    "question_length": 80,
+    "num_options": 3
+  },
+  {
+    "video_id": "9537677",
+    "question": "What activity is the woman engaged in?\nA. reading a book\nB. watching TV\nC. playing tablet\nD. cooking",
+    "answer": "C. playing tablet",
+    "dim": "action",
+    "question_length": 100,
+    "num_options": 4
+  },
+  {
+    "video_id": "9537677",
+    "question": "What is the woman's action in the video?\nA. playing tablet\nB. dancing\nC. painting\nD. driving",
+    "answer": "A. playing tablet",
+    "dim": "action",
+    "question_length": 92,
+    "num_options": 4
+  },
+  {
+    "video_id": "9537677",
+    "question": "What is the main focus of the woman's attention?\nA. listening to music\nB. playing tablet\nC. talking on the phone\nD. cooking",
+    "answer": "B. playing tablet",
+    "dim": "action",
+    "question_length": 123,
+    "num_options": 4
+  },
+  {
+    "video_id": "1077388994",
+    "question": "What action is the woman performing?\nA. singing\nB. dancing\nC. patting the baby",
+    "answer": "C. patting the baby",
+    "dim": "action",
+    "question_length": 78,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077388994",
+    "question": "What activity is the woman engaged in?\nA. cooking dinner\nB. gardening\nC. patting the baby",
+    "answer": "C. patting the baby",
+    "dim": "action",
+    "question_length": 89,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077388994",
+    "question": "Which of the following is the woman doing?\nA. writing a letter\nB. reading a book\nC. patting the baby",
+    "answer": "C. patting the baby",
+    "dim": "action",
+    "question_length": 100,
+    "num_options": 3
+  },
+  {
+    "video_id": "1037531786",
+    "question": "What are the two men doing in the video?\nA. dancing\nB. cooking\nC. boxing\nD. painting",
+    "answer": "C. boxing",
+    "dim": "action",
+    "question_length": 84,
+    "num_options": 4
+  },
+  {
+    "video_id": "1037531786",
+    "question": "Which physical activity are the two men engaged in?\nA. swimming\nB. running\nC. boxing\nD. cycling",
+    "answer": "C. boxing",
+    "dim": "action",
+    "question_length": 95,
+    "num_options": 4
+  },
+  {
+    "video_id": "1037531786",
+    "question": "What sport are the two men participating in?\nA. basketball\nB. football\nC. boxing\nD. tennis",
+    "answer": "C. boxing",
+    "dim": "action",
+    "question_length": 90,
+    "num_options": 4
+  },
+  {
+    "video_id": "1077275024",
+    "question": "What is the girl doing in the video?\nA. Jumping with a man playing ukulele\nB. Dancing with a man playing ukulele\nC. Clapping hands for a man playing ukulele",
+    "answer": "C. Clapping hands for a man playing ukulele",
+    "dim": "action",
+    "question_length": 156,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077275024",
+    "question": "What activity is the girl engaged in?\nA. Sitting and watching a man play the ukulele\nB. Playing the ukulele alongside the man\nC. Clapping hands for a man playing ukulele",
+    "answer": "C. Clapping hands for a man playing ukulele",
+    "dim": "action",
+    "question_length": 169,
+    "num_options": 3
+  },
+  {
+    "video_id": "1077275024",
+    "question": "What action is the girl performing?\nA. Recording the man playing the ukulele\nB. Dancing with a man playing ukulele\nC. Clapping hands for a man playing ukulele",
+    "answer": "C. Clapping hands for a man playing ukulele",
+    "dim": "action",
+    "question_length": 158,
+    "num_options": 3
+  },
+  {
+    "video_id": "1107180099",
+    "question": "What are the women doing?\nA. singing\nB. painting\nC. dancing\nD. cooking",
+    "answer": "C. dancing",
+    "dim": "action",
+    "question_length": 70,
+    "num_options": 4
+  },
+  {
+    "video_id": "1107180099",
+    "question": "Which activity are the women engaged in?\nA. swimming\nB. playing basketball\nC. dancing\nD. gardening",
+    "answer": "C. dancing",
+    "dim": "action",
+    "question_length": 98,
+    "num_options": 4
+  },
+  {
+    "video_id": "1107180099",
+    "question": "What is the primary action of the group of women?\nA. playing football\nB. dancing\nC. reading\nD. skiing",
+    "answer": "B. dancing",
+    "dim": "action",
+    "question_length": 101,
+    "num_options": 4
+  },
+  {
+    "video_id": "1049434159",
+    "question": "What are the parents and daughter doing together?\nA. cooking dinner\nB. playing video games\nC. reading a book",
+    "answer": "B. playing video games",
+    "dim": "action",
+    "question_length": 108,
+    "num_options": 3
+  },
+  {
+    "video_id": "1049434159",
+    "question": "What activity are the parents and daughter engaged in?\nA. hiking\nB. playing video games\nC. dancing",
+    "answer": "B. playing video games",
+    "dim": "action",
+    "question_length": 98,
+    "num_options": 3
+  },
+  {
+    "video_id": "1049434159",
+    "question": "Which of the following actions are the parents and daughter involved in?\nA. painting\nB. playing video games\nC. gardening",
+    "answer": "B. playing video games",
+    "dim": "action",
+    "question_length": 120,
+    "num_options": 3
+  },
+  {
+    "video_id": "3402234027",
+    "question": "What is the cat doing in the video?\nA. sleeping\nB. playing with a toy\nC. eating food",
+    "answer": "C. eating food",
+    "dim": "action",
+    "question_length": 84,
+    "num_options": 3
+  },
+  {
+    "video_id": "3402234027",
+    "question": "Which activity is the cat engaged in?\nA. swimming\nB. climbing a tree\nC. eating food",
+    "answer": "C. eating food",
+    "dim": "action",
+    "question_length": 83,
+    "num_options": 3
+  },
+  {
+    "video_id": "3402234027",
+    "question": "What action is the cat performing?\nA. running on the ground\nB. sitting on a chair\nC. eating food on the ground",
+    "answer": "C. eating food on the ground",
+    "dim": "action",
+    "question_length": 110,
+    "num_options": 3
+  },
+  {
+    "video_id": "1056491306",
+    "question": "What are the passengers doing on the subway?\nA. sleeping on the bed\nB. standing in a room\nC. taking a seat on subway\nD. dancing on the stage",
+    "answer": "C. taking a seat on subway",
+    "dim": "action",
+    "question_length": 140,
+    "num_options": 4
+  },
+  {
+    "video_id": "1056491306",
+    "question": "What activity are the passengers engaged in while on the subway train?\nA. talking\nB. reading\nC. taking a seat\nD. eating",
+    "answer": "C. taking a seat",
+    "dim": "action",
+    "question_length": 119,
+    "num_options": 4
+  },
+  {
+    "video_id": "1056491306",
+    "question": "Which action are the passengers performing inside the subway?\nA. running on a treadmill\nB. walking on the street\nC. taking a seat on subway\nD. jumping on the floor",
+    "answer": "C. taking a seat on subway",
+    "dim": "action",
+    "question_length": 163,
+    "num_options": 4
+  },
+  {
+    "video_id": "1012085909",
+    "question": "What are the people doing in the video?\nA. rolling boats on the lake\nB. walking on the street\nC. pushing bikes up a hill",
+    "answer": "C. pushing bikes up a hill",
+    "dim": "action",
+    "question_length": 120,
+    "num_options": 3
+  },
+  {
+    "video_id": "1012085909",
+    "question": "How are the people moving?\nA. running\nB. swimming\nC. pushing bikes",
+    "answer": "C. pushing bikes",
+    "dim": "action",
+    "question_length": 66,
+    "num_options": 3
+  },
+  {
+    "video_id": "1012085909",
+    "question": "What is the main activity of the people?\nA. rollerblading\nB. playing basketball\nC. pushing bikes",
+    "answer": "C. pushing bikes",
+    "dim": "action",
+    "question_length": 96,
+    "num_options": 3
+  },
+  {
+    "video_id": "1079406734",
+    "question": "What is the man doing to the car in the video?\nA. riding bikes\nB. taking a shower\nC. washing the car\nD. driving the car",
+    "answer": "C. washing the car",
+    "dim": "action",
+    "question_length": 119,
+    "num_options": 4
+  },
+  {
+    "video_id": "1079406734",
+    "question": "Which of the following actions is being performed by the man?\nA. feeding a dog\nB. reading a book\nC. washing the car\nD. playing the guitar",
+    "answer": "C. washing the car",
+    "dim": "action",
+    "question_length": 137,
+    "num_options": 4
+  },
+  {
+    "video_id": "1079406734",
+    "question": "In the video, what activity is the man engaged in?\nA. dancing\nB. sleeping\nC. washing the car\nD. cooking",
+    "answer": "C. washing the car",
+    "dim": "action",
+    "question_length": 103,
+    "num_options": 4
+  },
+  {
+    "video_id": "1071214909",
+    "question": "What is the person doing on the wood surface?\nA. carving a design\nB. measuring the length\nC. drawing a cutting line\nD. sanding the surface",
+    "answer": "C. drawing a cutting line",
+    "dim": "action",
+    "question_length": 138,
+    "num_options": 4
+  },
+  {
+    "video_id": "1071214909",
+    "question": "What is the action performed by the person?\nA. drawing a cuttting line on a wood surface\nB. erasing a line on a wood surface\nC. carving a pattern on a wood surface\nD. measuring length on a wood surface",
+    "answer": "A. drawing a cuttting line on a wood surface",
+    "dim": "action",
+    "question_length": 201,
+    "num_options": 4
+  },
+  {
+    "video_id": "1071214909",
+    "question": "What is the video about?\nA. drawing a cuttting line on a wood surface\nB. erasing a line on a wood surface\nC. carving a pattern on a wood surface\nD. measuring length on a wood surface",
+    "answer": "A. drawing a cuttting line on a wood surface",
+    "dim": "action",
+    "question_length": 182,
+    "num_options": 4
+  },
+  {
+    "video_id": "1092065543",
+    "question": "What is the man doing?\nA. eating\nB. shopping\nC. sleeping\nD. running",
+    "answer": "B. shopping",
+    "dim": "action",
+    "question_length": 67,
+    "num_options": 4
+  },
+  {
+    "video_id": "1092065543",
+    "question": "Which activity is the man engaged in?\nA. cooking\nB. gardening\nC. shopping\nD. painting",
+    "answer": "C. shopping",
+    "dim": "action",
+    "question_length": 85,
+    "num_options": 4
+  },
+  {
+    "video_id": "1092065543",
+    "question": "In the video, what can we see the man doing?\nA. singing\nB. dancing\nC. shopping\nD. playing guitar",
+    "answer": "C. shopping",
+    "dim": "action",
+    "question_length": 96,
+    "num_options": 4
+  },
+  {
+    "video_id": "1017063703",
+    "question": "What is the person doing in the video?\nA. baking cakes\nB. decorating cakes\nC. cutting cakes\nD. presenting cakes to guests",
+    "answer": "B. decorating cakes",
+    "dim": "action",
+    "question_length": 121,
+    "num_options": 4
+  },
+  {
+    "video_id": "1017063703",
+    "question": "What action is demonstrated in the video?\nA. baking cakes\nB. decorating cakes\nC. cutting cakes\nD. presenting cakes to guests",
+    "answer": "B. decorating cakes",
+    "dim": "action",
+    "question_length": 124,
+    "num_options": 4
+  },
+  {
+    "video_id": "1017063703",
+    "question": "What task is being performed in the footage?\nA. baking cakes\nB. decorating cakes\nC. cutting cakes\nD. presenting cakes to guests",
+    "answer": "B. decorating cakes",
+    "dim": "action",
+    "question_length": 127,
+    "num_options": 4
+  },
+  {
+    "video_id": "1055022287",
+    "question": "What is the man doing in the video?\nA. cooking\nB. singing\nC. cleaning a swimming pool",
+    "answer": "C. cleaning a swimming pool",
+    "dim": "action",
+    "question_length": 85,
+    "num_options": 3
+  },
+  {
+    "video_id": "1055022287",
+    "question": "Which activity is being performed by the man in the video?\nA. dancing\nB. playing basketball\nC. cleaning a swimming pool",
+    "answer": "C. cleaning a swimming pool",
+    "dim": "action",
+    "question_length": 119,
+    "num_options": 3
+  },
+  {
+    "video_id": "1055022287",
+    "question": "What action is the man undertaking?\nA. reading\nB. sleeping\nC. cleaning a swimming pool",
+    "answer": "C. cleaning a swimming pool",
+    "dim": "action",
+    "question_length": 86,
+    "num_options": 3
+  },
+  {
+    "video_id": "1094259081",
+    "question": "What is the woman doing in the video?\nA. watching VR movie\nB. listening to music using VR\nC. playing VR shooting game\nD. working out using VR",
+    "answer": "C. playing VR shooting game",
+    "dim": "action",
+    "question_length": 141,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094259081",
+    "question": "What action is the woman engaged in?\nA. watching VR movie\nB. listening to music using VR\nC. playing VR shooting game\nD. working out using VR",
+    "answer": "C. playing VR shooting game",
+    "dim": "action",
+    "question_length": 140,
+    "num_options": 4
+  },
+  {
+    "video_id": "1094259081",
+    "question": "Which activity is the woman participating in?\nA. watching VR movie\nB. listening to music using VR\nC. playing VR shooting game\nD. working out using VR",
+    "answer": "C. playing VR shooting game",
+    "dim": "action",
+    "question_length": 149,
+    "num_options": 4
+  },
+  {
+    "video_id": "1022260408",
+    "question": "What is the squirrel doing in the video?\nA. sleeping\nB. running\nC. eating food",
+    "answer": "C. eating food",
+    "dim": "action",
+    "question_length": 78,
+    "num_options": 3
+  },
+  {
+    "video_id": "1022260408",
+    "question": "What activity is the squirrel engaged in?\nA. chasing its tail\nB. cleaning itself\nC. eating food",
+    "answer": "C. eating food",
+    "dim": "action",
+    "question_length": 95,
+    "num_options": 3
+  },
+  {
+    "video_id": "1022260408",
+    "question": "Which of the following actions is the squirrel performing?\nA. climbing a tree\nB. swimming in a pond\nC. eating food",
+    "answer": "C. eating food",
+    "dim": "action",
+    "question_length": 114,
+    "num_options": 3
+  },
+  {
+    "video_id": "1089810969",
+    "question": "How does the little girl interact with the woman?\nA. she runs towards her and hugs her\nB. she walks towards her and hug her\nC. she runs towards her and jumps on her back\nD. she runs towards her and talks to her",
+    "answer": "A. she runs towards her and hugs her",
+    "dim": "action",
+    "question_length": 210,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089810969",
+    "question": "What action does the little girl perform?\nA. she runs towards a woman and hugs her\nB. she walks towards a woman and hugs her\nC. she runs towards a woman and jumps on her back\nD. she runs towards a woman and talks to her",
+    "answer": "A. she runs towards a woman and hugs her",
+    "dim": "action",
+    "question_length": 219,
+    "num_options": 4
+  },
+  {
+    "video_id": "1089810969",
+    "question": "Which of the following actions is the little girl performing?\nA. she runs towards a woman and hugs her\nB. she walks towards a woman and hugs her\nC. she runs towards a woman and jumps on her back\nD. she runs towards a woman and talks to her",
+    "answer": "A. she runs towards a woman and hugs her",
+    "dim": "action",
+    "question_length": 239,
+    "num_options": 4
+  },
+  {
+    "video_id": "6165731",
+    "question": "What is the scientist doing in the experiment?\nA. observing quietly on the experiment\nB. leisurely conducting experiments\nC. looking confused and frustrated about the experiment",
+    "answer": "C. looking confused and frustrated about the experiment",
+    "dim": "action",
+    "question_length": 177,
+    "num_options": 3
+  },
+  {
+    "video_id": "6165731",
+    "question": "How does the scientist feel about the experiment?\nA. excited and motivated\nB. bored and disinterested\nC. confused and frustrated",
+    "answer": "C. confused and frustrated",
+    "dim": "action",
+    "question_length": 128,
+    "num_options": 3
+  },
+  {
+    "video_id": "6165731",
+    "question": "What is the emotional state of the scientist during the experiment?\nA. calm and content\nB. happy and satisfied\nC. confused and frustrated",
+    "answer": "C. confused and frustrated",
+    "dim": "action",
+    "question_length": 137,
+    "num_options": 3
+  },
+  {
+    "video_id": "1111469465",
+    "question": "What is the man doing in the video?\nA. raising his arm to look at the watch looking happy\nB. raising his arm to look at the watch looking calm\nC. raising his arm to look at the watch looking anxious\nD. putting his hands in his pockets looking anxious",
+    "answer": "C. raising his arm to look at the watch looking anxious",
+    "dim": "action",
+    "question_length": 250,
+    "num_options": 4
+  },
+  {
+    "video_id": "1111469465",
+    "question": "What action is being performed by the man?\nA. raising his arm to look at the watch looking happy\nB. raising his arm to look at the watch looking calm\nC. raising his arm to look at the watch looking anxious\nD. putting his hands in his pockets looking anxious",
+    "answer": "C. raising his arm to look at the watch looking anxious",
+    "dim": "action",
+    "question_length": 257,
+    "num_options": 4
+  },
+  {
+    "video_id": "1111469465",
+    "question": "In the video, what is the man's action?\nA. raising his arm to look at the watch looking happy\nB. raising his arm to look at the watch looking calm\nC. raising his arm to look at the watch looking anxious\nD. putting his hands in his pockets looking anxious",
+    "answer": "C. raising his arm to look at the watch looking anxious",
+    "dim": "action",
+    "question_length": 254,
+    "num_options": 4
+  },
+  {
+    "video_id": "1050000214",
+    "question": "What action is the little child performing?\nA. Running\nB. Swimming\nC. Water jumping\nD. Dancing",
+    "answer": "C. Water jumping",
+    "dim": "action",
+    "question_length": 94,
+    "num_options": 4
+  },
+  {
+    "video_id": "1050000214",
+    "question": "What is the little child doing in the video?\nA. Eating\nB. Sleeping\nC. Crying\nD. Water jumping",
+    "answer": "D. Water jumping",
+    "dim": "action",
+    "question_length": 93,
+    "num_options": 4
+  },
+  {
+    "video_id": "1050000214",
+    "question": "Which action is the little child engaged in?\nA. Reading\nB. Writing\nC. Singing\nD. Water jumping",
+    "answer": "D. Water jumping",
+    "dim": "action",
+    "question_length": 94,
+    "num_options": 4
+  }
+]

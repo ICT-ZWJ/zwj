@@ -1,0 +1,1598 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/216055.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/62874.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/103661.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/54495.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/197762.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/72618.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/92158.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/196602.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/47325.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/18481.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/129654.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/188239.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/98886.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/140370.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/32201.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/77208.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/5139.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/99830.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/169771.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/184572.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/69324.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/148138.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/162511.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/86575.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/86333.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/198107.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/130186.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/48710.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/57358.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/129488.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/17519.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/140317.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/218468.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/133541.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/152497.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/163441.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/217557.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/84967.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/88927.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/185743.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/6848.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/111829.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/64431.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/133624.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/182229.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/214050.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/99643.mp4"
+    ],
+    "label": "Pulling [something] from left to right",
+    "answer": "A"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/52114.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/147014.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/48456.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/29941.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/90646.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/110620.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/121844.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/29373.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/23202.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/181899.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/115717.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/167711.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/130178.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/175308.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/62873.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/24815.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/90357.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/143775.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/77092.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/158690.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/208718.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/114180.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/28528.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/156523.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/205686.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/205013.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/168785.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/220302.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a video action recognition assistant. Please watch the video careful and select the correct action from the given options. Only answer with the option letter (A or B)."
+      },
+      {
+        "role": "user",
+        "content": "<video>Which action?\nA. Pulling [something] from left to right\nB. Pulling [something] from right to left"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "videos": [
+      "/root/zhuweijie/Chirality_in_Action/test_dataset/60477.mp4"
+    ],
+    "label": "Pulling [something] from right to left",
+    "answer": "B"
+  }
+]

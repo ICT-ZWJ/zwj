@@ -1,0 +1,19 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a video action recognition assistant. Please watch the video carefully and select the correct action from the given options. Only answer with the option letter (A or B)."
+    },
+    {
+      "role": "user",
+      "content": "<video>Which action?\nA. Pulling left to right\nB. Pulling right to left"
+    },
+    {
+      "role": "assistant",
+      "content": "A"
+    }
+  ],
+  "videos": ["/root/zhuweijie/Chirality_in_Action/test_dataset/62874.mp4"],
+  "label": "Pulling left to right",
+  "answer": "A"
+}

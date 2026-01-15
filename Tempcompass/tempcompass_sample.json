@@ -1,0 +1,602 @@
+[
+  {
+    "video_id": "1034419625",
+    "question": "What is the man doing in the video?\nA. dunking a basketball\nB. dribbling a basketball\nC. passing a basketball",
+    "answer": "A. dunking a basketball",
+    "dim": "action"
+  },
+  {
+    "video_id": "1034419625",
+    "question": "Which activity is the man engaged in?\nA. passing a basketball\nB. dribbling a basketball\nC. dunking a basketball",
+    "answer": "C. dunking a basketball",
+    "dim": "action"
+  },
+  {
+    "video_id": "1034419625",
+    "question": "What action is the man performing?\nA. dribbling a basketball\nB. dunking a basketball\nC. passing a basketball",
+    "answer": "B. dunking a basketball",
+    "dim": "action"
+  },
+  {
+    "video_id": "1034419625",
+    "question": "Which of the following actions describes the man?\nA. dribbling a basketball\nB. passing a basketball\nC. dunking a basketball",
+    "answer": "C. dunking a basketball",
+    "dim": "action"
+  },
+  {
+    "video_id": "1034419625",
+    "question": "What is the direction of the man?\nA. moving towards the camera\nB. moving from left to right\nC. moving away from the camera",
+    "answer": "B. moving from left to right",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1034419625",
+    "question": "From the camera's point of view, in which direction is the man moving?\nA. away from the camera\nB. towards the camera\nC. from left to right",
+    "answer": "C. from left to right",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1034419625",
+    "question": "In relation to the camera's position, which way is the man headed?\nA. from left to right\nB. towards the camera\nC. from right to left",
+    "answer": "A. from left to right",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1034419625_reverse",
+    "question": "What is the direction of the man?\nA. moving towards the camera\nB. moving from right to left\nC. moving away from the camera\nD. moving from left to right",
+    "answer": "B. moving from right to left",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1034419625_reverse",
+    "question": "From the camera's point of view, in which direction is the man moving?\nA. away from the camera\nB. towards the camera\nC. from right to left\nD. from left to right",
+    "answer": "C. from right to left",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1034419625_reverse",
+    "question": "In relation to the camera's position, which way is the man headed?\nA. from right to left\nB. towards the camera\nC. from left to right\nD. away from the camera",
+    "answer": "A. from right to left",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1094590221",
+    "question": "What is the man doing in the video?\nA. dribbling basketball\nB. passing basketball\nC. shooting basketball\nD. dunking basketball",
+    "answer": "C. shooting basketball",
+    "dim": "action"
+  },
+  {
+    "video_id": "1094590221",
+    "question": "What activity is depicted in the video?\nA. shooting basketball\nB. dribbling basketball\nC. dunking basketball\nD. passing basketball",
+    "answer": "A. shooting basketball",
+    "dim": "action"
+  },
+  {
+    "video_id": "1094590221",
+    "question": "Which action is being performed by the man?\nA. dunking basketball\nB. dribbling basketball\nC. painting\nD. shooting basketball",
+    "answer": "D. shooting basketball",
+    "dim": "action"
+  },
+  {
+    "video_id": "1094590221",
+    "question": "What is the main action of the man in the video?\nA. dribbling basketball\nB. shooting basketball\nC. dunking basketball\nD. passing basketball",
+    "answer": "B. shooting basketball",
+    "dim": "action"
+  },
+  {
+    "video_id": "1094590221",
+    "question": "In the video, what is the man engaged in?\nA. passing basketball\nB. shooting basketball\nC. dunking basketball\nD. dribbling basketball",
+    "answer": "B. shooting basketball",
+    "dim": "action"
+  },
+  {
+    "video_id": "1094590221",
+    "question": "What direction is the basketball moving?\nA. straight ahead\nB. left to right\nC. right to left",
+    "answer": "C. right to left",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1094590221",
+    "question": "How does the basketball move in the horizontal direction?\nA. left to right\nB. right to left\nC. standing still",
+    "answer": "B. right to left",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1094590221",
+    "question": "From which side of the screen does the basketball ends moving?\nA. right top\nB. right bottom\nC. left bottom\nD. left top",
+    "answer": "C. left bottom",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1094590221_reverse",
+    "question": "What direction is the basketball moving?\nA. straight ahead\nB. left to right\nC. right to left",
+    "answer": "B. left to right",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1094590221_reverse",
+    "question": "How does the basketball move in the horizontal direction?\nA. left to right\nB. right to left\nC. standing still",
+    "answer": "A. left to right",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1094590221_reverse",
+    "question": "From which side of the screen does the basketball start moving?\nA. right top\nB. right bottom\nC. left bottom\nD. left top",
+    "answer": "C. left bottom",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1098982673",
+    "question": "What is the woman doing?\nA. Eating and singing\nB. Dancing and singing\nC. Sleeping and singing\nD. Running and singing",
+    "answer": "B. Dancing and singing",
+    "dim": "action"
+  },
+  {
+    "video_id": "1098982673",
+    "question": "What can be observed about the woman?\nA. She is cooking meal\nB. She is dancing and singing\nC. She is washing dishes\nD. She is walking",
+    "answer": "B. She is dancing and singing",
+    "dim": "action"
+  },
+  {
+    "video_id": "1098982673",
+    "question": "In the video, what actions is the woman involved in?\nA. Cooking\nB. Jumping\nC. Dancing and singing\nD. Doing laundry",
+    "answer": "C. Dancing and singing",
+    "dim": "action"
+  },
+  {
+    "video_id": "1098982673",
+    "question": "What is the speed of the video?\nA. normal speed\nB. slow motion\nC. fast forward\nD. reverse",
+    "answer": "A. normal speed",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1098982673",
+    "question": "How fast is the video playing?\nA. 2x speed\nB. 1x speed\nC. 10x speed\nD. 0.5x speed",
+    "answer": "B. 1x speed",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1098982673",
+    "question": "Which speed setting does the video appear to be at?\nA. fluctuating speed\nB. real-time speed\nC. decelerated speed\nD. accelerated speed",
+    "answer": "B. real-time speed",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1098982673",
+    "question": "In what pace is the video running?\nA. rapid pace\nB. leisure pace\nC. standard pace\nD. sporadic pace",
+    "answer": "C. standard pace",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1098982673",
+    "question": "What is the tempo of the video?\nA. erratic tempo\nB. moderate tempo\nC. brisk tempo\nD. sluggish tempo",
+    "answer": "B. moderate tempo",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1111657885",
+    "question": "What are the people doing?\nA. skiing\nB. ice skating\nC. swimming",
+    "answer": "B. ice skating",
+    "dim": "action"
+  },
+  {
+    "video_id": "1111657885",
+    "question": "What sport are the people engaged in?\nA. tennis\nB. soccer\nC. ice skating",
+    "answer": "C. ice skating",
+    "dim": "action"
+  },
+  {
+    "video_id": "1111657885",
+    "question": "What activity can be observed in the video?\nA. dancing\nB. painting\nC. ice skating",
+    "answer": "C. ice skating",
+    "dim": "action"
+  },
+  {
+    "video_id": "1111657885",
+    "question": "Which action are the people performing?\nA. ice skating\nB. playing guitar\nC. playing basketball",
+    "answer": "A. ice skating",
+    "dim": "action"
+  },
+  {
+    "video_id": "1111657885",
+    "question": "What is the action being performed by the individuals?\nA. ice skating\nB. yoga\nC. running",
+    "answer": "A. ice skating",
+    "dim": "action"
+  },
+  {
+    "video_id": "1111657885",
+    "question": "What is the tempo of the video?\nA. rapid pace\nB. slow motion\nC. normal speed",
+    "answer": "B. slow motion",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1111657885",
+    "question": "How is the entire video presented?\nA. pause\nB. fast forward\nC. slow motion",
+    "answer": "C. slow motion",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1111657885",
+    "question": "In which speed mode is the video playing?\nA. real-time speed\nB. slow motion\nC. accelerated\nD. standing still",
+    "answer": "B. slow motion",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1111657885",
+    "question": "Which direction are the people skating?\nA. towards the camera\nB. parallel to the screen\nC. away from the camera",
+    "answer": "A. towards the camera",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1111657885",
+    "question": "In what direction are the people moving?\nA. standing still\nB. towards the camera\nC. from right to left in relation to the camera\nD. away from the camera",
+    "answer": "B. towards the camera",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1111657885",
+    "question": "How would you describe the movement of the people?\nA. gliding away from the camera\nB. gliding towards the camera\nC. gliding parallel the camera",
+    "answer": "B. gliding towards the camera",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1111657885_reverse",
+    "question": "Which direction are the people skating?\nA. towards the camera\nB. parallel to the screen\nC. away from the camera",
+    "answer": "C. away from the camera",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1111657885_reverse",
+    "question": "In what direction are the people moving?\nA. standing still\nB. towards the camera\nC. from right to left in relation to the camera\nD. away from the camera",
+    "answer": "D. away from the camera",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1111657885_reverse",
+    "question": "How would you describe the movement of the people?\nA. gliding away from the camera\nB. gliding towards the camera\nC. gliding parallel the camera",
+    "answer": "A. gliding away from the camera",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1073873933",
+    "question": "What is happening in the video?\nA. eating\nB. fighting\nC. sleeping\nD. dancing",
+    "answer": "B. fighting",
+    "dim": "action"
+  },
+  {
+    "video_id": "1073873933",
+    "question": "What activity is the monkey engaged in?\nA. swimming\nB. running\nC. climbing\nD. fighting",
+    "answer": "D. fighting",
+    "dim": "action"
+  },
+  {
+    "video_id": "1073873933",
+    "question": "What is the main action of the monkey?\nA. reading\nB. hiding\nC. painting\nD. fighting",
+    "answer": "D. fighting",
+    "dim": "action"
+  },
+  {
+    "video_id": "1073873933",
+    "question": "Which action is depicted by the monkey?\nA. singing\nB. fighting\nC. knitting\nD. playing chess",
+    "answer": "B. fighting",
+    "dim": "action"
+  },
+  {
+    "video_id": "1073873933",
+    "question": "What activity is the monkey participating in?\nA. fishing\nB. skiing\nC. shopping\nD. fighting",
+    "answer": "D. fighting",
+    "dim": "action"
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What are the people doing?\nA. cooking\nB. sleeping\nC. dancing",
+    "answer": "C. dancing",
+    "dim": "action"
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What activity are the people engaged in?\nA. swimming\nB. dancing\nC. painting",
+    "answer": "B. dancing",
+    "dim": "action"
+  },
+  {
+    "video_id": "1089810425",
+    "question": "Which action are the people performing?\nA. singing\nB. dancing\nC. reading",
+    "answer": "B. dancing",
+    "dim": "action"
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What is the activity of the people?\nA. dancing\nB. running\nC. studying",
+    "answer": "A. dancing",
+    "dim": "action"
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What are the people participating in?\nA. dancing\nB. knitting\nC. playing football",
+    "answer": "A. dancing",
+    "dim": "action"
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What is the speed of the video?\nA. slow motion\nB. normal speed\nC. time-lapse",
+    "answer": "B. normal speed",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What is the tempo of the entire video?\nA. slow\nB. regular\nC. fast",
+    "answer": "B. regular",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What is the rate of the video?\nA. moderate speed\nB. low speed\nC. high speed",
+    "answer": "A. moderate speed",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What is the direction of the panning in the video?\nA. left to right\nB. right to left\nC. up and down\nD. circular motion",
+    "answer": "B. right to left",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1089810425",
+    "question": "What is the movement of the camera in the video?\nA. panning from right to left\nB. zooming in\nC. zooming out\nD. panning from left to right",
+    "answer": "A. panning from right to left",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1089810425",
+    "question": "Which way is the video shifting?\nA. horizontal\nB. diagonal\nC. vertical",
+    "answer": "A. horizontal",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1089810425",
+    "question": "In what direction is the camera moving?\nA. leftward\nB. upward\nC. downward\nD. rightward",
+    "answer": "A. leftward",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1089810425_reverse",
+    "question": "What is the direction of the panning in the video?\nA. left to right\nB. right to left\nC. up and down\nD. circular motion",
+    "answer": "A. left to right",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1089810425_reverse",
+    "question": "What is the movement of the camera in the video?\nA. panning from right to left\nB. zooming in\nC. zooming out\nD. panning from left to right",
+    "answer": "D. panning from left to right",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1089810425_reverse",
+    "question": "Which way is the video shifting?\nA. horizontal\nB. diagonal\nC. vertical",
+    "answer": "A. horizontal",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1089810425_reverse",
+    "question": "In what direction is the camera moving?\nA. leftward\nB. upward\nC. downward\nD. rightward",
+    "answer": "D. rightward",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1077507593",
+    "question": "What are the people doing in the video?\nA. sleeping\nB. eating\nC. dancing\nD. cooking",
+    "answer": "D. cooking",
+    "dim": "action"
+  },
+  {
+    "video_id": "1077507593",
+    "question": "Which activity can be seen in the video?\nA. painting\nB. reading\nC. cooking\nD. swimming",
+    "answer": "C. cooking",
+    "dim": "action"
+  },
+  {
+    "video_id": "1077507593",
+    "question": "What is the action being performed by the individuals?\nA. writing\nB. singing\nC. running\nD. cooking",
+    "answer": "D. cooking",
+    "dim": "action"
+  },
+  {
+    "video_id": "1077507593",
+    "question": "What can you observe the people doing in the footage?\nA. playing sports\nB. studying\nC. cooking\nD. shopping",
+    "answer": "C. cooking",
+    "dim": "action"
+  },
+  {
+    "video_id": "1077507593",
+    "question": "Which verb best describes the action of the people?\nA. sleeping\nB. cooking\nC. talking\nD. driving",
+    "answer": "B. cooking",
+    "dim": "action"
+  },
+  {
+    "video_id": "1077507593",
+    "question": "What is the speed of the video?\nA. normal speed\nB. slow motion\nC. time-lapse",
+    "answer": "B. slow motion",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1077507593",
+    "question": "What is the rate at which the events are happening in the video?\nA. gradual\nB. fast\nC. slow",
+    "answer": "C. slow",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1077507593",
+    "question": "What is the tempo of the video?\nA. slow tempo\nB. rapid tempo\nC. moderate tempo",
+    "answer": "A. slow tempo",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1077507593",
+    "question": "How would you describe the pace of the video?\nA. medium-paced\nB. quick-paced\nC. slow-paced",
+    "answer": "C. slow-paced",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1077507593",
+    "question": "Which event happens first to the skillet?\nA. Burning in fire\nB. None of both\nC. Smoking",
+    "answer": "C. Smoking",
+    "dim": "order"
+  },
+  {
+    "video_id": "1077507593",
+    "question": "What is the sequence of events for the skillet?\nA. Smoking, and then burning in fire\nB. Burning in fire, and then smoking\nC. Smoking without burning in fire",
+    "answer": "A. Smoking, and then burning in fire",
+    "dim": "order"
+  },
+  {
+    "video_id": "1077507593",
+    "question": "When does the skillet smoke?\nA. After burning in fire\nB. The skillet doesn't smoke\nC. Before burning in fire",
+    "answer": "C. Before burning in fire",
+    "dim": "order"
+  },
+  {
+    "video_id": "1077507593",
+    "question": "In what order do the events occur with the skillet?\nA. Smoking, followed by burning in fire\nB. Burning in fire, followed by smoking\nC. Both events happen simultaneously",
+    "answer": "B. Burning in fire, followed by smoking",
+    "dim": "order"
+  },
+  {
+    "video_id": "1107116885",
+    "question": "What activity is the man engaged in?\nA. swimming\nB. shooting an arrow\nC. running",
+    "answer": "B. shooting an arrow",
+    "dim": "action"
+  },
+  {
+    "video_id": "1107116885",
+    "question": "Which sport is the man participating in?\nA. soccer\nB. archery\nC. basketball",
+    "answer": "B. archery",
+    "dim": "action"
+  },
+  {
+    "video_id": "1107116885",
+    "question": "What action is being performed by the man?\nA. dancing\nB. shooting an arrow\nC. singing",
+    "answer": "B. shooting an arrow",
+    "dim": "action"
+  },
+  {
+    "video_id": "1107116885",
+    "question": "What is the man doing with the bow?\nA. throwing it away\nB. playing it like a guitar\nC. shooting an arrow",
+    "answer": "C. shooting an arrow",
+    "dim": "action"
+  },
+  {
+    "video_id": "1107116885",
+    "question": "In the given footage, what is the man involved in?\nA. cooking\nB. painting\nC. shooting an arrow",
+    "answer": "C. shooting an arrow",
+    "dim": "action"
+  },
+  {
+    "video_id": "1107116885",
+    "question": "What is the pace of the video?\nA. time-lapse\nB. accelerated speed\nC. slow motion\nD. normal speed",
+    "answer": "D. normal speed",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1107116885",
+    "question": "How fast is the video playing?\nA. at an average speed\nB. with time-lapse effect\nC. in slow motion\nD. at a rapid speed",
+    "answer": "A. at an average speed",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1107116885",
+    "question": "Which speed setting is applied to the entire video?\nA. fast-forward\nB. normal speed\nC. slow motion\nD. time-lapse",
+    "answer": "B. normal speed",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1107116885",
+    "question": "At what rate is the video playing?\nA. with a time warp\nB. slowly\nC. rapidly\nD. normally",
+    "answer": "D. normally",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1107116885",
+    "question": "What is the tempo of the video?\nA. speeded-up\nB. regular\nC. quick\nD. sluggish",
+    "answer": "B. regular",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1059718130",
+    "question": "What is the speed of the video?\nA. slow motion\nB. normal speed\nC. time-lapse\nD. stop motion",
+    "answer": "C. time-lapse",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1059718130",
+    "question": "What is the pace at which the video is playing?\nA. fast-forward\nB. slow motion\nC. real-time",
+    "answer": "A. fast-forward",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1059718130",
+    "question": "At what rate does the video progress?\nA. slow motion\nB. normal speed\nC. time-lapse\nD. reverse motion",
+    "answer": "C. time-lapse",
+    "dim": "speed"
+  },
+  {
+    "video_id": "1059718130",
+    "question": "What direction is the sun moving in?\nA. falling\nB. rising\nC. staying in one place",
+    "answer": "B. rising",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1059718130",
+    "question": "What is the direction of the sun?\nA. stationary\nB. falling\nC. rising",
+    "answer": "C. rising",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1059718130",
+    "question": "What is the primary movement of the sun?\nA. descending\nB. standing still\nC. rising",
+    "answer": "C. rising",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1059718130",
+    "question": "What is happening to the video's brightness?\nA. getting darker\nB. staying the same\nC. turning brighter",
+    "answer": "C. turning brighter",
+    "dim": "attribute_change"
+  },
+  {
+    "video_id": "1059718130",
+    "question": "How is the attribute of brightness changing?\nA. remaining stable\nB. increasing\nC. decreasing",
+    "answer": "B. increasing",
+    "dim": "attribute_change"
+  },
+  {
+    "video_id": "1059718130",
+    "question": "What transformation is occurring in the brightness of the video?\nA. remaining constant\nB. brightening\nC. dimming",
+    "answer": "B. brightening",
+    "dim": "attribute_change"
+  },
+  {
+    "video_id": "1059718130_reverse",
+    "question": "What direction is the sun moving in?\nA. setting\nB. rising\nC. staying in one place",
+    "answer": "A. setting",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1059718130_reverse",
+    "question": "What is the direction of the sun?\nA. stationary\nB. falling\nC. rising",
+    "answer": "B. falling",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1059718130_reverse",
+    "question": "What is the primary movement of the sun?\nA. descending\nB. standing still\nC. rising",
+    "answer": "A. descending",
+    "dim": "direction"
+  },
+  {
+    "video_id": "1059718130_reverse",
+    "question": "What is happening to the video's brightness?\nA. getting darker\nB. staying the same\nC. turning brighter",
+    "answer": "A. getting darker",
+    "dim": "attribute_change"
+  }
+]
